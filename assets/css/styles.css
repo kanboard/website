@@ -1,0 +1,108 @@
+body {
+    color: #555;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 110%;
+    margin: 0 auto;
+    max-width: 800px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+a {
+    color: #3366CC;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+a:focus {
+    outline: 0;
+    color: red;
+    text-decoration: none;
+    border: 1px dotted #aaa;
+}
+
+a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: #444;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1.8em;
+    border-bottom: 1px dotted #ccc;
+}
+
+h1 a,
+h2 a {
+    color: #444;
+    text-decoration: none;
+}
+
+h2 a:hover {
+    color: #666;
+}
+
+li {
+    margin-bottom: 10px;
+    line-height: 18px;
+}
+
+li ul {
+    margin-top: 5px;
+}
+
+dt {
+    margin-bottom: 8px;
+    color: #555;
+    font-size: 1.3em;
+}
+
+dt a {
+    color: #3366CC;
+    font-weight: 400;
+}
+
+dt a:hover,
+dt a:focus {
+    color: #555;
+    text-decoration: none;
+}
+
+dd {
+    margin-bottom: 15px;
+    border-left: 3px solid #eee;
+    padding-left: 10px;
+    line-height: 1.4em;
+    color: #999;
+    font-weight: 300;
+}
+
+pre {
+    padding: 10px;
+    overflow: auto;
+    line-height: 1.4em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: #fcfcfc;
+    color: #666;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    border: 1px solid #000;
+}
+
+#plugins dt {
+    font-size: 1.0em;
+}

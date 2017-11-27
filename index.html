@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Kanban Project Management Software - Kanboard</title>
+        <link rel="icon" type="images/png" href="/assets/img/favicon.png">
+        <link rel="apple-touch-icon" href="/assets/img/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/touch-icon-ipad-retina.png">
+        <link rel="stylesheet" href="/assets/css/styles.css">
+        <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="https://github.com/kanboard/kanboard/releases.atom">
+    </head>
+    <body>
+        <section>
+            <h1>Kanboard</h1>
+            <p><em>Kanboard is a free and open source kanban project management software.</em></p>
+            <figure>
+                <img src="/assets/img/board.png" alt="Kanban Board" title="Kanban Board">
+            </figure>
+            <ul>
+                <li>Visualize your work</li>
+                <li>Limit your work in progress to <strong>focus on your goal</strong></li>
+                <li>Drag and drop tasks to manage your project</li>
+                <li>Self-hosted</li>
+                <li>Super simple installation</li>
+            </ul>
+        </section>
+
+        <nav>
+            <hr>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#plugins">Plugins</a></li>
+                <li><a href="#donations">Donations</a></li>
+                <li><a href="https://github.com/kanboard/kanboard/releases">Latest Releases</a></li>
+                <li><a href="https://github.com/kanboard/kanboard/blob/master/doc/en_US/index.markdown">Documentation</a></li>
+                <li><a href="https://github.com/kanboard/forum/issues">Forum</a></li>
+                <li><a href="https://github.com/kanboard/kanboard/issues">Bug Tracker</a></li>
+                <li><a href="https://github.com/kanboard/kanboard/releases.atom">RSS feed</a></li>
+                <li><a href="https://twitter.com/KanboardApp">Twitter</a></li>
+                <li><a href="ircs://chat.freenode.net:6697/#kanboard">#kanboard on IRC</a></li>
+            </ul>
+        </nav>
+
+        <section id="features">
+            <h1>Features</h1>
+            <dl>
+                <dt>Simple</dt>
+                <dd>
+                    There is no fancy user interface, Kanboard focus on simplicity and minimalism.
+                    The number of features is voluntary limited.
+                </dd>
+                <dt>Visual and clear overview of your tasks</dt>
+                <dd>
+                    The Kanban board is the best way to know the current status of a project because it's visual.
+                    It's very easy to understand, there is nothing to explain and no training is required.
+                </dd>
+                <dt>Drag and drop tasks between columns easily</dt>
+                <dd>
+                    <img src="/assets/img/drag-and-drop.png" alt="Drag and Drop Tasks" title="Drag and Drop Tasks">
+                    <p>You can add, rename and remove columns at any time to adapt the board to your project.</p>
+                </dd>
+                <dt>Limit your work in progress to be more efficient</dt>
+                <dd>
+                    <img src="/assets/img/task-limit.png" alt="Task Limit" title="Task Limit">
+                    <p>Avoid multitasking to stay focused on your work. When you are over the limit, the column is highlighted.</p>
+                </dd>
+                <dt>Search and filter tasks</dt>
+                <dd>
+                    <img src="/assets/img/search.png" alt="Search and Filters" title="Search and Filters">
+                    <p>
+                        Kanboard have a very simple query language that offers the flexibility to find tasks in no time.
+                        Apply dynamically custom filters on the board to find what you need. Search by assignees, description, categories, due date, etc.
+                    </p>
+                </dd>
+                <dt>Tasks, subtasks, attachments and comments</dt>
+                <dd>
+                    <ul>
+                        <li>Break down a task into sub-tasks, estimate the time or the complexity.</li>
+                        <li>Describe your task by using the Markdown syntax.</li>
+                        <li>Add comments, documents, change the color, the category, the assignee, the due date.</li>
+                        <li>Move or duplicate your tasks across projects with one click.</li>
+                    </ul>
+                </dd>
+                <dt>Automated actions</dt>
+                <dd>
+                    <img src="/assets/img/automatic-actions.png" alt="Automatic Actions" title="Automatic Actions">
+                    <p>
+                        Don't repeat yourself!, Automate your workflow with automated actions.
+                        Stop doing again and again the same thing manually.
+                        Change automatically the assignee, colors, categories and almost anything based on events.
+                    </p>
+                </dd>
+                <dt>Translated in 30+ languages</dt>
+                <dd>
+                    Thanks to the different contributors, Kanboard is translated in Bahasa Indonesia, Bosnian,
+                    Brazilian Portuguese, Chinese, Chinese (Taiwan), Czech, Danish, Dutch, English, Finnish,
+                    French, German, Greek, Hungarian, Italian, Japanese, Korean, Malay, Norwegian, Polish,
+                    Portuguese, Romanian, Russian, Serbian, Spanish, Swedish, Thai, Turkish, Vietnamese.
+                </dd>
+                <dt>Multiple Authentication Backends</dt>
+                <dd>
+                    Conenct Kanboard ot your LDAP/Active Directory server or use any OAuth2 provider (Google, GitHub, GitLab...).
+                </dd>
+                <dt>Free and Open Source software</dt>
+                <dd>
+                    Kanboard is distributed under <strong>the permissive MIT License</strong>.
+                    The software is mainly developed by Frédéric Guillot, but more than 190+ people have contributed!
+                </dd>
+            </dl>
+        </section>
+
+        <section id="donations">
+            <h1>Donations</h1>
+            <p>If you are using Kanboard every day at your company, you may consider to make a small donation.</p>
+
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="RCQNQETNVHRJ4">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            </form>
+        </section>
+
+        <section>
+            <h1>Vulnerability Disclosure</h1>
+            <p>
+                If you have discovered a security issue in Kanboard, please report the problem to <a href="mailto:security@kanboard.net">security@kanboard.net</a>.
+            </p>
+
+            <ul>
+                <li>Please, do not disclose publicly a vulnerability before a fix is available</li>
+                <li>Send all the necessary information to reproduce the problem in your message</li>
+                <li>Encrypt your email by using this GPG key: <a href="/gpg/233EB58F67369B1C0F3D52C8748E4EFA8B940533.asc">233EB58F67369B1C0F3D52C8748E4EFA8B940533.asc</a></li>
+            </ul>
+
+            <p>You can also download the public key from GnuPG servers:</p>
+
+            <pre>gpg --keyserver hkp://keys.gnupg.net --recv-keys '233E B58F 6736 9B1C 0F3D  52C8 748E 4EFA 8B94 0533'</pre>
+        </section>
+
+        <section id="plugins">
+            <h1>Plugins</h1>
+            <p>You can extends the features of Kanboard by installing some extensions:</p>
+            <dl>
+                <dt><a href="https://github.com/dmorlitz/kanboard-TaskAssignCategory">Assign category when moving cards to specified column</a></dt>
+                <dd>
+                    <p>Adds an automatic action which allows you to set the category on a card when moved to a specified column.</p>
+                    <p><em>By David Morlitz</em></p>
+                </dd>
+                <dt><a href="https://github.com/dmorlitz/kanboard-TaskAssignDateToUndated">Assign date to undated cards</a></dt>
+                <dd>
+                    <p>Adds an automatic action which allows you to set a due date on undated cards to allow card to appear on calendar and ICS feed.</p>
+                    <p><em>By David Morlitz</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-beanstalk">Beanstalk</a></dt>
+                <dd>
+                    <p>Use Beanstalkd to process background jobs.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-chat">Chat</a></dt>
+                <dd>
+                    <p>Minimalist chat for small teams.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-s3">Amazon S3 Storage</a></dt>
+                <dd>
+                    <p>This plugin stores uploaded files to Amazon S3 instead of storing files on the local file system.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-bitbucket-webhook">Bitbucket Webhook</a></dt>
+                <dd>
+                    <p>Bind Bitbucket webhook events to Kanboard automatic actions.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-budget">Budget</a></dt>
+                <dd>
+                    <p>Budget planning based on sub-task time tracking: create budget lines, See the expenses based on sub-task time tracking, Manage user hourly rates.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-calendar">Calendar</a></dt>
+                <dd>
+                    <p>Embedded calendar into Kanboard.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-client-certificate">Client SSL Certificate Authentication</a></dt>
+                <dd>
+                    <p>Use SSL client certificate for Kanboard authentication.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/BlueTeck/kanboard_plugin_coverimage">Coverimage</a></dt>
+                <dd>
+                    <p>This plugin adds a coverimage function to the board.</p>
+                    <p><em>By BlueTeck</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-database-storage">Database Storage</a></dt>
+                <dd>
+                    <p>This plugin stores uploaded files into the database instead of using the local filesystem.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/dmorlitz/kanboard-duedate">Due Date sorting</a></dt>
+                <dd>
+                    <p>Allow boards to be sorted by card due date.</p>
+                    <p><em>By David Morlitz</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-gantt">Gantt</a></dt>
+                <dd>
+                    <p>Gantt charts for tasks and projects.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-github-auth">GitHub Authentication</a></dt>
+                <dd>
+                    <p>Use GitHub as authentication provider.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-github-frontend">GitHub Frontend</a></dt>
+                <dd>
+                    <p>Use Kanboard to manage GitHub Issues.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-github-webhook">GitHub Webhook</a></dt>
+                <dd>
+                    <p>Connect GitHub webhook events to Kanboard automatic actions.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-gitlab-auth">GitLab Authentication</a></dt>
+                <dd>
+                    <p>Use GitLab as authentication provider.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-gitlab-webhook">GitLab Webhook</a></dt>
+                <dd>
+                    <p>Connect GitLab webhook events to Kanboard automatic actions.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-gravatar">Gravatar</a></dt>
+                <dd>
+                    <p>Use Gravatar to display user avatars images.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-gogs-webhook">Gogs Webhook</a></dt>
+                <dd>
+                    <p>Connect Gogs webhook events to Kanboard automatic actions.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-google-auth">Google Authentication</a></dt>
+                <dd>
+                    <p>Use Google as authentication provider.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-hipchat">Hipchat</a></dt>
+                <dd>
+                    <p>Receive individual or project notifications on Hipchat.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-jabber">Jabber</a></dt>
+                <dd>
+                    <p>Receive individual or project notifications on Jabber.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-mailgun">Mailgun</a></dt>
+                <dd>
+                    <p>Use the Mailgun API to send emails and create tasks from emails.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-mattermost">Mattermost</a></dt>
+                <dd>
+                    <p>Send Kanboard notifications to Mattermost (self-hosted Slack clone).</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/BlueTeck/kanboard_plugin_metadata">Metadata Manager</a></dt>
+                <dd>
+                    <p>This plugin adds a GUI to manage custom metadata for task, projects and user.</p>
+                    <p><em>By BlueTeck</em></p>
+                </dd>
+                <dt><a href="https://github.com/oliviermaridat/kanboard-milestone-plugin">Milestone</a></dt>
+                <dd>
+                    <p>Add a section for milestones to show their related tasks.</p>
+                    <p><em>By Olivier Maridat</em></p>
+                </dd>
+                <dt><a href="https://github.com/dmorlitz/kanboard-TaskMoveOnDueDate">Move cards to specific columns when due date passed</a></dt>
+                <dd>
+                    <p>Adds an automatic action which allows you to move cards to a specific column when the due date has passed.</p>
+                    <p><em>By David Morlitz</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-oauth2">OAuth2</a></dt>
+                <dd>
+                    <p>Generic OAuth2 plugin.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/BlueTeck/kanboard_plugin_overwrite_translation">Overwrite Translation</a></dt>
+                <dd>
+                    <p>Overwrite default translations without touching kanboard files.</p>
+                    <p><em>By BlueTeck</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-postmark">Postmark</a></dt>
+                <dd>
+                    <p>Use the Postmark API to send emails and create tasks from emails.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/dmorlitz/kanboard-TaskPushDate">Push out due date on cards when moving to specific columns</a></dt>
+                <dd>
+                    <p>Adds an automatic action which allows you to push the due date a specified number of days when moving cards to a specific column.</p>
+                    <p><em>By David Morlitz</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-rabbitmq">RabbitMQ</a></dt>
+                <dd>
+                    <p>This plugin use RabbitMQ to process background jobs for Kanboard.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/xavividal/kanboard-plugin-relationgraph">Relation Graph</a></dt>
+                <dd>
+                    <p>Show relations between tasks using a graph library.</p>
+                    <p><em>By Xavier Vidal</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-reverse-proxy-ldap">Reverse-Proxy Authentication with LDAP user provider</a></dt>
+                <dd>
+                    <p>Authenticate users with Reverse-Proxy method but populate user information from the LDAP directory.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-rocketchat">RocketChat</a></dt>
+                <dd>
+                    <p>Receive individual or project notifications on RocketChat.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-registration">Self-Registration</a></dt>
+                <dd>
+                    <p>Self-registration plugin to allow people to sign up on Kanboard.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-sendgrid">Sendgrid</a></dt>
+                <dd>
+                    <p>Use the Sendgrid API to send emails and create tasks from emails.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-slack">Slack</a></dt>
+                <dd>
+                    <p>Receive individual or project notifications on Slack.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-sms-2fa">SMS Two-Factor Authentication</a></dt>
+                <dd>
+                    <p>Use SMS text messages for two-factor authentication.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-subtask-forecast">Subtask Forecast</a></dt>
+                <dd>
+                    <p>This plugin display estimates of subtasks in the user calendar. The user timetable must be filled to see time slots in the calendar.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/eSkiSo/Subtaskdate">Subtask Due Date</a></dt>
+                <dd>
+                    <p>This plugin adds a Due Date to subtasks.</p>
+                    <p><em>By Manuel Raposo</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-task-board-date">Task Board Date</a></dt>
+                <dd>
+                    <p>Add a new date field for tasks to define the visibility on the board and dashboard.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/kanboard/plugin-timetable">Timetable</a></dt>
+                <dd>
+                    <p>Working timetable management for users.</p>
+                    <p><em>By Frédéric Guillot</em></p>
+                </dd>
+                <dt><a href="https://github.com/stinnux/kanboard-Timetrackingeditor">Time Tracking Editor</a></dt>
+                <dd>
+                    <p>Manually Add and Edit Time Tracking entries, add comments and select billable/not billable to time tracking entries. Export Time Tracking Entries as HTML.</p>
+                    <p><em>By Stinnux</em></p>
+                </dd>
+                <dt><a href="https://github.com/mrozigor/kanboard-add-time-interval-plugin">Time Interval Button</a></dt>
+                <dd>
+                    <p>Simple plugins which adds button to incrementally change time spent on task.</p>
+                    <p><em>By Igor Mroz</em></p>
+                </dd>
+                <dt><a href="https://github.com/EpocDotFr/kanboard-wunderlist">Wunderlist</a></dt>
+                <dd>
+                    <p>This plugin allows you to import Wunderlist tasks and lists directly from the user interface of Kanboard by uploading a Wunderlist export file.</p>
+                    <p><em>By Maxime (Epoc)</em></p>
+                </dd>
+            </dl>
+        </section>
+    </body>
+</html>
