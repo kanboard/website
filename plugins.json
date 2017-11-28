@@ -31,9 +31,9 @@
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included is an action to send a notification via email to user, creator, and assignee when a due date is impending within a duration.",
-        "homepage": "https:\/\/github.com\/creecros\/SendTaskCreator",
-        "readme": "https:\/\/raw.githubusercontent.com\/creecros\/SendTaskCreator\/master\/README.md",
-        "download": "https:\/\/github.com\/creecros\/SendTaskCreator\/archive\/0.0.2.zip",
+        "homepage": "https:\/\/github.com\/creecros\/SendEmailCreator",
+        "readme": "https:\/\/raw.githubusercontent.com\/creecros\/SendEmailCreator\/master\/README.md",
+        "download": "https:\/\/github.com\/creecros\/SendEmailCreator\/archive\/0.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46",
         "description_markdown": "<p>Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included is an action to send a notification via email to user, creator, and assignee when a due date is impending within a duration.<\/p>"
