@@ -25,6 +25,19 @@
         "compatible_version": ">=1.0.44",
         "description_markdown": "<p>Adds an automatic action which allows you to set a due date on undated cards to allow card to appear on calendar and ICS feed<\/p>"
     },
+    "autoemailactions": {
+        "title": "Auto Email Extended Actions",
+        "version": "0.0.2",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included is an action to send a notification via email to user, creator, and assignee when a due date is impending within a duration.",
+        "homepage": "https:\/\/github.com\/creecros\/SendEmailCreator",
+        "readme": "https:\/\/raw.githubusercontent.com\/creecros\/SendEmailCreator\/master\/README.md",
+        "download": "https:\/\/github.com\/creecros\/SendEmailCreator\/releases\/download\/0.0.2\/SendEmailCreator-0.0.2.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.46",
+        "description_markdown": "<p>Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included is an action to send a notification via email to user, creator, and assignee when a due date is impending within a duration.<\/p>"
+    },
     "beanstalk": {
         "title": "Beanstalk",
         "version": "1.0.0",
