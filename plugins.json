@@ -587,4 +587,16 @@
         "remote_install": true,
         "compatible_version": ">=1.0.35"
     }
+    "comment-tooltip": {
+        "title": "Comment Tooltip",
+        "version": "0.0.1",
+        "author": "Enrico Frigo",
+        "license": "MIT",
+        "description": "Show task's comments as tooltip as in older kanboard version.",
+        "homepage": "https://github.com/enricofrigo/kanboard/tree/master/plugin-comment-tooltip",
+        "readme": "https://github.com/enricofrigo/kanboard/blob/master/plugin-comment-tooltip/CommentTooltip/README.md",
+        "download": "https://github.com/enricofrigo/kanboard/raw/master/plugin-comment-tooltip/releases/download/v1.0.0/CommentTooltip.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.35"
+    }
 }
