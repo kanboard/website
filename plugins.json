@@ -35,6 +35,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
+    "autosubtasks": {
+        "title": "Auto Subtask Creation",
+        "version": "0.0.1",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Automatic action to create subtasks when a task is created or moves column.",
+        "homepage": "https://github.com/creecros/AutoSubtasks",
+        "readme": "https://raw.githubusercontent.com/creecros/AutoSubtasks/master/README.md",
+        "download": "https://github.com/creecros/AutoSubtasks/releases/download/0.0.1/AutoSubtasks-0.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.46"
+    },
     "beanstalk": {
         "title": "Beanstalk",
         "version": "1.0.0",
