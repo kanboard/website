@@ -505,15 +505,15 @@
     },
     "sms-2fa": {
         "title": "SMS Two-Factor Authentication",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Use SMS text messages for two-factor authentication.",
         "homepage": "https://github.com/kanboard/plugin-sms-2fa",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-sms-2fa/master/README.md",
-        "download": "https://github.com/kanboard/plugin-sms-2fa/releases/download/v1.0.4/SmsTwoFactor-1.0.4.zip",
+        "download": "https://github.com/kanboard/plugin-sms-2fa/releases/download/v1.0.5/SmsTwoFactor-1.0.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.41"
+        "compatible_version": ">=1.2.0"
     },
     "subtask-forecast": {
         "title": "Subtask Forecast",
