@@ -125,3 +125,10 @@ img {
 #plugins dt {
     font-size: 1.0em;
 }
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
