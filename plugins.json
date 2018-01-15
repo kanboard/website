@@ -311,6 +311,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "themeplus-gray": {
+        "title": "KB Themeplus Gray",
+        "version": "0.0.1",
+        "author": "Décio Benicio",
+        "license": "MIT",
+        "description": "Modern and responsive theme for kanboard.",
+        "homepage": "https://github.com/deciobenicio/kb-themeplus-stgray",
+        "readme": "https://raw.githubusercontent.com/deciobenicio/kb-themeplus-stgray/master/README.md",
+        "download": "https://github.com/deciobenicio/kb-themeplus-stgray/archive/master.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.1.0"
+    },
     "mailgun": {
         "title": "Mailgun",
         "version": "1.0.9",
