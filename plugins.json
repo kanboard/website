@@ -299,6 +299,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "instantactions": {
+        "title": "Instant Actions for Kanboard Tasks",
+        "version": "1.0.0",
+        "author": "Jens Heuschkel",
+        "license": "MIT",
+        "description": "Add buttons to tasks in board view for edit, delete and close them.",
+        "homepage": "https://github.com/juehv/kanboard-InstantActions",
+        "readme": "https://github.com/juehv/kanboard-InstantActions/blob/master/README.md",
+        "download": "https://github.com/juehv/kanboard-InstantActions/archive/v1.0.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.1.0"
+    },
     "jabber": {
         "title": "Jabber",
         "version": "1.0.7",
