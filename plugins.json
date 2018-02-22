@@ -165,7 +165,7 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_coverimage/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_coverimage/releases/download/1.0.38.1/Coverimage.zip",
         "remote_install": true,
-        "compatible_version": "1.0.38"
+        "compatible_version": ">=1.0.38"
     },
     "duedate": {
         "title": "Due Date sorting",
@@ -357,7 +357,7 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_metadata/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_metadata/releases/download/1.0.33.2/Metadata.zip",
         "remote_install": true,
-        "compatible_version": "1.0.33"
+        "compatible_version": ">=1.0.33"
     },
     "milestone": {
         "title": "Milestone",
@@ -405,7 +405,7 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_overwrite_translation/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_overwrite_translation/releases/download/1.0.33.1/Overwrite_translation.zip",
         "remote_install": true,
-        "compatible_version": "1.0.33"
+        "compatible_version": ">=1.0.33"
     },
     "postmark": {
         "title": "Postmark",
