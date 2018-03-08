@@ -23,6 +23,18 @@
         "remote_install": false,
         "compatible_version": ">=1.0.44"
     },
+    "assignduedatecolumn": {
+        "title": "Assign due date when moving cards to specified column",
+        "version": "1.0.0",
+        "author": "Jacob Charles Wilson",
+        "license": "MIT",
+        "description": "Adds an automatic action which allows you to set a due date (relative to the current time in days) on a card when moved to a specified column",
+        "homepage": "https://github.com/jclwilson/kanboard-plugin-assignduedate",
+        "readme": "https://raw.githubusercontent.com/jclwilson/kanboard-plugin-assignduedate/master/README.md",
+        "download": "https://github.com/jclwilson/kanboard-plugin-assignduedate/archive/1.0.0.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.2.0"
+    },
     "autoemailactions": {
         "title": "Auto Email Extended Actions",
         "version": "0.0.2",
