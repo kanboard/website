@@ -253,13 +253,13 @@
     },
     "gitlab-auth": {
         "title": "Gitlab Authentication",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Use Gitlab as authentication provider.",
         "homepage": "https://github.com/kanboard/plugin-gitlab-auth",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gitlab-auth/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gitlab-auth/releases/download/v1.0.4/GitlabAuth-1.0.4.zip",
+        "download": "https://github.com/kanboard/plugin-gitlab-auth/releases/download/v1.0.5/GitlabAuth-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
