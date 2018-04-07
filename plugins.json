@@ -599,6 +599,18 @@
         "remote_install": false,
         "compatible_version": "1.0.23"
     },
+    "demodara": {
+        "title": "DemoData",
+        "version": "1.0.0",
+        "author": "Bruno Deshayes",
+        "license": "MIT",
+        "description": "This plugin allows you to generate sample data so you can put Kanboard thru its paces in no time.",
+        "homepage": "https://github.com/bdeshayes/Kanboard-plugin-DemoData",
+        "readme": "https://github.com/bdeshayes/Kanboard-plugin-DemoData/blob/master/README.md",
+        "download": "https://github.com/bdeshayes/Kanboard-plugin-DemoData/releases/tag/v1.0.0",
+        "remote_install": true,
+        "compatible_version": "1.0.23"
+    },
     "timetrackingeditor": {
         "title": "Time Tracking Editor",
         "version": "1.0.14",
