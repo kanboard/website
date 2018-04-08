@@ -191,6 +191,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.38"
     },
+    "demodata": {
+        "title": "Demo Data Generator",
+        "version": "1.0.0",
+        "author": "Bruno Deshayes",
+        "license": "MIT",
+        "description": "Evaluate Kanboard straight away with some data",
+        "homepage": "https://github.com/bdeshayes/Kanboard-plugin-DemoData",
+        "readme": "https://github.com/bdeshayes/Kanboard-plugin-DemoData/blob/master/README.md",
+        "download": "https://github.com/bdeshayes/Kanboard-plugin-DemoData/archive/master.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.0.44"
+    },
     "duedate": {
         "title": "Due Date sorting",
         "version": "1.0.0",
