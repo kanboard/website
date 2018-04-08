@@ -122,8 +122,64 @@ img {
     border: 1px solid #000;
 }
 
+input[type="email"] {
+    border: 1px solid #ccc;
+    padding: 3px;
+    height: 22px;
+    width: 250px;
+    font-size: 99%;
+    margin-bottom: 15px;
+}
+
+input[type="email"]:focus {
+    color: #000;
+    border-color: rgba(82, 168, 236, 0.8);
+    outline: 0;
+    box-shadow: 0 0 8px rgba(82, 168, 236, 0.6);
+}
+
+.btn {
+    -webkit-appearance: none;
+    font-size: 0.95em;
+    display: inline-block;
+    color: #fff;
+    border: 1px solid #3079ed;
+    background: #4d90fe;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.btn:hover,
+.btn:focus {
+    border-color: #2f5bb7;
+    background: #357ae8;
+    color: #fff;
+}
+
 #plugins dt {
     font-size: 1.0em;
+}
+
+#newsletter form {
+    border: 1px solid #ccc;
+    background: #FAFAFA;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#newsletter h3 {
+    color: #666;
+    font-size: 1.4em;
+    text-decoration: none;
+    margin: 0 0 15px;
+}
+
+#newsletter p {
+    margin: 0;
+    color: #bbb;
 }
 
 footer {
