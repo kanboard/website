@@ -37,7 +37,7 @@
     },
     "autoemailactions": {
         "title": "Auto Email Extended Actions",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included is are actions to send a notification via email when a task or subtask due date is impending within a duration or overdue.",
