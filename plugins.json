@@ -59,7 +59,6 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
-
     "commentonly": {
         "title": "Comment Only Resctrictions for Project Viewers",
         "version": "0.0.1",
