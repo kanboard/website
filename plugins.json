@@ -59,6 +59,7 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
+
     "commentonly": {
         "title": "Comment Only Resctrictions for Project Viewers",
         "version": "0.0.1",
@@ -82,6 +83,18 @@
         "download": "https://github.com/kanboard/plugin-beanstalk/releases/download/v1.0.0/Beanstalk-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.32"
+    },
+    "bigboard": {
+        "title": "Bigboard",
+        "version": "1.0.2",
+        "author": "Stinnux",
+        "license": "MIT",
+        "description": "A Kanboard that can display multiple projects.",
+        "homepage": "https://github.com/stinnux/kanboard-bigboard",
+        "readme": "https://raw.githubusercontent.com/stinnux/kanboard-bigboard/master/README.md",
+        "download": "https://github.com/stinnux/kanboard-bigboard/releases/download/1.0.2/Bigboard-1.0.2.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.1.22"
     },
     "broadcast": {
         "title": "Broadcast Message",
@@ -601,15 +614,15 @@
     },
     "timetrackingeditor": {
         "title": "Time Tracking Editor",
-        "version": "1.0.14",
+        "version": "1.0.17",
         "author": "Stinnux",
         "license": "MIT",
         "description": "Manually Add and Edit Time Tracking entries, add comments and select billable/not billable to time tracking entries. Export Time Tracking Entries as HTML",
         "homepage": "https://github.com/stinnux/kanboard-Timetrackingeditor",
         "readme": "https://raw.githubusercontent.com/stinnux/kanboard-Timetrackingeditor/master/README.md",
-        "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.14/Timetrackingeditor-1.0.14.zip",
+        "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.17/Timetrackingeditor-1.0.17.zip",
         "remote_install": true,
-        "compatible_version": "1.0.38"
+        "compatible_version": ">=1.1.22"
     },
     "subtaskdate": {
         "title": "Subtask Due Date",
