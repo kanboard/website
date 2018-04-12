@@ -337,13 +337,13 @@
     },
     "jabber": {
         "title": "Jabber",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Receive individual or project notifications on Jabber.",
         "homepage": "https://github.com/kanboard/plugin-jabber",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-jabber/master/README.md",
-        "download": "https://github.com/kanboard/plugin-jabber/releases/download/v1.0.7/Jabber-1.0.7.zip",
+        "download": "https://github.com/kanboard/plugin-jabber/releases/download/v1.0.8/Jabber-1.0.8.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
