@@ -133,13 +133,13 @@
     },
     "bitbucket-webhook": {
         "title": "Bitbucket Webhook",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Bind Bitbucket webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-bitbucket-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-bitbucket-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-bitbucket-webhook/releases/download/v1.0.4/BitbucketWebhook-1.0.4.zip",
+        "download": "https://github.com/kanboard/plugin-bitbucket-webhook/releases/download/v1.0.5/BitbucketWebhook-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -253,13 +253,13 @@
     },
     "github-webhook": {
         "title": "Github Webhook",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Connect Github webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-github-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-github-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-github-webhook/releases/download/v1.0.5/GithubWebhook-1.0.5.zip",
+        "download": "https://github.com/kanboard/plugin-github-webhook/releases/download/v1.0.6/GithubWebhook-1.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -277,13 +277,13 @@
     },
     "gitlab-webhook": {
         "title": "Gitlab Webhook",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Connect Gitlab webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-gitlab-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gitlab-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gitlab-webhook/releases/download/v1.0.5/GitlabWebhook-1.0.5.zip",
+        "download": "https://github.com/kanboard/plugin-gitlab-webhook/releases/download/v1.0.6/GitlabWebhook-1.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -301,13 +301,13 @@
     },
     "gogs-webhook": {
         "title": "Gogs Webhook",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Connect Gogs webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-gogs-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gogs-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gogs-webhook/releases/download/v1.0.4/GogsWebhook-1.0.4.zip",
+        "download": "https://github.com/kanboard/plugin-gogs-webhook/releases/download/v1.0.5/GogsWebhook-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
