@@ -81,7 +81,7 @@
         "readme": "https://raw.githubusercontent.com/creecros/Group_assign/master/README.md",
         "download": "https://github.com/creecros/Group_assign/releases/download/0.0.1/Group_assign-0.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.46"
+        "compatible_version": ">=1.1.0"
     },
     "beanstalk": {
         "title": "Beanstalk",
