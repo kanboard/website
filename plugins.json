@@ -227,6 +227,18 @@
         "remote_install": false,
         "compatible_version": ">=1.0.44"
     },
+    "extendedMail": {
+        "title": "extendedMail",
+        "version": "0.8.0",
+        "author": "Rens Sikma",
+        "license": "MIT",
+        "description": "Adds extra functionality to kanboard comment by email",
+        "homepage": "https://github.com/atcomputing/kanboard-ExtendedMail",
+        "readme": "https://github.com/atcomputing/kanboard-ExtendedMail/raw/master/README.md",
+        "download": "https://github.com/atcomputing/kanboard-ExtendedMail/releases/download/v0.8/ExtendedMail-0.8.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.2"
+    },
     "gantt": {
         "title": "Gantt",
         "version": "1.0.3",
