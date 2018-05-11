@@ -37,13 +37,13 @@
     },
     "autoemailactions": {
         "title": "Auto Email Extended Actions",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "author": "Craig Crosby",
         "license": "MIT",
-        "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included is an action to send a notification via email to user, creator, and assignee when a due date is impending within a duration.",
+        "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included are actions to send a notification via email when a task or subtask due date is impending within a duration or overdue.",
         "homepage": "https://github.com/creecros/SendEmailCreator",
         "readme": "https://raw.githubusercontent.com/creecros/SendEmailCreator/master/README.md",
-        "download": "https://github.com/creecros/SendEmailCreator/releases/download/0.0.2/SendEmailCreator-0.0.2.zip",
+        "download": "https://github.com/creecros/SendEmailCreator/releases/download/0.0.3/SendEmailCreator-0.0.3.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
@@ -71,6 +71,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
+    "group_assign": {
+        "title": "Group Assign",
+        "version": "0.0.1",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Add group assignment to tasks.",
+        "homepage": "https://github.com/creecros/Group_assign",
+        "readme": "https://raw.githubusercontent.com/creecros/Group_assign/master/README.md",
+        "download": "https://github.com/creecros/Group_assign/releases/download/0.0.1/Group_assign-0.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.1.0"
+    },
     "beanstalk": {
         "title": "Beanstalk",
         "version": "1.0.0",
@@ -86,6 +98,7 @@
     "bigboard": {
         "title": "Bigboard",
         "version": "1.0.3",
+        "version": "1.0.2",
         "author": "Stinnux",
         "license": "MIT",
         "description": "A Kanboard that can display multiple projects.",
@@ -97,27 +110,27 @@
     },
     "broadcast": {
         "title": "Broadcast Message",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Broadcast messages to all users via the application or via email.",
         "homepage": "https://github.com/kanboard/plugin-broadcast",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-broadcast/master/README.md",
-        "download": "https://github.com/kanboard/plugin-broadcast/releases/download/v1.0.0/Broadcast-1.0.0.zip",
+        "download": "https://github.com/kanboard/plugin-broadcast/releases/download/v1.0.1/Broadcast-1.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.1.0"
+        "compatible_version": ">=1.2.3"
     },
     "chat": {
         "title": "Chat",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Minimalist chat for small teams.",
         "homepage": "https://github.com/kanboard/plugin-chat",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-chat/master/README.md",
-        "download": "https://github.com/kanboard/plugin-chat/releases/download/v1.0.2/Chat-1.0.2.zip",
+        "download": "https://github.com/kanboard/plugin-chat/releases/download/v1.0.3/Chat-1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.40"
+        "compatible_version": ">=1.2.3"
     },
     "s3": {
         "title": "Amazon S3 Storage",
@@ -133,13 +146,13 @@
     },
     "bitbucket-webhook": {
         "title": "Bitbucket Webhook",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Bind Bitbucket webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-bitbucket-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-bitbucket-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-bitbucket-webhook/releases/download/v1.0.4/BitbucketWebhook-1.0.4.zip",
+        "download": "https://github.com/kanboard/plugin-bitbucket-webhook/releases/download/v1.0.5/BitbucketWebhook-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -215,15 +228,27 @@
         "remote_install": false,
         "compatible_version": ">=1.0.44"
     },
+    "extendedMail": {
+        "title": "extendedMail",
+        "version": "0.8.0",
+        "author": "Rens Sikma",
+        "license": "MIT",
+        "description": "Adds extra functionality to kanboard comment by email",
+        "homepage": "https://github.com/atcomputing/kanboard-ExtendedMail",
+        "readme": "https://github.com/atcomputing/kanboard-ExtendedMail/raw/master/README.md",
+        "download": "https://github.com/atcomputing/kanboard-ExtendedMail/releases/download/v0.8/ExtendedMail-0.8.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.2"
+    },
     "gantt": {
         "title": "Gantt",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Gantt charts for tasks and projects.",
         "homepage": "https://github.com/kanboard/plugin-gantt",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gantt/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gantt/releases/download/v1.0.2/Gantt-1.0.2.zip",
+        "download": "https://github.com/kanboard/plugin-gantt/releases/download/v1.0.3/Gantt-1.0.3.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.43"
     },
@@ -253,13 +278,13 @@
     },
     "github-webhook": {
         "title": "Github Webhook",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Connect Github webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-github-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-github-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-github-webhook/releases/download/v1.0.5/GithubWebhook-1.0.5.zip",
+        "download": "https://github.com/kanboard/plugin-github-webhook/releases/download/v1.0.6/GithubWebhook-1.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -277,13 +302,13 @@
     },
     "gitlab-webhook": {
         "title": "Gitlab Webhook",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Connect Gitlab webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-gitlab-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gitlab-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gitlab-webhook/releases/download/v1.0.5/GitlabWebhook-1.0.5.zip",
+        "download": "https://github.com/kanboard/plugin-gitlab-webhook/releases/download/v1.0.6/GitlabWebhook-1.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -301,13 +326,13 @@
     },
     "gogs-webhook": {
         "title": "Gogs Webhook",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Connect Gogs webhook events to Kanboard automatic actions.",
         "homepage": "https://github.com/kanboard/plugin-gogs-webhook",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gogs-webhook/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gogs-webhook/releases/download/v1.0.4/GogsWebhook-1.0.4.zip",
+        "download": "https://github.com/kanboard/plugin-gogs-webhook/releases/download/v1.0.5/GogsWebhook-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -349,13 +374,13 @@
     },
     "jabber": {
         "title": "Jabber",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Receive individual or project notifications on Jabber.",
         "homepage": "https://github.com/kanboard/plugin-jabber",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-jabber/master/README.md",
-        "download": "https://github.com/kanboard/plugin-jabber/releases/download/v1.0.7/Jabber-1.0.7.zip",
+        "download": "https://github.com/kanboard/plugin-jabber/releases/download/v1.0.8/Jabber-1.0.8.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
@@ -445,13 +470,13 @@
     },
     "postmark": {
         "title": "Postmark",
-        "version": "1.0.8",
+        "version": "1.0.9",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Use the Postmark API to send emails and create tasks from emails.",
         "homepage": "https://github.com/kanboard/plugin-postmark",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-postmark/master/README.md",
-        "download": "https://github.com/kanboard/plugin-postmark/releases/download/v1.0.8/Postmark-1.0.8.zip",
+        "download": "https://github.com/kanboard/plugin-postmark/releases/download/v1.0.9/Postmark-1.0.9.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.40"
     },
@@ -529,13 +554,13 @@
     },
     "sendgrid": {
         "title": "Sendgrid",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Use the Sendgrid API to send emails and create tasks from emails.",
         "homepage": "https://github.com/kanboard/plugin-sendgrid",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-sendgrid/master/README.md",
-        "download": "https://github.com/kanboard/plugin-sendgrid/releases/download/v1.0.7/Sendgrid-1.0.7.zip",
+        "download": "https://github.com/kanboard/plugin-sendgrid/releases/download/v1.0.8/Sendgrid-1.0.8.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.40"
     },
