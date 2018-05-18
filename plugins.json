@@ -60,14 +60,14 @@
         "compatible_version": ">=1.0.46"
     },
     "commentonly": {
-        "title": "Comment Only Resctrictions for Project Viewers",
-        "version": "0.0.1",
+        "title": "Comment Only Restrictions for Project Viewers",
+        "version": "0.0.2",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add Commenting abilities for Project Viewers.",
         "homepage": "https://github.com/creecros/opencomment",
         "readme": "https://raw.githubusercontent.com/creecros/opencomment/master/README.md",
-        "download": "https://github.com/creecros/opencomment/releases/download/0.0.1/CommentOnly-0.0.1.zip",
+        "download": "https://github.com/creecros/opencomment/releases/download/0.0.2/CommentOnly-0.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
