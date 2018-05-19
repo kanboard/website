@@ -674,7 +674,7 @@
     },
     "comment-tooltip": {
         "title": "Comment Tooltip",
-        "version": "0.0.1",
+        "version": "1.0.1",
         "author": "Enrico Frigo",
         "license": "MIT",
         "description": "Show task's comments as tooltip as in older kanboard version.",
