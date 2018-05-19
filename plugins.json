@@ -156,18 +156,6 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
-    "budget": {
-        "title": "Budget Planning",
-        "version": "1.0.9",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "\nBudget planning based on sub-task time tracking:\n\n- Create budget lines\n- See the expenses based on sub-task time tracking\n- Manage user hourly rates\n        ",
-        "homepage": "https://github.com/kanboard/plugin-budget",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-budget/master/README.md",
-        "download": "https://github.com/kanboard/plugin-budget/releases/download/v1.0.9/Budget-1.0.9.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.37"
-    },
     "calendar": {
         "title": "Calendar",
         "version": "1.1.0",
@@ -588,18 +576,6 @@
         "remote_install": true,
         "compatible_version": ">=1.2.0"
     },
-    "subtask-forecast": {
-        "title": "Subtask Forecast",
-        "version": "1.0.3",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "This plugin display estimates of subtasks in the user calendar. The user timetable must be filled to see time slots in the calendar.",
-        "homepage": "https://github.com/kanboard/plugin-subtask-forecast",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-subtask-forecast/master/README.md",
-        "download": "https://github.com/kanboard/plugin-subtask-forecast/releases/download/v1.0.3/SubtaskForecast-1.0.3.zip",
-        "remote_install": true,
-        "compatible_version": "<=1.0.37"
-    },
     "task-board-date": {
         "title": "Task Board Date",
         "version": "1.0.2",
@@ -611,18 +587,6 @@
         "download": "https://github.com/kanboard/plugin-task-board-date/releases/download/v1.0.2/TaskBoardDate-1.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.41"
-    },
-    "timetable": {
-        "title": "Timetable",
-        "version": "1.0.9",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "\n- Timetable / schedule for users\n- Display in the calendar intersects between sub-task time tracking and user schedule\n- Timetable management: weekly, daily, overtime, days off\n- The timetable is configurable for each user\n- Subtask time tracking is calculated according to the timetable\n        ",
-        "homepage": "https://github.com/kanboard/plugin-timetable",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-timetable/master/README.md",
-        "download": "https://github.com/kanboard/plugin-timetable/releases/download/v1.0.9/Timetable-1.0.9.zip",
-        "remote_install": true,
-        "compatible_version": "<=1.0.37"
     },
     "wunderlist": {
         "title": "Wunderlist",
@@ -682,7 +646,7 @@
         "readme": "https://github.com/enricofrigo/kanboard/blob/master/plugin-comment-tooltip/CommentTooltip/README.md",
         "download": "https://github.com/enricofrigo/kanboard/raw/master/plugin-comment-tooltip/releases/download/v1.0.0/CommentTooltip.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.35"
+        "compatible_version": "<=1.2.3"
     },
     "telegram": {
         "title": "Telegram",
