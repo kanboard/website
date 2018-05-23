@@ -97,16 +97,15 @@
     },
     "bigboard": {
         "title": "Bigboard",
-        "version": "1.0.3",
-        "version": "1.0.2",
+        "version": "1.0.4",
         "author": "Stinnux",
         "license": "MIT",
         "description": "A Kanboard that can display multiple projects.",
         "homepage": "https://github.com/stinnux/kanboard-bigboard",
         "readme": "https://raw.githubusercontent.com/stinnux/kanboard-bigboard/master/README.md",
-        "download": "https://github.com/stinnux/kanboard-bigboard/releases/download/1.0.3/Bigboard-1.0.3.zip",
+        "download": "https://github.com/stinnux/kanboard-bigboard/releases/download/1.0.4/Bigboard-1.0.4.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.3"
+        "compatible_version": ">=1.2.4"
     },
     "broadcast": {
         "title": "Broadcast Message",
@@ -638,13 +637,13 @@
     },
     "timetrackingeditor": {
         "title": "Time Tracking Editor",
-        "version": "1.0.20",
+        "version": "1.0.21",
         "author": "Stinnux",
         "license": "MIT",
         "description": "Manually Add and Edit Time Tracking entries, add comments and select billable/not billable to time tracking entries. Export Time Tracking Entries as HTML",
         "homepage": "https://github.com/stinnux/kanboard-Timetrackingeditor",
         "readme": "https://raw.githubusercontent.com/stinnux/kanboard-Timetrackingeditor/master/README.md",
-        "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.20/Timetrackingeditor-1.0.20.zip",
+        "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.21/Timetrackingeditor-1.0.21.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.4"
     },
