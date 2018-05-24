@@ -97,13 +97,13 @@
     },
     "bigboard": {
         "title": "Bigboard",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Stinnux",
         "license": "MIT",
         "description": "A Kanboard that can display multiple projects.",
         "homepage": "https://github.com/stinnux/kanboard-bigboard",
         "readme": "https://raw.githubusercontent.com/stinnux/kanboard-bigboard/master/README.md",
-        "download": "https://github.com/stinnux/kanboard-bigboard/releases/download/1.0.4/Bigboard-1.0.4.zip",
+        "download": "https://github.com/stinnux/kanboard-bigboard/releases/download/1.0.5/Bigboard-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.4"
     },
