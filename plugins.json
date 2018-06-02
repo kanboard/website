@@ -670,5 +670,17 @@
         "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.2.5-alpha/Wiki-0.2.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
+    },
+    "themeplus": {
+        "title": "Themeplus",
+        "version": "0.2.0",
+        "author": "deciobenicio",
+        "license": "MIT",
+        "description": "Modern and responsive theme for kanboard.",
+        "homepage": "https://github.com/deciobenicio/kb-themeplus-stgray",
+        "readme": "https://raw.githubusercontent.com/deciobenicio/kb-themeplus-stgray/master/README.md",
+        "download": "https://github.com/deciobenicio/kb-themeplus-stgray/archive/master.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.0"
     }
 }
