@@ -27,3 +27,8 @@ MyPlugin-1.0.0.zip
 ```
 
 The archive will be extracted by Kanboard into the folder `plugins` as `plugins/MyPlugin`.
+
+Note: **Do not use the GitHub archive URL** for the download link.
+Once unzipped, the directory structure is not the same as the one mentioned above.
+**Kanboard won't be able to load the plugin**.
+Make your own archive or set to `false` the `remote_install` field.
