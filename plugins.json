@@ -167,18 +167,6 @@
         "remote_install": true,
         "compatible_version": ">=1.0.44"
     },
-    "client-certificate": {
-        "title": "Client SSL Certificate Authentication",
-        "version": "1.0.0",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use SSL client certificate for Kanboard authentication.",
-        "homepage": "https://github.com/kanboard/plugin-client-certificate",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-client-certificate/master/README.md",
-        "download": "https://github.com/kanboard/plugin-client-certificate/releases/download/v1.0.0/ClientCertificate-1.0.0.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.32"
-    },
     "db-storage": {
         "title": "Database Storage",
         "version": "1.0.0",
@@ -562,42 +550,6 @@
         "download": "https://github.com/kanboard/plugin-slack/releases/download/v1.0.6/Slack-1.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
-    },
-    "sms-2fa": {
-        "title": "SMS Two-Factor Authentication",
-        "version": "1.0.5",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use SMS text messages for two-factor authentication.",
-        "homepage": "https://github.com/kanboard/plugin-sms-2fa",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-sms-2fa/master/README.md",
-        "download": "https://github.com/kanboard/plugin-sms-2fa/releases/download/v1.0.5/SmsTwoFactor-1.0.5.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.2.0"
-    },
-    "task-board-date": {
-        "title": "Task Board Date",
-        "version": "1.0.2",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Add a new date field for tasks to define the visibility on the board and dashboard.",
-        "homepage": "https://github.com/kanboard/plugin-task-board-date",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-task-board-date/master/README.md",
-        "download": "https://github.com/kanboard/plugin-task-board-date/releases/download/v1.0.2/TaskBoardDate-1.0.2.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.41"
-    },
-    "wunderlist": {
-        "title": "Wunderlist",
-        "version": "1.0.1",
-        "author": "Maxime (Epoc)",
-        "license": "MIT",
-        "description": "This plugin allows you to import Wunderlist tasks and lists directly from the user interface of Kanboard by uploading a Wunderlist export file.",
-        "homepage": "https://github.com/EpocDotFr/kanboard-wunderlist",
-        "readme": "https://raw.githubusercontent.com/EpocDotFr/kanboard-wunderlist/master/README.md",
-        "download": "https://github.com/EpocDotFr/kanboard-wunderlist/releases/tag/v1.0.1",
-        "remote_install": false,
-        "compatible_version": "1.0.23"
     },
     "timetrackingeditor": {
         "title": "Time Tracking Editor",
