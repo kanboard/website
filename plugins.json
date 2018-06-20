@@ -622,5 +622,17 @@
         "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.2.5-alpha/Wiki-0.2.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
+    },
+    "blueboard": {
+        "title": "Blueboard",
+        "version": "0.0.1",
+        "author": "bgibout",
+        "licence": "MIT",
+        "description": "Simple blue CSS Theme",
+        "homepage": "https://github.com/bgibout/blueboard",
+        "readme": "https://raw.githubusercontent.com/bgibout/blueboard/master/README.md",
+        "download": "https://github.com/bgibout/blueboard/archive/master.zip",
+        "remote_install": true,
+        "compatible_version": "1.2.4"
     }
 }
