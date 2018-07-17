@@ -448,7 +448,7 @@
         "version": "1.2.1",
         "author": "Valentino Pesce",
         "license": "MIT",
-        "description": "This plugin allows you to and special features like replace the logo KB and Syntax highlight in markdown code by Prism.",
+        "description": "Replaces the logo and adds syntax highlighting for Markdown code.",
         "homepage": "https://github.com/kenlog/Oxygen",
         "readme": "https://raw.githubusercontent.com/kenlog/Oxygen/master/README.md",
         "download": "https://github.com/kenlog/Oxygen/releases/download/v1.2.1/Oxygen-1.2.1.zip",
