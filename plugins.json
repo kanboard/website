@@ -419,6 +419,18 @@
         "remote_install": false,
         "compatible_version": ">=1.0.44"
     },
+    "moon": {
+        "title": "Moon",
+        "version": "1.0.0",
+        "author": "Valentino Pesce",
+        "license": "MIT",
+        "description": "Replaces the logo and adds syntax highlighting for Markdown code.",
+        "homepage": "https://github.com/kenlog/Moon",
+        "readme": "https://raw.githubusercontent.com/kenlog/Moon/master/README.md",
+        "download": "https://github.com/kenlog/Moon/releases/download/v1.0.0/Moon-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
+    },
     "nebula": {
         "title": "Nebula",
         "version": "1.0.0",
