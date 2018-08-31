@@ -359,6 +359,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "kanboardcss": {
+        "title": "KanboardCSS",
+        "version": "1.0.0",
+        "author": "Aljawaid",
+        "license": "MIT",
+        "description": "A useful and calm theme",
+        "homepage": "https://github.com/aljawaid/KanboardCSS",
+        "readme": "https://raw.githubusercontent.com/aljawaid/KanboardCSS/master/README.md",
+        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v1.0.0/KanboardCSS-1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.44"
+    },
     "mailgun": {
         "title": "Mailgun",
         "version": "1.0.10",
