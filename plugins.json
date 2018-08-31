@@ -167,6 +167,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.44"
     },
+    "cardpushdate": {
+        "title": "Card Push Date - and other actions",
+        "version": "1.0",
+        "author": "David Morlitz",
+        "license": "MIT",
+        "description": "Put easy actions on task cards, searches and dashboard - including update card date, show comments, edit, close and move card",
+        "homepage": "https://github.com/dmorlitz/kanboard-CardPushDate",
+        "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/README.md",
+        "download": "https://github.com/dmorlitz/kanboard-CardPushDate/archive/CardPushDate.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.44"
+    },
     "db-storage": {
         "title": "Database Storage",
         "version": "1.0.0",
