@@ -7,9 +7,9 @@
         "description": "Adds an automatic action which allows you to set the category on a card when moved to a specified column",
         "homepage": "https://github.com/dmorlitz/kanboard-TaskAssignCategory",
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignCategory/master/README.md",
-        "download": "https://github.com/dmorlitz/kanboard-TaskAssignCategory/archive/1.0.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.44"
+        "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignCategory/master/releases/TaskAssignCategory.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     },
     "assigndate": {
         "title": "Assign date to undated cards",
@@ -19,9 +19,9 @@
         "description": "Adds an automatic action which allows you to set a due date on undated cards to allow card to appear on calendar and ICS feed",
         "homepage": "https://github.com/dmorlitz/kanboard-TaskAssignDateToUndated",
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignDateToUndated/master/README.md",
-        "download": "https://github.com/dmorlitz/kanboard-TaskAssignDateToUndated/archive/1.0.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.44"
+        "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignDateToUndated/master/releases/TaskAssignDateToUndated.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     },
     "assignduedatecolumn": {
         "title": "Assign due date when moving cards to specified column",
@@ -167,6 +167,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.44"
     },
+    "cardpushdate": {
+        "title": "Card Push Date - and other actions",
+        "version": "1.0",
+        "author": "David Morlitz",
+        "license": "MIT",
+        "description": "Put easy actions on task cards, searches and dashboard - including update card date, show comments, edit, close and move card",
+        "homepage": "https://github.com/dmorlitz/kanboard-CardPushDate",
+        "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/README.md",
+        "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/releases/CardPushDate.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
+    },
     "db-storage": {
         "title": "Database Storage",
         "version": "1.0.0",
@@ -199,9 +211,9 @@
         "description": "Allow boards to be sorted by card due date",
         "homepage": "https://github.com/dmorlitz/kanboard-duedate",
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-duedate/master/README.md",
-        "download": "https://github.com/dmorlitz/kanboard-duedate/archive/1.0.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.44"
+        "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-duedate/master/releases/DueDate.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     },
     "extendedMail": {
         "title": "extendedMail",
@@ -427,9 +439,9 @@
         "description": "Adds an automatic action which allows you to move cards to a specific column when the due date has passed",
         "homepage": "https://github.com/dmorlitz/kanboard-TaskMoveOnDueDate",
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskMoveOnDueDate/master/README.md",
-        "download": "https://github.com/dmorlitz/kanboard-TaskMoveOnDueDate/archive/1.0.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.44"
+        "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskMoveOnDueDate/master/releases/TaskMoveOnDueDate.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     },
     "moon": {
         "title": "Moon",
@@ -511,9 +523,9 @@
         "description": "Adds an automatic action which allows you to push the due date a specified number of days when moving cards to a specific column",
         "homepage": "https://github.com/dmorlitz/kanboard-TaskPushDate",
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskPushDate/master/README.md",
-        "download": "https://github.com/dmorlitz/kanboard-TaskPushDate/archive/1.0.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.44"
+        "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskPushDate/master/releases/TaskPushDate.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     },
     "rabbitmq": {
         "title": "RabbitMQ",
