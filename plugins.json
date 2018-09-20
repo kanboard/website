@@ -49,7 +49,7 @@
     },
     "autosubtasks": {
         "title": "Auto Subtask Creation",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Automatic action to create subtasks when a task is created or moves column.",
@@ -418,6 +418,18 @@
         "download": "https://github.com/BlueTeck/kanboard_plugin_metadata/releases/download/1.0.33.2/Metadata.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.33"
+    },
+    "metamagik": {
+        "title": "metaMagik",
+        "version": "0.0.1",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
+        "homepage": "https://github.com/creecros/MetaMagik",
+        "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/0.0.1/MetaMagik-0.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.1.0"
     },
     "milestone": {
         "title": "Milestone",
