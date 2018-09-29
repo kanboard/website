@@ -59,6 +59,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.48"
     },
+    "Bak2topbotm": {
+        "title": "Bak2topbotm",
+        "version": "0.0.1",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Back to Top & Bottom Buttons for Task Summary",
+        "homepage": "https://github.com/creecros/Bak2topbotm",
+        "readme": "https://raw.githubusercontent.com/creecros/Bak2topbotm/master/README.md",
+        "download": "https://github.com/creecros/Bak2topbotm/releases/download/0.0.1/Bak2topbotm-0.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.43"
+    },
     "commentonly": {
         "title": "Comment Only Restrictions for Project Viewers",
         "version": "0.0.2",
