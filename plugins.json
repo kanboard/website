@@ -446,7 +446,7 @@
     "metamagik": {
         "title": "metaMagik",
         "version": "0.0.2",
-        "author": "Craig Crosby",
+        "author": "Craig Crosby + BlueTeck",
         "license": "MIT",
         "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
         "homepage": "https://github.com/creecros/MetaMagik",
