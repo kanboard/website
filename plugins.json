@@ -61,13 +61,13 @@
     },
     "Bak2topbotm": {
         "title": "Bak2topbotm",
-        "version": "0.0.1",
+        "version": "0.0.3",
         "author": "Craig Crosby",
         "license": "MIT",
-        "description": "Back to Top & Bottom Buttons for Task Summary",
+        "description": "Back to Top and Bottom Buttons for Task Summary",
         "homepage": "https://github.com/creecros/Bak2topbotm",
         "readme": "https://raw.githubusercontent.com/creecros/Bak2topbotm/master/README.md",
-        "download": "https://github.com/creecros/Bak2topbotm/releases/download/0.0.1/Bak2topbotm-0.0.1.zip",
+        "download": "https://github.com/creecros/Bak2topbotm/releases/download/0.0.1/Bak2topbotm-0.0.3.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.43"
     },
