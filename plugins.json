@@ -59,6 +59,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.48"
     },
+    "Bak2topbotm": {
+        "title": "Bak2topbotm",
+        "version": "0.0.1",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Back to Top & Bottom Buttons for Task Summary",
+        "homepage": "https://github.com/creecros/Bak2topbotm",
+        "readme": "https://raw.githubusercontent.com/creecros/Bak2topbotm/master/README.md",
+        "download": "https://github.com/creecros/Bak2topbotm/releases/download/0.0.1/Bak2topbotm-0.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.43"
+    },
     "commentonly": {
         "title": "Comment Only Restrictions for Project Viewers",
         "version": "0.0.2",
@@ -73,15 +85,27 @@
     },
     "group_assign": {
         "title": "Group Assign",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add group assignment to tasks.",
         "homepage": "https://github.com/creecros/Group_assign",
         "readme": "https://raw.githubusercontent.com/creecros/Group_assign/master/README.md",
-        "download": "https://github.com/creecros/Group_assign/releases/download/0.0.1/Group_assign-0.0.1.zip",
+        "download": "https://github.com/creecros/Group_assign/releases/download/0.0.2/Group_assign-0.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
+    },
+    "Task2pdf": {
+        "title": "Task2pdf",
+        "version": "0.0.3",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Create a printer friendly PDF of a task.",
+        "homepage": "https://github.com/creecros/Task2pdf",
+        "readme": "https://raw.githubusercontent.com/creecros/Task2pdf/master/README.md",
+        "download": "https://github.com/creecros/Task2pdf/releases/download/0.0.3/Task2pdf-0.0.3.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.46"
     },
     "beanstalk": {
         "title": "Beanstalk",
@@ -193,15 +217,15 @@
     },
     "coverimage": {
         "title": "Coverimage",
-        "version": "1.0.38.1",
-        "author": "BlueTeck",
+        "version": "1.2.5.0",
+        "author": "BlueTeck + creecros",
         "license": "MIT",
-        "description": "This plugin adds a coverimage function to the board.",
+        "description": "This plugin adds a coverimage function to tasks on the board, and allows you to set a project image to use as a logo for projects.",
         "homepage": "https://github.com/BlueTeck/kanboard_plugin_coverimage",
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_coverimage/master/README.md",
-        "download": "https://github.com/BlueTeck/kanboard_plugin_coverimage/releases/download/1.0.38.1/Coverimage.zip",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_coverimage/releases/download/1.2.5.0/Coverimage.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.38"
+        "compatible_version": ">=1.0.42"
     },
     "duedate": {
         "title": "Due Date sorting",
@@ -385,13 +409,13 @@
     },
     "mailgun": {
         "title": "Mailgun",
-        "version": "1.0.10",
+        "version": "1.0.11",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Use the Mailgun API to send emails and create tasks from emails.",
         "homepage": "https://github.com/kanboard/plugin-mailgun",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-mailgun/master/README.md",
-        "download": "https://github.com/kanboard/plugin-mailgun/releases/download/v1.0.10/Mailgun-1.0.10.zip",
+        "download": "https://github.com/kanboard/plugin-mailgun/releases/download/v1.0.11/Mailgun-1.0.11.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.40"
     },
@@ -421,15 +445,15 @@
     },
     "metamagik": {
         "title": "metaMagik",
-        "version": "0.0.1",
-        "author": "Craig Crosby",
+        "version": "0.0.4",
+        "author": "Craig Crosby + BlueTeck",
         "license": "MIT",
         "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
         "homepage": "https://github.com/creecros/MetaMagik",
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
-        "download": "https://github.com/creecros/MetaMagik/releases/download/0.0.1/MetaMagik-0.0.1.zip",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/0.0.4/MetaMagik-0.0.4.zip",
         "remote_install": true,
-        "compatible_version": ">=1.1.0"
+        "compatible_version": ">=1.0.33"
     },
     "milestone": {
         "title": "Milestone",
@@ -647,6 +671,18 @@
         "remote_install": true,
         "compatible_version": ">=1.2.4"
     },
+    "starredprojects": {
+        "title": "Starred Projects",
+        "version": "0.1.1",
+        "author": "BibLibre",
+        "license": "MIT",
+        "description": "Mark projects as favorite for faster access in dashboard",
+        "homepage": "https://github.com/biblibre/kanboard-plugin-StarredProjects",
+        "readme": "https://raw.githubusercontent.com/biblibre/kanboard-plugin-StarredProjects/v0.1.1/README.md",
+        "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.1.1/StarredProjects-0.1.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
+    },
     "subtaskdate": {
         "title": "Subtask Due Date",
         "version": "1.0.0",
@@ -697,13 +733,13 @@
     },
     "wiki": {
         "title": "Wiki",
-        "version": "0.2.8",
+        "version": "0.2.9",
         "author": "lastlink",
         "license": "MIT",
         "description": "Wiki to document projects.",
         "homepage": "https://github.com/funktechno/kanboard-plugin-wiki",
         "readme": "https://raw.githubusercontent.com/funktechno/kanboard-plugin-wiki/master/README.md",
-        "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.2.8-alpha/Wiki-0.2.8.zip",
+        "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.2.9-alpha/Wiki-0.2.9.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
