@@ -481,13 +481,13 @@
     },
     "moon": {
         "title": "Moon",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "Replaces the logo and adds syntax highlighting for Markdown code.",
         "homepage": "https://github.com/kenlog/Moon",
         "readme": "https://raw.githubusercontent.com/kenlog/Moon/master/README.md",
-        "download": "https://github.com/kenlog/Moon/releases/download/v1.2.0/Moon-1.2.0.zip",
+        "download": "https://github.com/kenlog/Moon/releases/download/v1.2.1/Moon-1.2.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
