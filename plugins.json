@@ -119,6 +119,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
+    "backlog": {
+        "title": "Backlog",
+        "version": "0.0.2",
+        "author": "vistree + creecros",
+        "license": "GPL-3.0",
+        "description": "Plugin to add a backlog column with full height to project board.",
+        "homepage": "https://github.com/vistree/kanboard-backlog",
+        "readme": "https://raw.githubusercontent.com/vistree/kanboard-backlog/master/README.md",
+        "download": "https://github.com/vistree/kanboard-backlog/releases/download/0.0.2/Backlog-0.0.2.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.4"
+    },
     "beanstalk": {
         "title": "Beanstalk",
         "version": "1.0.0",
