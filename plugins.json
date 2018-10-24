@@ -129,7 +129,7 @@
         "readme": "https://raw.githubusercontent.com/vistree/kanboard-backlog/master/README.md",
         "download": "https://github.com/vistree/kanboard-backlog/releases/download/0.0.2/Backlog-0.0.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.4"
+        "compatible_version": ">=1.0.45"
     },
     "beanstalk": {
         "title": "Beanstalk",
