@@ -755,6 +755,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "updatenotifier": {
+        "title": "Update Notifier",
+        "version": "1.0.0",
+        "author": "Valentino Pesce",
+        "license": "MIT",
+        "description": "What is Update Notifier? The Update Notifier is a utility that scans installed plugin and displays a list of updates.",
+        "homepage": "https://github.com/kenlog/UpdateNotifier",
+        "readme": "https://raw.githubusercontent.com/kenlog/UpdateNotifier/master/README.md",
+        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.0.0/UpdateNotifier-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
+    },
     "wiki": {
         "title": "Wiki",
         "version": "0.2.9",
