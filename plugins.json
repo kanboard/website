@@ -85,13 +85,13 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "0.0.7",
+        "version": "0.0.8",
         "author": "Craig Crosby",
         "license": "MIT",
-        "description": "GUI to add logos, themes and favicons.",
+        "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/0.0.7/Customizer-0.0.7.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/0.0.8/Customizer-0.0.8.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
