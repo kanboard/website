@@ -37,13 +37,13 @@
     },
     "autoemailactions": {
         "title": "Auto Email Extended Actions",
-        "version": "0.0.5",
+        "version": "0.0.6",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included are actions to send a notification via email when a task or subtask due date is impending within a duration or overdue.",
         "homepage": "https://github.com/creecros/SendEmailCreator",
         "readme": "https://raw.githubusercontent.com/creecros/SendEmailCreator/master/README.md",
-        "download": "https://github.com/creecros/SendEmailCreator/releases/download/0.0.5/SendEmailCreator-0.0.5.zip",
+        "download": "https://github.com/creecros/SendEmailCreator/releases/download/0.0.6/SendEmailCreator-0.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
@@ -85,13 +85,13 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "0.0.7",
+        "version": "0.0.8",
         "author": "Craig Crosby",
         "license": "MIT",
-        "description": "GUI to add logos, themes and favicons.",
+        "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/0.0.7/Customizer-0.0.7.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/0.0.8/Customizer-0.0.8.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
