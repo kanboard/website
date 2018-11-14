@@ -781,13 +781,13 @@
     },
     "wiki": {
         "title": "Wiki",
-        "version": "0.2.9",
+        "version": "0.3.0",
         "author": "lastlink",
         "license": "MIT",
         "description": "Wiki to document projects.",
         "homepage": "https://github.com/funktechno/kanboard-plugin-wiki",
         "readme": "https://raw.githubusercontent.com/funktechno/kanboard-plugin-wiki/master/README.md",
-        "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.2.9-alpha/Wiki-0.2.9.zip",
+        "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.3.0-alpha/Wiki-0.3.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
