@@ -7,7 +7,7 @@
         "description": "Add more analytics times datas like time comparison by swimlanes or categories",
         "homepage": "https://gitlab.com/yv-kanboard-plugin/analytics-times",
         "readme": "https://gitlab.com/yv-kanboard-plugin/analytics-times/blob/master/README.md",
-        "download": "https://gitlab.com/yv-kanboard-plugin/analytics-times/uploads/cacecca7d170231260070ef8d4118f65/analyticsTimes-1.0.0.zip"
+        "download": "https://gitlab.com/yv-kanboard-plugin/analytics-times/uploads/cacecca7d170231260070ef8d4118f65/analyticsTimes-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.6"
     },
