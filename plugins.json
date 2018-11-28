@@ -97,13 +97,25 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "1.7.1",
+        "version": "1.7.2",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/1.7.1/Customizer-1.7.1.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/1.7.2/Customizer-1.7.2.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.42"
+    },
+    "creecros_filter_pack": {
+        "title": "Creecros_Filter_Pack",
+        "version": "1.1.0",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Creecros Filter Pack. Request new filters on issue board.",
+        "homepage": "https://github.com/creecros/Creecros_Filter_Pack",
+        "readme": "https://raw.githubusercontent.com/creecros/Creecros_Filter_Pack/master/README.md",
+        "download": "https://github.com/creecros/Creecros_Filter_Pack/releases/download/1.1.0/Creecros_Filter_Pack-1.1.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
@@ -481,13 +493,13 @@
     },
     "metamagik": {
         "title": "metaMagik",
-        "version": "0.0.8",
+        "version": "1.2.0",
         "author": "Craig Crosby + BlueTeck",
         "license": "MIT",
         "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
         "homepage": "https://github.com/creecros/MetaMagik",
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
-        "download": "https://github.com/creecros/MetaMagik/releases/download/0.0.8/MetaMagik-0.0.8.zip",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/1.2.0/MetaMagik-1.2.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.33"
     },
