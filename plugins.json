@@ -109,13 +109,13 @@
     },
     "creecros_filter_pack": {
         "title": "Creecros_Filter_Pack",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Creecros Filter Pack. Request new filters on issue board.",
         "homepage": "https://github.com/creecros/Creecros_Filter_Pack",
         "readme": "https://raw.githubusercontent.com/creecros/Creecros_Filter_Pack/master/README.md",
-        "download": "https://github.com/creecros/Creecros_Filter_Pack/releases/download/1.1.0/Creecros_Filter_Pack-1.1.0.zip",
+        "download": "https://github.com/creecros/Creecros_Filter_Pack/releases/download/1.1.1/Creecros_Filter_Pack-1.1.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
