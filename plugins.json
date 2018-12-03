@@ -733,13 +733,13 @@
     },
     "subtaskdate": {
         "title": "SubtaskDueDate",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "author": "Manuel Raposo",
         "license": "MIT",
         "description": "This plugin adds a Due Date to subtasks.",
         "homepage": "https://github.com/eSkiSo/Subtaskdate",
         "readme": "https://raw.githubusercontent.com/eSkiSo/Subtaskdate/master/README.md",
-        "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/1.0.4/Subtaskdate-1.0.4.zip",
+        "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/1.0.5/Subtaskdate-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.34"
     },
