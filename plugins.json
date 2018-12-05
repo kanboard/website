@@ -1,16 +1,4 @@
 {
-    "analyticsTimes":{
-        "title": "Add analytics times reports",
-        "version": "1.0.0",
-        "author": "Yohann Valentin",
-        "license": "GPL-3.0",
-        "description": "Add more analytics times datas like time comparison by swimlanes or categories",
-        "homepage": "https://gitlab.com/yv-kanboard-plugin/analytics-times",
-        "readme": "https://gitlab.com/yv-kanboard-plugin/analytics-times/blob/master/README.md",
-        "download": "https://gitlab.com/yv-kanboard-plugin/analytics-times/uploads/cacecca7d170231260070ef8d4118f65/analyticsTimes-1.0.0.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.2.6"
-    },
     "assigncategory": {
         "title": "Assign category when moving cards to specified column",
         "version": "1.0.0",
@@ -718,6 +706,18 @@
         "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.21/Timetrackingeditor-1.0.21.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.4"
+    },
+    "TimeMachine":{
+        "title": "Plugin to add time machine : Back to the Future",
+        "version": "1.0.1",
+        "author": "Yohann Valentin",
+        "license": "GPL-3.0",
+        "description": "Add more analytics times datas like time comparison by swimlanes, categories and by dates(only spent time). And a edit form on subtask time tracking",
+        "homepage": "https://gitlab.com/yv-kanboard-plugin/time-machine",
+        "readme": "https://gitlab.com/yv-kanboard-plugin/time-machine/blob/master/README.md",
+        "download": "https://gitlab.com/yv-kanboard-plugin/time-machine/uploads/7633efeee85e7e90b5a8620d5af38160/TimeMachine-1.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.6"
     },
     "starredprojects": {
         "title": "Starred Projects",
