@@ -97,25 +97,25 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "1.7.2",
+        "version": "1.8.0",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/1.7.2/Customizer-1.7.2.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/1.8.0/Customizer-1.8.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
     "creecros_filter_pack": {
         "title": "Creecros_Filter_Pack",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Creecros Filter Pack. Request new filters on issue board.",
         "homepage": "https://github.com/creecros/Creecros_Filter_Pack",
         "readme": "https://raw.githubusercontent.com/creecros/Creecros_Filter_Pack/master/README.md",
-        "download": "https://github.com/creecros/Creecros_Filter_Pack/releases/download/1.1.0/Creecros_Filter_Pack-1.1.0.zip",
+        "download": "https://github.com/creecros/Creecros_Filter_Pack/releases/download/1.2.0/Creecros_Filter_Pack-1.2.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
@@ -732,14 +732,14 @@
         "compatible_version": ">=1.2.5"
     },
     "subtaskdate": {
-        "title": "Subtask Due Date",
-        "version": "1.0.0",
+        "title": "SubtaskDueDate",
+        "version": "1.0.5",
         "author": "Manuel Raposo",
         "license": "MIT",
         "description": "This plugin adds a Due Date to subtasks.",
         "homepage": "https://github.com/eSkiSo/Subtaskdate",
         "readme": "https://raw.githubusercontent.com/eSkiSo/Subtaskdate/master/README.md",
-        "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/v1.0.0/Subtaskdate-1.0.0.zip",
+        "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/1.0.5/Subtaskdate-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.34"
     },
