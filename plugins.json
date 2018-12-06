@@ -734,7 +734,7 @@
     "subtaskdate": {
         "title": "SubtaskDueDate",
         "version": "1.1.0",
-        "author": "Manuel Raposo",
+        "author": "Manuel Raposo & Craig Crosby",
         "license": "MIT",
         "description": "This plugin adds a Due Date to subtasks.",
         "homepage": "https://github.com/eSkiSo/Subtaskdate",
