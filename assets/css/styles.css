@@ -122,7 +122,7 @@ img {
     border: 1px solid #000;
 }
 
-input[type="email"] {
+input[type="text"] {
     border: 1px solid #ccc;
     padding: 3px;
     height: 22px;
@@ -131,7 +131,7 @@ input[type="email"] {
     margin-bottom: 15px;
 }
 
-input[type="email"]:focus {
+input[type="text"]:focus {
     color: #000;
     border-color: rgba(82, 168, 236, 0.8);
     outline: 0;
