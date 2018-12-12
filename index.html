@@ -135,7 +135,9 @@
         <section id="plugins">
             <h2>Plugins</h2>
             <p>You can extends the features of Kanboard by installing some extensions:</p>
-            <dl>
+            <h3>Filter Plugins below, by name or content</h3>			
+            <input type="text" id="pluginsfilter_input" onkeyup="pluginFilter()" placeholder="Search for plugin.." title="Search input for plugin filter">
+            <dl id="pluginsfilter">
                 <dt><a href="https://github.com/dmorlitz/kanboard-TaskAssignCategory">Assign category when moving cards to specified column</a></dt>
                 <dd>
                     <p>Adds an automatic action which allows you to set the category on a card when moved to a specified column.</p>
@@ -527,5 +529,26 @@
         <footer>
             Discover <a href="https://miniflux.net/">Miniflux</a>, a minimalist of opinionated feed reader.
         </footer>
+      <script>
+      function pluginFilter() {
+        var input, filter, dl, dt, dd, a, b, i;
+        input = document.getElementById("pluginsfilter_input");
+        filter = input.value.toUpperCase();
+        dl = document.getElementById("pluginsfilter");
+        dt = dl.getElementsByTagName("dt");
+        dd = dl.getElementsByTagName("dd");
+        for (i = 0; i < dt.length; i++) {
+            a = dt[i].innerHTML;
+            b = dd[i].innerHTML;
+            if (a.toUpperCase().indexOf(filter) > -1 || b.toUpperCase().indexOf(filter) > -1) {
+                dt[i].style.display = "";
+                dd[i].style.display = "";
+            } else {
+                dt[i].style.display = "none";
+                dd[i].style.display = "none";
+            }
+        }
+      }
+      </script>
     </body>
 </html>
