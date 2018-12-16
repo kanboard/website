@@ -9,8 +9,178 @@
         <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/touch-icon-ipad.png">
         <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/touch-icon-iphone-retina.png">
         <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/touch-icon-ipad-retina.png">
-        <link rel="stylesheet" href="/assets/css/styles.css">
         <link rel="alternate" type="application/atom+xml" title="Kanboard Releases" href="https://github.com/kanboard/kanboard/releases.atom">
+        <style>
+            body {
+                color: #555;
+                font-family: 'Helvetica Neue', Helvetica, sans-serif;
+                font-size: 110%;
+                margin: 0 auto;
+                max-width: 800px;
+                padding-left: 5px;
+                padding-right: 5px;
+            }
+
+            hr {
+                height: 1px;
+                border: none;
+                background-color: #ddd;
+            }
+
+            a {
+                color: #3366CC;
+                border: 1px solid rgba(255, 255, 255, 0);
+            }
+
+            a:focus {
+                outline: 0;
+                color: red;
+                text-decoration: none;
+                border: 1px dotted #aaa;
+            }
+
+            a:hover {
+                color: #333;
+                text-decoration: none;
+            }
+
+            h1, h2 {
+                color: #444;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-weight: normal;
+                font-size: 1.8em;
+                border-bottom: 1px dotted #ccc;
+            }
+
+            h1 a,
+            h2 a {
+                color: #444;
+                text-decoration: none;
+            }
+
+            h2 a:hover {
+                color: #666;
+            }
+
+            li {
+                margin-bottom: 10px;
+                line-height: 18px;
+            }
+
+            li ul {
+                margin-top: 5px;
+            }
+
+            li a {
+                overflow-wrap: break-word;
+            }
+
+            dt {
+                margin-bottom: 8px;
+                color: #555;
+                font-size: 1.3em;
+            }
+
+            dt a {
+                color: #3366CC;
+                font-weight: 400;
+            }
+
+            dt a:hover,
+            dt a:focus {
+                color: #555;
+                text-decoration: none;
+            }
+
+            dd {
+                margin-bottom: 15px;
+                margin-left: 15px;
+                border-left: 3px solid #eee;
+                padding-left: 10px;
+                line-height: 1.4em;
+                color: #999;
+                font-weight: 300;
+            }
+
+            dd ul {
+                padding-left: 20px;
+            }
+
+            dd li {
+                list-style-type: circle;
+            }
+
+            pre {
+                padding: 10px;
+                overflow: auto;
+                line-height: 1.4em;
+                border-radius: 5px;
+                border: 1px solid #ccc;
+                background: #fcfcfc;
+                color: #666;
+            }
+
+            figure {
+                margin: 0;
+            }
+
+            img {
+                max-width: 100%;
+                border: 1px solid #000;
+            }
+
+            input[type="text"] {
+                border: 1px solid #ccc;
+                padding: 3px;
+                height: 22px;
+                width: 250px;
+                font-size: 99%;
+                margin-bottom: 15px;
+            }
+
+            input[type="text"]:focus {
+                color: #000;
+                border-color: rgba(82, 168, 236, 0.8);
+                outline: 0;
+                box-shadow: 0 0 8px rgba(82, 168, 236, 0.6);
+            }
+
+            .btn {
+                -webkit-appearance: none;
+                font-size: 0.95em;
+                display: inline-block;
+                color: #fff;
+                border: 1px solid #3079ed;
+                background: #4d90fe;
+                padding: 5px 15px;
+                cursor: pointer;
+                border-radius: 2px;
+            }
+
+            .btn:hover,
+            .btn:focus {
+                border-color: #2f5bb7;
+                background: #357ae8;
+                color: #fff;
+            }
+
+            #plugins dt {
+                font-size: 1.0em;
+            }
+
+            footer {
+                text-align: center;
+                font-size: 0.9em;
+                margin-top: 80px;
+                margin-bottom: 50px;
+            }
+        </style>
     </head>
     <body>
         <section id="overview">
@@ -494,7 +664,7 @@
                     <p>This plugin allows you to import Wunderlist tasks and lists directly from the user interface of Kanboard by uploading a Wunderlist export file.</p>
                     <p><em>By Maxime (Epoc)</em></p>
                 </dd>
-                <dt><a href="https://github.com/enricofrigo/kanboard/tree/master/plugin-comment-tooltip">Comment Tooltip</a></dt>
+                <dt><a href="https://github.com/enricofrigo/kanboard/tree/master/plugin-comment-tooltip">Comment Tooltip</a></dt>
                 <dd>
                     <p>Show task's comments as tooltip as in older kanboard version.</p>
                     <p><em>By Enrico Frigo</em></p>
@@ -532,7 +702,7 @@
             </dl>
         </section>
         <footer>
-            Discover <a href="https://miniflux.net/">Miniflux</a>, a minimalist of opinionated feed reader.
+            Discover <a href="https://miniflux.app/">Miniflux</a>, a minimalist of opinionated feed reader.
         </footer>
       <script>
       function pluginFilter() {
