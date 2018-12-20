@@ -419,6 +419,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "importwithgroup": {
+        "title": "ImportWithGroup",
+        "version": "1.0.0",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Adds a group name field to Import via CSV.",
+        "homepage": "https://github.com/creecros/userimport_wgroups",
+        "readme": "https://github.com/creecros/userimport_wgroups/blob/master/README.md",
+        "download": "https://github.com/creecros/userimport_wgroups/releases/download/1.0.0/ImportWithGroup-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.47"
+    },
     "instantactions": {
         "title": "Instant Actions for Kanboard Tasks",
         "version": "1.0.0",
