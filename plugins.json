@@ -275,6 +275,18 @@
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
+    "essential": {
+        "title": "Essential",
+        "version": "1.0.0",
+        "author": "Valentino Pesce",
+        "license": "MIT",
+        "description": "Essential theme returns a new style to your kanboard.",
+        "homepage": "https://github.com/kenlog/Essential",
+        "readme": "https://github.com/kenlog/Essential/blob/master/README.md",
+        "download": "https://github.com/kenlog/Essential/releases/download/v1.0.0/Essential-v1.0.0.zip,
+        "remote_install": true,
+        "compatible_version": ">=1.0.48"
+    },
     "encryptedcontent": {
         "title": "EncryptedContent",
         "version": "1.0.0",
