@@ -889,7 +889,7 @@
     },
     "AttachDocumentsforViewers": {
         "title": "Attach Documents for Project Viewers",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "author": "Franklin Hernandez",
         "license": "MIT",
         "description": "This plugin will allow Project Viewers to attach documents to tasks.",
