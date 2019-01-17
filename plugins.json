@@ -895,7 +895,7 @@
         "description": "This plugin will allow Project Viewers to attach documents to tasks.",
         "homepage": "https://github.com/hernandezfo/AttachDocumentsforViewers",
         "readme": "https://raw.githubusercontent.com/hernandezfo/AttachDocumentsforViewers/master/README.md",
-        "download": "https://github.com/hernandezfo/AttachDocumentsforViewers/releases/download/0.0.1/AttachDocumentsforViewers-0.0.1.zip",
+        "download": "https://github.com/hernandezfo/AttachDocumentsforViewers/releases/download/0.0.2/AttachDocumentsforViewers-0.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     }
