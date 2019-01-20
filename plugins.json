@@ -541,13 +541,13 @@
     },
     "minimizesidebar": {
         "title": "MinimizeSidebar",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "Option to minimize sidebar.",
         "homepage": "https://github.com/kenlog/MinimizeSidebar",
         "readme": "https://github.com/kenlog/MinimizeSidebar/blob/master/README.md",
-        "download": "https://github.com/kenlog/MinimizeSidebar/releases/download/v1.0.0/MinimizeSidebar-v1.0.0.zip",
+        "download": "https://github.com/kenlog/MinimizeSidebar/releases/download/v1.0.1/MinimizeSidebar-v1.0.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.48"
     },
