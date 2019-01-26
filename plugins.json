@@ -289,13 +289,13 @@
     },
     "encryptedcontent": {
         "title": "EncryptedContent",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "This plugin allows the insertion of text content encrypted in the kanboard database, with the use of random keys.",
         "homepage": "https://github.com/kenlog/EncryptedContent",
         "readme": "https://github.com/kenlog/EncryptedContent/blob/master/README.md",
-        "download": "https://github.com/kenlog/EncryptedContent/releases/download/v.1.0.0/EncryptedContent-v1.0.0.zip",
+        "download": "https://github.com/kenlog/EncryptedContent/releases/download/v.1.0.1/EncryptedContent-v.1.0.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.48"
     },
