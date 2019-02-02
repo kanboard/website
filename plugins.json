@@ -143,18 +143,6 @@
         "remote_install": true,
         "compatible_version": ">=1.0.45"
     },
-    "beanstalk": {
-        "title": "Beanstalk",
-        "version": "1.0.0",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use Beanstalkd to process background jobs.",
-        "homepage": "https://github.com/kanboard/plugin-beanstalk",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-beanstalk/master/README.md",
-        "download": "https://github.com/kanboard/plugin-beanstalk/releases/download/v1.0.0/Beanstalk-1.0.0.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.32"
-    },
     "bigboard": {
         "title": "Bigboard",
         "version": "1.0.5",
@@ -166,18 +154,6 @@
         "download": "https://github.com/stinnux/kanboard-bigboard/releases/download/1.0.5/Bigboard-1.0.5.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.4"
-    },
-    "broadcast": {
-        "title": "Broadcast Message",
-        "version": "1.0.1",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Broadcast messages to all users via the application or via email.",
-        "homepage": "https://github.com/kanboard/plugin-broadcast",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-broadcast/master/README.md",
-        "download": "https://github.com/kanboard/plugin-broadcast/releases/download/v1.0.1/Broadcast-1.0.1.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.2.3"
     },
     "chat": {
         "title": "Chat",
@@ -335,18 +311,6 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
-    "github-frontend": {
-        "title": "Github Frontend",
-        "version": "1.0.2",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use Kanboard to manage Github Issues.",
-        "homepage": "https://github.com/kanboard/plugin-github-frontend",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-github-frontend/master/README.md",
-        "download": "https://github.com/kanboard/plugin-github-frontend/releases/download/v1.0.2/GithubFrontend-1.0.2.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.48"
-    },
     "github-webhook": {
         "title": "Github Webhook",
         "version": "1.0.6",
@@ -383,18 +347,6 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
-    "gravatar": {
-        "title": "Gravatar",
-        "version": "1.0.0",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use Gravatar to display user avatars images.",
-        "homepage": "https://github.com/kanboard/plugin-gravatar",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-gravatar/master/README.md",
-        "download": "https://github.com/kanboard/plugin-gravatar/releases/download/v1.0.0/Gravatar-1.0.0.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.42"
-    },
     "gogs-webhook": {
         "title": "Gogs Webhook",
         "version": "1.0.5",
@@ -430,18 +382,6 @@
         "download": "https://github.com/kenlog/HighlightCodeSyntax/releases/download/v1.0.1/HighlightCodeSyntax-v1.0.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.48"
-    },
-    "hipchat": {
-        "title": "Hipchat",
-        "version": "1.0.10",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Receive individual or project notifications on Hipchat.",
-        "homepage": "https://github.com/kanboard/plugin-hipchat",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-hipchat/master/README.md",
-        "download": "https://github.com/kanboard/plugin-hipchat/releases/download/v1.0.10/Hipchat-1.0.10.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.37"
     },
     "importwithgroup": {
         "title": "ImportWithGroup",
@@ -635,18 +575,6 @@
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
-    "postmark": {
-        "title": "Postmark",
-        "version": "1.0.9",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use the Postmark API to send emails and create tasks from emails.",
-        "homepage": "https://github.com/kanboard/plugin-postmark",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-postmark/master/README.md",
-        "download": "https://github.com/kanboard/plugin-postmark/releases/download/v1.0.9/Postmark-1.0.9.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.40"
-    },
     "pushdate": {
         "title": "Push out due date on cards when moving to specific columns",
         "version": "1.0.0",
@@ -658,18 +586,6 @@
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskPushDate/master/releases/TaskPushDate.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
-    },
-    "rabbitmq": {
-        "title": "RabbitMQ",
-        "version": "1.0.0",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "This plugin use RabbitMQ to process background jobs for Kanboard.",
-        "homepage": "https://github.com/kanboard/plugin-rabbitmq",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-rabbitmq/master/README.md",
-        "download": "https://github.com/kanboard/plugin-rabbitmq/releases/download/v1.0.0/RabbitMQ-1.0.0.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.32"
     },
     "registration": {
         "title": "Self-Registration",
@@ -707,18 +623,6 @@
         "remote_install": false,
         "compatible_version": "1.0.30"
     },
-    "reverse-proxy-ldap": {
-        "title": "Reverse-Proxy Authentication with LDAP user provider",
-        "version": "1.0.2",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Authenticate users with Reverse-Proxy method but populate user information from the LDAP directory.",
-        "homepage": "https://github.com/kanboard/plugin-reverse-proxy-ldap",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-reverse-proxy-ldap/master/README.md",
-        "download": "https://github.com/kanboard/plugin-reverse-proxy-ldap/releases/download/v1.0.2/ReverseProxyLdap-1.0.2.zip",
-        "remote_install": false,
-        "compatible_version": ">=1.0.32"
-    },
     "rocketchat": {
         "title": "RocketChat",
         "version": "1.0.6",
@@ -730,18 +634,6 @@
         "download": "https://github.com/kanboard/plugin-rocketchat/releases/download/v1.0.6/RocketChat-1.0.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
-    },
-    "sendgrid": {
-        "title": "Sendgrid",
-        "version": "1.0.8",
-        "author": "Frédéric Guillot",
-        "license": "MIT",
-        "description": "Use the Sendgrid API to send emails and create tasks from emails.",
-        "homepage": "https://github.com/kanboard/plugin-sendgrid",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-sendgrid/master/README.md",
-        "download": "https://github.com/kanboard/plugin-sendgrid/releases/download/v1.0.8/Sendgrid-1.0.8.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.0.40"
     },
     "slack": {
         "title": "Slack",
