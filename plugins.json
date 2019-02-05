@@ -529,13 +529,13 @@
     },
     "nebula": {
         "title": "Nebula",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "Theme with a modern design that adds syntax highlighting for Markdown code, compatible with the Customizer plugin.",
         "homepage": "https://github.com/kenlog/Nebula",
         "readme": "https://raw.githubusercontent.com/kenlog/Nebula/master/README.md",
-        "download": "https://github.com/kenlog/Nebula/releases/download/v1.2.1/Nebula-v1.2.1.zip",
+        "download": "https://github.com/kenlog/Nebula/releases/download/v1.2.2/Nebula-v1.2.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.48"
     },
