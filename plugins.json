@@ -385,13 +385,13 @@
     },
     "imapuserauth": {
         "title": "IMAP User Authentication",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Jim Mason",
         "license": "MIT",
         "description": "Login to Kanboard using your IMAP credentials",
         "homepage": "https://github.com/RocketMan/plugin-imap-user-auth",
         "readme": "https://github.com/RocketMan/plugin-imap-user-auth/blob/master/README.md",
-        "download": "https://github.com/RocketMan/plugin-imap-user-auth/releases/download/v1.0.0/IMAPUserAuth-1.0.0.zip",
+        "download": "https://github.com/RocketMan/plugin-imap-user-auth/releases/download/v1.0.1/IMAPUserAuth-1.0.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.8"
     },
