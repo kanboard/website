@@ -97,13 +97,13 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "1.9.0",
+        "version": "1.9.1",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/1.9.0/Customizer-1.9.0.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/1.9.1/Customizer-1.9.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
@@ -145,13 +145,13 @@
     },
     "backlog": {
         "title": "Backlog",
-        "version": "0.0.2",
+        "version": "1.0.3",
         "author": "vistree + creecros",
         "license": "GPL-3.0",
         "description": "Plugin to add a backlog column with full height to project board.",
         "homepage": "https://github.com/vistree/kanboard-backlog",
         "readme": "https://raw.githubusercontent.com/vistree/kanboard-backlog/master/README.md",
-        "download": "https://github.com/vistree/kanboard-backlog/releases/download/0.0.2/Backlog-0.0.2.zip",
+        "download": "https://github.com/vistree/kanboard-backlog/releases/download/1.0.3/Backlog-1.0.3.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.45"
     },
