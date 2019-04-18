@@ -49,13 +49,13 @@
     },
     "autoemailactions": {
         "title": "Auto Email Extended Actions",
-        "version": "1.0.7",
+        "version": "1.1.0",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add the automatic actions to Send a task by email to the creator or assignee of the task. Also, included are actions to send a notification via email when a task or subtask due date is impending within a duration or overdue.",
         "homepage": "https://github.com/creecros/SendEmailCreator",
         "readme": "https://raw.githubusercontent.com/creecros/SendEmailCreator/master/README.md",
-        "download": "https://github.com/creecros/SendEmailCreator/releases/download/1.0.7/SendEmailCreator-1.0.7.zip",
+        "download": "https://github.com/creecros/SendEmailCreator/releases/download/1.1.0/SendEmailCreator-1.1.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
@@ -133,13 +133,13 @@
     },
     "Task2pdf": {
         "title": "Task2pdf",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Create a printer friendly PDF of a task.",
         "homepage": "https://github.com/creecros/Task2pdf",
         "readme": "https://raw.githubusercontent.com/creecros/Task2pdf/master/README.md",
-        "download": "https://github.com/creecros/Task2pdf/releases/download/1.1.0/Task2pdf-1.1.0.zip",
+        "download": "https://github.com/creecros/Task2pdf/releases/download/1.2.0/Task2pdf-1.2.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
@@ -769,13 +769,13 @@
     },
     "updatenotifier": {
         "title": "UpdateNotifier",
-        "version": "1.4.0",
+        "version": "1.4.1",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "What is Update Notifier? The Update Notifier is a utility that scans installed plugin and displays a list of updates.",
         "homepage": "https://github.com/kenlog/UpdateNotifier",
         "readme": "https://raw.githubusercontent.com/kenlog/UpdateNotifier/master/README.md",
-        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.4.0/UpdateNotifier-1.4.0.zip",
+        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.4.1/UpdateNotifier-1.4.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
