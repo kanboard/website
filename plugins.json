@@ -119,6 +119,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
+    "EmojiSupport": {
+        "title": "EmojiSupport",
+        "version": "1.0.0",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Adds EmojiOne Shortcode and Unicode conversions to Markdown in Kanboard",
+        "homepage": "https://github.com/creecros/EmojiSupport",
+        "readme": "https://raw.githubusercontent.com/creecros/EmojiSupport/master/README.md,
+        "download": "https://github.com/creecros/EmojiSupport/releases/download/1.0.0/EmojiSupport-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.46"
+    },
     "group_assign": {
         "title": "Group_assign",
         "version": "1.7.3",
