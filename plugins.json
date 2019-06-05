@@ -97,13 +97,13 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "1.11.2",
+        "version": "1.11.3",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/1.11.2/Customizer-1.11.2.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/1.11.3/Customizer-1.11.3.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
@@ -119,15 +119,27 @@
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
+    "MarkdownPlus": {
+        "title": "MarkdownPlus",
+        "version": "1.0.0",
+        "author": "Craig Crosby",
+        "license": "MIT",
+        "description": "Improved Markdown, with check boxes, emoji shortcode, inline html, etc...",
+        "homepage": "https://github.com/creecros/MarkdownPlus",
+        "readme": "https://raw.githubusercontent.com/creecros/MarkdownPlus/master/README.md",
+        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.0.0/MarkdownPlus-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.46"
+    },
     "group_assign": {
         "title": "Group_assign",
-        "version": "1.7.1",
+        "version": "1.7.3",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Add group assignment and additional assignees multiselect option to tasks.",
         "homepage": "https://github.com/creecros/Group_assign",
         "readme": "https://raw.githubusercontent.com/creecros/Group_assign/master/README.md",
-        "download": "https://github.com/creecros/Group_assign/releases/download/1.7.1/Group_assign-1.7.1.zip",
+        "download": "https://github.com/creecros/Group_assign/releases/download/1.7.3/Group_assign-1.7.3.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
     },
@@ -709,13 +721,13 @@
     },
     "subtaskdate": {
         "title": "SubtaskDueDate",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "author": "Manuel Raposo & Craig Crosby",
         "license": "MIT",
         "description": "This plugin adds a Due Date to subtasks.",
         "homepage": "https://github.com/eSkiSo/Subtaskdate",
         "readme": "https://raw.githubusercontent.com/eSkiSo/Subtaskdate/master/README.md",
-        "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/1.1.1/Subtaskdate-1.1.1.zip",
+        "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/1.1.2/Subtaskdate-1.1.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.34"
     },
@@ -769,13 +781,13 @@
     },
     "updatenotifier": {
         "title": "UpdateNotifier",
-        "version": "1.4.1",
+        "version": "1.4.2",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "What is Update Notifier? The Update Notifier is a utility that scans installed plugin and displays a list of updates.",
         "homepage": "https://github.com/kenlog/UpdateNotifier",
         "readme": "https://raw.githubusercontent.com/kenlog/UpdateNotifier/master/README.md",
-        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.4.1/UpdateNotifier-1.4.1.zip",
+        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.4.2/UpdateNotifier-1.4.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
