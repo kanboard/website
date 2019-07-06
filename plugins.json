@@ -91,7 +91,7 @@
         "description": "Customize board and card style per user",
         "homepage": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer",
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_boardcustomizer/master/README.md",
-        "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/blob/master/BoardCustomizer-latest.zip",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/blob/master/BoardCustomizer-latest.zip?raw=true",
         "remote_install": true,
         "compatible_version": ">=1.2.10"
     },
