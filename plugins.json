@@ -83,6 +83,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.43"
     },
+    "BoardCustomizer": {
+        "title": "BoardCustomizer",
+        "version": "0.1.0",
+        "author": "BlueTeck",
+        "license": "MIT",
+        "description": "Customize board and card style per user",
+        "homepage": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer",
+        "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_boardcustomizer/master/README.md",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/releases/download/v0.1.0/BoardCustomizer-0.1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.10"
+    },
     "commentonly": {
         "title": "Comment Only Restrictions for Project Viewers",
         "version": "0.0.2",
