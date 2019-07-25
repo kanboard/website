@@ -862,5 +862,17 @@
         "download": "https://github.com/ptr0x01/kanboard-plugin-zulip/releases/download/1.1.0/Zulip.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
+    },
+    "offline": {
+        "title": "Offline",
+        "version": "1.0.0",
+        "author": "Andrei Volgin, ipunkt Business Solutions",
+        "license": "MIT",
+        "description": "This Plugin is used to automatically alert users when they've lost internet connectivity.",
+        "homepage": "https://github.com/ipunkt/OfflineKanboardPlugin",
+        "readme": "https://github.com/ipunkt/OfflineKanboardPlugin/blob/master/README.md",
+        "download": "https://github.com/ipunkt/OfflineKanboardPlugin/releases/download/1.0.0/OfflineKanboardPlugin-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     }
 }
