@@ -874,5 +874,17 @@
         "download": "https://github.com/ipunkt/OfflineKanboardPlugin/releases/download/1.0.0/OfflineKanboardPlugin-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
+    },
+    "search": {
+        "title": "Search plugin",
+        "version": "1.0.0",
+        "author": "Andrei Volgin, ipunkt Business Solutions",
+        "license": "MIT",
+        "description": "This Plugin is created for advanced fulltext search within all Projects. The search will be performed in Task title, Task description, Task comments, Subtask title and in Attachments. All 5 filters can be turned on/off in Kanboard Settings page.",
+        "homepage": "https://github.com/ipunkt/KanboardSearchPlugin",
+        "readme": "https://github.com/ipunkt/KanboardSearchPlugin/blob/master/README.md",
+        "download": "https://github.com/ipunkt/KanboardSearchPlugin/releases/download/v1.0.0/KanboardSearchPlugin-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.5"
     }
 }
