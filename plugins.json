@@ -395,6 +395,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "Greenwing": {
+        "title": "Greenwing",
+        "version": "1.0.0",
+        "author": "Confexion",
+        "license": "MIT",
+        "description": "Greenwing is a kanboard beautify theme with a modern design.",
+        "homepage": "https://github.com/Confexion/Greenwing",
+        "readme": "https://github.com/Confexion/Greenwing/blob/master/README.md",
+        "download": "https://github.com/Confexion/Greenwing/releases/download/v1.0.0/Greenwing.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.9"
+    },
     "highlightcodesyntax": {
         "title": "HighlightCodeSyntax",
         "version": "1.0.1",
