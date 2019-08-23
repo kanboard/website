@@ -707,6 +707,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "Taglist": {
+        "title": "Taglist",
+        "version": "1.0.0",
+        "author": "BlueTeck",
+        "license": "MIT",
+        "description": "Filter dropdown for tags",
+        "homepage": "https://github.com/BlueTeck/kanboard_plugin_taglist",
+        "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_taglist/master/README.md",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_taglist/releases/download/1.0.0/Taglist-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.10"
+    },
     "timetrackingeditor": {
         "title": "Time Tracking Editor",
         "version": "1.0.21",
