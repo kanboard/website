@@ -779,6 +779,18 @@
         "remote_install": true,
         "compatible_version": ">=1.2.6"
     },
+    "Taglist": {
+        "title": "Taglist",
+        "version": "1.0.1",
+        "author": "BlueTeck",
+        "license": "MIT",
+        "description": "Filter dropdown for tags",
+        "homepage": "https://github.com/BlueTeck/kanboard_plugin_taglist",
+        "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_taglist/master/README.md",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_taglist/releases/download/1.0.1/Taglist-1.0.1.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.10"
+    },
     "timeintervalbutton": {
         "title": "Time Interval Button",
         "version": "0.9.0",
