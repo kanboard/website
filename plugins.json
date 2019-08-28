@@ -887,6 +887,18 @@
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
+    "cas-auth": {
+        "title": "CAS Authentication",
+        "version": "1.0.0",
+        "author": "Jamaïca Servier",
+        "license": "CC BY-NA-SA 4.0",
+        "description": "Use CAS as authentication provider.",
+        "homepage": "https://github.com/DSIEtudes/plugin-cas-auth",
+        "readme": "https://raw.githubusercontent.com/DSIEtudes/plugin-cas-auth/master/README.md",
+        "download": "https://github.com/DSIEtudes/plugin-cas-auth/releases/download/1.0.0/CASAuth-1.0.0.zip",
+        "remote_install": true,
+        "comptabile_version": ">=1.2.5"
+    },
     "offline": {
         "title": "Offline",
         "version": "1.0.0",
