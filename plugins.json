@@ -897,7 +897,7 @@
         "readme": "https://raw.githubusercontent.com/DSIEtudes/plugin-cas-auth/master/README.md",
         "download": "https://github.com/DSIEtudes/plugin-cas-auth/releases/download/1.0.0/CASAuth-1.0.0.zip",
         "remote_install": true,
-        "comptabile_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5"
     },
     "offline": {
         "title": "Offline",
