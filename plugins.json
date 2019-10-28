@@ -947,7 +947,7 @@
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
-    "ProjectInvitation": {
+    "KanboardProjectInvitation": {
         "title": "Project Invitation",
         "version": "1.0.0",
         "author": "Andrei Volgin / Hussein Khalil, ipunkt Business Solutions",
