@@ -931,7 +931,7 @@
         "description": "This plugin gives the ability to assign actual Task (direct in comment-create section) to one of the users in Project.",
         "homepage": "https://github.com/ipunkt/KanboardCommentActions",
         "readme": "https://github.com/ipunkt/KanboardCommentActions/blob/master/README.md",
-        "download": "https://github.com/ipunkt/KanboardCommentActions/releases/download/1.0.0/KanboardCommentActions-1.0.0.zip",
+        "download": "https://github.com/ipunkt/KanboardCommentActions/releases/download/v1.0.0/KanboardCommentActions-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
@@ -943,8 +943,20 @@
         "description": "By this Plugin some action buttons are duplicated from sidebar list to corresponding accordion section in Task content view.",
         "homepage": "https://github.com/ipunkt/KanboardTaskButtonsReposition",
         "readme": "https://github.com/ipunkt/KanboardTaskButtonsReposition/blob/1.0.0/README.md",
-        "download": "https://github.com/ipunkt/KanboardTaskButtonsReposition/releases/download/1.0.0/KanboardTaskButtonsReposition-1.0.0.zip",
+        "download": "https://github.com/ipunkt/KanboardTaskButtonsReposition/releases/download/v1.0.0/KanboardTaskButtonsReposition-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
+    },
+    "KanboardProjectInvitation": {
+        "title": "Project Invitation",
+        "version": "1.0.0",
+        "author": "Andrei Volgin / Hussein Khalil, ipunkt Business Solutions",
+        "license": "MIT",
+        "description": "Plugin is used to invite new users to actual Project by typing user's email. Input for invitation is located in Project Settings->Permissions.",
+        "homepage": "https://github.com/ipunkt/KanboardProjectInvitation",
+        "readme": "https://github.com/ipunkt/KanboardProjectInvitation/blob/master/README.md",
+        "download": "https://github.com/ipunkt/KanboardProjectInvitation/releases/download/v1.0.0/KanboardProjectInvitation-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.11"
     }
 }
