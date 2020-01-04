@@ -277,13 +277,13 @@
     },
     "essential": {
         "title": "Essential",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "author": "Valentino Pesce",
         "license": "MIT",
         "description": "Essential theme returns a new style to your kanboard.",
         "homepage": "https://github.com/kenlog/Essential",
         "readme": "https://github.com/kenlog/Essential/blob/master/README.md",
-        "download": "https://github.com/kenlog/Essential/releases/download/v1.1.1/Essential-v1.1.1.zip",
+        "download": "https://github.com/kenlog/Essential/releases/download/v1.1.2/Essential-v1.1.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.48"
     },
