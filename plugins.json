@@ -109,7 +109,7 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "1.13.2",
+        "version": "1.13.3",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "GUI to add logos, themes, favicons and much more customization.",
