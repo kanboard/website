@@ -841,13 +841,13 @@
     },
     "WeKanboard": {
         "title": "WeKanboard",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Benno Waldhauer",
         "license": "MIT",
         "description": "Yet another theme for Kanboard. Strongly inspired by the style of Wekan. Supports the Customizer plugin.",
         "homepage": "https://github.com/bw-hro/WeKanboard",
         "readme": "https://raw.githubusercontent.com/bw-hro/WeKanboard/master/README.md",
-        "download": "https://github.com/bw-hro/WeKanboard/releases/download/v1.0.1/WeKanboard_v1.0.1.zip",
+        "download": "https://github.com/bw-hro/WeKanboard/releases/download/v1.0.2/WeKanboard_v1.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.11"
     },
