@@ -982,5 +982,17 @@
         "download": "https://github.com/psy-q/kanboard-plugin-grabscroll/archive/0.2.1.tar.gz",
         "remote_install": false,
         "compatible_version": ">=1.2.10"
+    },
+    "SortBoardByDates": {
+        "title": "Sort Board By Dates for kanboard",
+        "version": "0.7.0",
+        "author": "Manfred Hoffmann",
+        "license": "MIT",
+        "description": "Allows boards to be sorted by different dates Date due, started, created, modified, moved, closed ... or (of course) in kanboard default-mode)",
+        "homepage": "https://github.com/manne65-hd/Kanboard-SortBoardByDates",
+        "readme": "https://github.com/manne65-hd/Kanboard-SortBoardByDates/blob/master/README.md",
+        "download": "https://github.com/manne65-hd/Kanboard-SortBoardByDates/archive/master.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.2.11"
     }
 }
