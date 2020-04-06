@@ -995,4 +995,16 @@
         "remote_install": false,
         "compatible_version": ">=1.2.11"
     }
+    "Outlook": {
+        "title": "Recieve Notification in Outlook",
+        "version": "0.0.2",
+        "author": "Siddharth Kaul",
+        "license": "MIT",
+        "description": "Get all the event notification in the outlook as an incoming webhook email.",
+        "homepage": "https://github.com/k10blogger/kanboard-plugin-outlook",
+        "readme": "https://github.com/k10blogger/kanboard-plugin-outlook/blob/master/README.md",
+        "download": "https://github.com/k10blogger/kanboard-plugin-outlook/archive/v0.0.2.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.0.37"
+    }
 }
