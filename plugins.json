@@ -994,7 +994,7 @@
         "download": "https://github.com/manne65-hd/Kanboard-SortBoardByDates/archive/master.zip",
         "remote_install": false,
         "compatible_version": ">=1.2.11"
-    }
+    },
     "Outlook": {
         "title": "Recieve Notification in Outlook",
         "version": "0.0.2",
