@@ -253,15 +253,15 @@
     },
     "coverimage": {
         "title": "Coverimage",
-        "version": "1.2.5.0",
+        "version": "1.2.14.0",
         "author": "BlueTeck + creecros",
         "license": "MIT",
         "description": "This plugin adds a coverimage function to tasks on the board, and allows you to set a project image to use as a logo for projects.",
         "homepage": "https://github.com/BlueTeck/kanboard_plugin_coverimage",
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_coverimage/master/README.md",
-        "download": "https://github.com/BlueTeck/kanboard_plugin_coverimage/releases/download/1.2.5.0/Coverimage.zip",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_coverimage/releases/download/1.2.14.0/Coverimage-1.2.14.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.42"
+        "compatible_version": ">=1.2.14"
     },
     "duedate": {
         "title": "Due Date sorting",
