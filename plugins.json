@@ -601,13 +601,13 @@
     },
     "oauth2": {
         "title": "OAuth2",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "Frédéric Guillot",
         "license": "MIT",
         "description": "Generic OAuth2 plugin.",
         "homepage": "https://github.com/kanboard/plugin-oauth2",
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-oauth2/master/README.md",
-        "download": "https://github.com/kanboard/plugin-oauth2/releases/download/v1.0.1/OAuth2-1.0.1.zip",
+        "download": "https://github.com/kanboard/plugin-oauth2/releases/download/v1.0.2/OAuth2-1.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
