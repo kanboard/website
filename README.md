@@ -11,7 +11,7 @@ Update the files `plugins.json` and `plugins.html`, then send a pull-request.
 - `compatible_version` is the latest stable version tested with your plugin.
 - `remote_install` allows people to install the plugin from the Kanboard user interface.
 
-Your plugin archive must contains a folder with the plugin name (namespace), example:
+Your plugin archive must contain a folder with the plugin name (namespace), example:
 
 ```
 MyPlugin-1.0.0.zip
