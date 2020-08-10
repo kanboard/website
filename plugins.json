@@ -659,6 +659,18 @@
 	"remote_install": true,
 	"compatible_version": ">=1.2.14"
     },
+    "quacicd": {
+	"title": "QuaCICD",
+	"version": "0.0.1",
+	"author": "Quamob",
+	"license": "MIT",
+	"description": "This plugin allow you to execute automated deployment in qualification and production directly on your board.",
+	"homepage": "https://gitlab.com/quamob/QuaCICD",
+	"readme": "https://gitlab.com/quamob/QuaCICD/blob/master/README.md",
+	"download": "https://gitlab.com/quamob/QuaCICD/uploads/35c897fda4fa1cd3b3d81486b2c6123f/QuaCICD-0.0.1.zip",
+	"remote_install": false,
+	"compatible_version": ">=1.2.14"
+    },
     "registration": {
         "title": "Self-Registration",
         "version": "1.0.8",
