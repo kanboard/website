@@ -647,17 +647,17 @@
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
-    "quatest": {
-        "title": "Quatest",
-        "version": "0.0.1",
-        "author": "Quamob",
-        "license": "MIT",
-        "description": "This plugin give you an new interface that help you create Gherkin tests for a task.",
-        "homepage": "https://gitlab.com/quamob/Quatest",
-        "readme": "https://gitlab.com/quamob/Quatest/blob/master/README.md",
-        "download": "https://gitlab.com/quamob/Quatest/uploads/5c09e9a7a6a85e76e7fe9654daf5f1fc/Quatest-0.0.1.zip",
-        "remote_install": true,
-        "compatible_version": ">=1.2.14"
+    "quabdd": {
+	"title": "QuaBDD",
+	"version": "0.0.2",
+	"author": "Quamob",
+	"license": "MIT",
+	"description": "This plugin give you an new interface that help you create Gherkin tests for a task.",
+	"homepage": "https://gitlab.com/quamob/QuaBDD",
+	"readme": "https://gitlab.com/quamob/QuaBDD/blob/master/README.md",
+	"download": "https://gitlab.com/quamob/QuaBDD/uploads/ec3a98456b93a9700972687bf4ffac64/QuaBDD-0.0.2.zip",
+	"remote_install": true,
+	"compatible_version": ">=1.2.14"
     },
     "registration": {
         "title": "Self-Registration",
