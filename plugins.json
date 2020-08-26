@@ -649,13 +649,13 @@
     },
     "quabdd": {
 	"title": "QuaBDD",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": "Quamob",
 	"license": "MIT",
 	"description": "This plugin give you an new interface that help you create Gherkin tests for a task.",
 	"homepage": "https://gitlab.com/quamob/QuaBDD",
 	"readme": "https://gitlab.com/quamob/QuaBDD/blob/master/README.md",
-	"download": "https://gitlab.com/quamob/QuaBDD/uploads/ec3a98456b93a9700972687bf4ffac64/QuaBDD-0.0.2.zip",
+	"download": "https://gitlab.com/quamob/QuaBDD/uploads/2524ff16a1636761922bfd85ba4cafef/QuaBDD-0.0.3.zip",
 	"remote_install": true,
 	"compatible_version": ">=1.2.14"
     },
