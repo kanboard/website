@@ -1,7 +1,7 @@
 Kanboard's website
 ==================
 
-This website is a simple HTML static and user friendly webpage.
+This website is a simple HTML static and cool webpage.
 
 How to add a new plugin to the list?
 ------------------------------------
