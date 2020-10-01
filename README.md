@@ -1,4 +1,4 @@
-Kanboard's website
+Kanboard's Website
 ==================
 
 This website is a simple HTML static webpage.
