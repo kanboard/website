@@ -335,6 +335,18 @@
         "remote_install": true,
         "compatible_version": ">=1.2.15"
     },
+    "gitea-webhook": {
+        "title": "Gitea Webhook",
+        "version": "1.1.0",
+        "author": "Chris Metz",
+        "license": "MIT",
+        "description": "Connect Gitea webhook events to Kanboard automatic actions.",
+        "homepage": "https://github.com/chriswep/plugin-gitea-webhook",
+        "readme": "https://raw.githubusercontent.com/chriswep/plugin-gitea-webhook/master/README.md",
+        "download": "https://github.com/chriswep/plugin-gitea-webhook/releases/download/v1.1.0/GiteaWebhook-1.1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.37"
+    },
     "github-auth": {
         "title": "Github Authentication",
         "version": "1.0.3",
