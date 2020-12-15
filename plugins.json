@@ -515,6 +515,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.40"
     },
+    "matrix": {
+        "title": "Matrix",
+        "version": "1.1.0",
+        "author": "Chris Metz",
+        "license": "MIT",
+        "description": "Send Kanboard notifications to Matrix Synapse (federated messaging platform).",
+        "homepage": "https://github.com/chriswep/kanboard-plugin-matrix",
+        "readme": "https://raw.githubusercontent.com/chriswep/kanboard-plugin-matrix/master/README.md",
+        "download": "https://github.com/chriswep/kanboard-plugin-matrix/releases/download/v1.1.0/Matrix-1.1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.37"
+    },
     "mattermost": {
         "title": "Mattermost",
         "version": "1.0.5",
