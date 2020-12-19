@@ -503,6 +503,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.44"
     },
+    "kangaroojump": {
+        "title": "KangarooJump",
+        "version": "1.0.0",
+        "author": "Valentino Pesce",
+        "license": "MIT",
+        "description": "You can switch from one task to another by entering number on any page of your Kanboard.",
+        "homepage": "https://github.com/kenlog/KangarooJump",
+        "readme": "https://raw.githubusercontent.com/kenlog/KangarooJump/master/README.md",
+        "download": "https://github.com/kenlog/KangarooJump/releases/download/1.0.0/KangarooJump-v1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.48"
+    },
     "mailgun": {
         "title": "Mailgun",
         "version": "1.0.11",
