@@ -1090,5 +1090,17 @@
         "download": "https://github.com/PapeCoding/kanboard-WeeklyRecurringTasks/releases/download/v1.0.2/WeeklyRecurringTasks-1.0.2.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.13"
+    },
+    "Group_owners": {
+        "title": "Group_owners",
+        "version": "1.0.0",
+        "author": "Cyboulette",
+        "license": "MIT",
+        "description": "Allows application managers to create and manage their groups by themselves.",
+        "homepage": "https://github.com/Cyboulette/Group_owners",
+        "readme": "https://raw.githubusercontent.com/Cyboulette/Group_owners/main/README.md",
+        "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.0/Group_owners-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.1.0"
     }
 }
