@@ -229,13 +229,13 @@
     },
     "calendar": {
         "title": "Calendar",
-        "version": "1.1.1",
-        "author": "Frédéric Guillot",
+        "version": "1.2.0",
+        "author": "Andrew Cziryak",
         "license": "MIT",
         "description": "Embedded calendar into Kanboard.",
-        "homepage": "https://github.com/kanboard/plugin-calendar",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-calendar/master/README.md",
-        "download": "https://github.com/kanboard/plugin-calendar/releases/download/v1.1.1/Calendar-1.1.1.zip",
+        "homepage": "https://gitlab.com/smacz/kanboard-plugin-calendar",
+        "readme": "https://gitlab.com/smacz/kanboard-plugin-calendar/-/raw/master/README.md",
+        "download": "https://gitlab.com/smacz/kanboard-plugin-calendar/uploads/8dfb71633c381572df79640aab2c0842/Calendar-1.2.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.13"
     },
