@@ -1102,5 +1102,17 @@
         "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.0/Group_owners-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
+    },
+    "KanboardEssentials": {
+        "title": "Kanboard Essentials",
+        "version": "0.0.1",
+        "author": "Taeluf",
+        "license": "MIT",
+        "description": "Adds many quality of life features, like edit buttons on columns & cards, among others.",
+        "homepage": "https://gitlab.com/taeluf/php/kanboard-essentials",
+        "readme": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/README.md",
+        "download": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/KanboardEssentials.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.0"
     }
 }
