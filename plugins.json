@@ -565,13 +565,13 @@
     },
     "metamagik": {
         "title": "metaMagik",
-        "version": "1.4.11",
+        "version": "1.4.12",
         "author": "Craig Crosby + BlueTeck",
         "license": "MIT",
         "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
         "homepage": "https://github.com/creecros/MetaMagik",
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
-        "download": "https://github.com/creecros/MetaMagik/releases/download/1.4.11/MetaMagik-1.4.11.zip",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/1.4.12/MetaMagik-1.4.12.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.33"
     },
