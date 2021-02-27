@@ -1093,13 +1093,13 @@
     },
     "Group_owners": {
         "title": "Group_owners",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Cyboulette",
         "license": "MIT",
         "description": "Allows application managers to create and manage their groups by themselves.",
         "homepage": "https://github.com/Cyboulette/Group_owners",
         "readme": "https://raw.githubusercontent.com/Cyboulette/Group_owners/main/README.md",
-        "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.0/Group_owners-1.0.0.zip",
+        "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.1/Group_owners-1.0.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
     }
