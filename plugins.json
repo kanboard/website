@@ -109,13 +109,13 @@
     },
     "customizer": {
         "title": "Customizer",
-        "version": "1.13.5",
+        "version": "1.13.6",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "GUI to add logos, themes, favicons and much more customization.",
         "homepage": "https://github.com/creecros/Customizer",
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
-        "download": "https://github.com/creecros/Customizer/releases/download/1.13.5/Customizer-1.13.5.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/1.13.6/Customizer-1.13.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
@@ -229,13 +229,13 @@
     },
     "calendar": {
         "title": "Calendar",
-        "version": "1.1.1",
-        "author": "Frédéric Guillot",
+        "version": "1.2.0",
+        "author": "Andrew Cziryak",
         "license": "MIT",
         "description": "Embedded calendar into Kanboard.",
-        "homepage": "https://github.com/kanboard/plugin-calendar",
-        "readme": "https://raw.githubusercontent.com/kanboard/plugin-calendar/master/README.md",
-        "download": "https://github.com/kanboard/plugin-calendar/releases/download/v1.1.1/Calendar-1.1.1.zip",
+        "homepage": "https://gitlab.com/smacz/kanboard-plugin-calendar",
+        "readme": "https://gitlab.com/smacz/kanboard-plugin-calendar/-/raw/master/README.md",
+        "download": "https://gitlab.com/smacz/kanboard-plugin-calendar/uploads/8dfb71633c381572df79640aab2c0842/Calendar-1.2.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.13"
     },
@@ -427,7 +427,7 @@
         "description": "Greenwing is a kanboard beautify theme with a modern design.",
         "homepage": "https://github.com/Confexion/Greenwing",
         "readme": "https://github.com/Confexion/Greenwing/blob/master/README.md",
-        "download": "https://github.com/Confexion/Greenwing/releases/download/v1.3.1/Greenwing.zip",
+        "download": "https://github.com/Confexion/Greenwing/releases/download/1.3.1/Greenwing.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.9"
     },
@@ -565,13 +565,13 @@
     },
     "metamagik": {
         "title": "metaMagik",
-        "version": "1.4.8",
+        "version": "1.4.13",
         "author": "Craig Crosby + BlueTeck",
         "license": "MIT",
         "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
         "homepage": "https://github.com/creecros/MetaMagik",
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
-        "download": "https://github.com/creecros/MetaMagik/releases/download/1.4.8/MetaMagik-1.4.8.zip",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/1.4.13/MetaMagik-1.4.13.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.33"
     },
@@ -1067,6 +1067,18 @@
         "remote_install": false,
         "compatible_version": ">=1.2.11"
     },
+    "TaskProgressBar": {
+        "title": "TaskProgressBar",
+        "version": "1.0.1",
+        "author": "Valentino Pesce",
+        "license": "MIT",
+        "description": "Show the progress bar of sub-tasks from the bulletin board.",
+        "homepage": "https://github.com/kenlog/TaskProgressBar",
+        "readme": "https://raw.githubusercontent.com/kenlog/TaskProgressBar/master/README.md",
+        "download": "https://github.com/kenlog/TaskProgressBar/releases/download/v1.0.1/TaskProgressBar.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.48"
+    },
     "Outlook": {
         "title": "Recieve Notification in Outlook",
         "version": "0.0.2",
@@ -1093,14 +1105,26 @@
     },
     "Group_owners": {
         "title": "Group_owners",
-        "version": "1.0.1",
+        "version": "1.0.0",
         "author": "Cyboulette",
         "license": "MIT",
         "description": "Allows application managers to create and manage their groups by themselves.",
         "homepage": "https://github.com/Cyboulette/Group_owners",
         "readme": "https://raw.githubusercontent.com/Cyboulette/Group_owners/main/README.md",
-        "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.1/Group_owners-1.0.1.zip",
+        "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.0/Group_owners-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
+    },
+    "KanboardEssentials": {
+        "title": "Kanboard Essentials",
+        "version": "0.0.1",
+        "author": "Taeluf",
+        "license": "MIT",
+        "description": "Adds many quality of life features, like edit buttons on columns & cards, among others.",
+        "homepage": "https://gitlab.com/taeluf/php/kanboard-essentials",
+        "readme": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/README.md",
+        "download": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/KanboardEssentials.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.0"
     }
 }
