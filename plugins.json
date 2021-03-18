@@ -145,13 +145,13 @@
     },
     "MarkdownPlus": {
         "title": "MarkdownPlus",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "author": "Craig Crosby",
         "license": "MIT",
         "description": "Improved Markdown, with check boxes, emoji shortcode, inline html, etc...",
         "homepage": "https://github.com/creecros/MarkdownPlus",
         "readme": "https://raw.githubusercontent.com/creecros/MarkdownPlus/master/README.md",
-        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.0.0/MarkdownPlus-1.0.0.zip",
+        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.1.0/MarkdownPlus-1.1.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
