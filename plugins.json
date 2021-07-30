@@ -961,13 +961,13 @@
     },
     "zulip": {
         "title": "Zulip",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "author": "Peter Fejer",
         "license": "MIT",
         "description": "Receive individual or project notifications on Zulip.",
-        "homepage": "https://github.com/ptr0x01/kanboard-plugin-zulip",
-        "readme": "https://github.com/ptr0x01/kanboard-plugin-zulip/blob/master/README.md",
-        "download": "https://github.com/ptr0x01/kanboard-plugin-zulip/releases/download/1.1.0/Zulip.zip",
+        "homepage": "https://github.com/ptr0x1/kanboard-plugin-zulip",
+        "readme": "https://github.com/ptr0x1/kanboard-plugin-zulip/blob/master/README.md",
+        "download": "https://github.com/ptr0x1/kanboard-plugin-zulip/releases/download/1.2.0/Zulip.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
