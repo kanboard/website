@@ -347,6 +347,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "incomingtask": {
+    "title": "Create incoming task via Webhook",
+    "version": "1.0.0",
+    "author": "David Morlitz",
+    "license": "MIT",
+    "description": "This plugin enables a webhook for remote task insertion into Kanboard. I use this plugin to enable Slack integration for task creation.",
+    "homepage": "https://github.com/dmorlitz/kanboard-IncomingTask",
+    "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-IncomingTask/master/README.md",
+    "download": "https://github.com/dmorlitz/kanboard-IncomingTask/blob/1/releases/IncomingTask.zip?raw=true",
+    "remote_install": true,
+    "compatible_version": ">=1.2.5"
+    },
     "instantactions": {
         "title": "Instant Actions for Kanboard Tasks",
         "version": "1.0.0",
