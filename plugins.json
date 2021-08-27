@@ -107,6 +107,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
+    "CompletedComplexity": {
+        "title": "Completed Complexity",
+        "version": "0.3.0",
+        "author": "Andrew Cziryak",
+        "license": "MIT",
+        "description": "Plugin to add tracking of Completed Complexity of tasks over dates in a date range. This chart shows the completed complexity (throughput) of tasks moved into the right-most column over the time interval.",
+        "homepage": "https://gitlab.com/smacz/kanboard-completedcomplexity",
+        "readme": "https://gitlab.com/smacz/kanboard-completedcomplexity",
+        "download": "https://gitlab.com/smacz/kanboard-completedcomplexity/uploads/628495306175fc1ec0764d64993d7c0e/CompletedComplexity-0.3.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.13"
+    },
     "customizer": {
         "title": "Customizer",
         "version": "1.13.7",
