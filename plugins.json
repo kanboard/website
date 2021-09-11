@@ -1138,5 +1138,17 @@
         "download": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/KanboardEssentials.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.0"
+    },
+    "PersianBoard": {
+        "title": "Persian Board",
+        "version": "1.0.0",
+        "author": "Hamid Kord",
+        "license": "MIT",
+        "description": "Make Kanboard compatible with Iranian Calendar (Persian or jalali Calendar) and support RTL (Right To Left) direction.",
+        "homepage": "https://github.com/mer30hamid/PersianBoard",
+        "readme": "https://github.com/mer30hamid/PersianBoard/blob/master/README.md",
+        "download": "https://github.com/mer30hamid/PersianBoard/releases/download/v1.0.0/PersianBoard-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.11"
     }
 }
