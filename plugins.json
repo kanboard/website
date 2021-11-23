@@ -1151,4 +1151,64 @@
         "remote_install": true,
         "compatible_version": ">=1.2.11"
     }
+    "KADIFF": {
+        "title": "Activity Diff",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "Show a side-by-side diff (if applicable) in the activity streams",
+        "homepage": "https://github.com/Chaosmeister/KADIFF",
+        "readme": "https://github.com/Chaosmeister/KADIFF/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/KADIFF/releases/download/1.0.0/KADIFF.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    }
+    "TNID": {
+        "title": "Task number in details",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "Show the task number in the task details, so if you use the MinimizeSidebar plugin, you can still see the tasknumber",
+        "homepage": "https://github.com/Chaosmeister/TNID",
+        "readme": "https://github.com/Chaosmeister/TNID/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/TNID/releases/download/1.0.0/TNID.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    }
+    "CCIT": {
+        "title": "clickable checkboxes in textareass",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "Enable state-saving checkboxes in textareas - requires MarkdownPlus",
+        "homepage": "https://github.com/Chaosmeister/CCIT",
+        "readme": "https://github.com/Chaosmeister/CCIT/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/CCIT/releases/download/1.0.0/CCIT.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    }
+    "PITM": {
+        "title": "Paste image to markdown",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "Allows to paste images directly into textareas - requires MarkdownPlus",
+        "homepage": "https://github.com/Chaosmeister/PITM",
+        "readme": "https://github.com/Chaosmeister/PITM/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.0/PITM.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    }
+    "EAR": {
+        "title": "Enable attachment renaming",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "Add a button on attachments that allows you to rename them",
+        "homepage": "https://github.com/Chaosmeister/EAR",
+        "readme": "https://github.com/Chaosmeister/EAR/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/EAR/releases/download/1.0.0/EAR.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    }
 }
