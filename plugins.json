@@ -1150,7 +1150,7 @@
         "download": "https://github.com/mer30hamid/PersianBoard/releases/download/v1.0.0/PersianBoard-1.0.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.11"
-    }
+    },
     "KADIFF": {
         "title": "Activity Diff",
         "version": "1.0.0",
@@ -1162,7 +1162,7 @@
         "download": "https://github.com/Chaosmeister/KADIFF/releases/download/1.0.0/KADIFF.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
-    }
+    },
     "TNID": {
         "title": "Task number in details",
         "version": "1.0.0",
@@ -1174,7 +1174,7 @@
         "download": "https://github.com/Chaosmeister/TNID/releases/download/1.0.0/TNID.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
-    }
+    },
     "CCIT": {
         "title": "clickable checkboxes in textareass",
         "version": "1.0.0",
@@ -1186,7 +1186,7 @@
         "download": "https://github.com/Chaosmeister/CCIT/releases/download/1.0.0/CCIT.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
-    }
+    },
     "PITM": {
         "title": "Paste image to markdown",
         "version": "1.0.0",
@@ -1198,7 +1198,7 @@
         "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.0/PITM.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
-    }
+    },
     "EAR": {
         "title": "Enable attachment renaming",
         "version": "1.0.0",
