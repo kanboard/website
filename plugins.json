@@ -1210,5 +1210,17 @@
         "download": "https://github.com/Chaosmeister/EAR/releases/download/1.0.0/EAR.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
+    },
+    "RCB": {
+        "title": "Resizable codeblocks",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "make codeblocks resizable, scrollable and also initially limit their height to 200px",
+        "homepage": "https://github.com/Chaosmeister/RCB",
+        "readme": "https://github.com/Chaosmeister/RCB/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/RCB/releases/download/1.0.0/RCB.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
     }
 }
