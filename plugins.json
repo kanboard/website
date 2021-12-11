@@ -1222,5 +1222,17 @@
         "download": "https://github.com/Chaosmeister/RCB/releases/download/1.0.0/RCB.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
+    },
+     "mathjaxForKanboard": {
+        "title": "Add MathJax to Kanboard",
+        "version": "1.1.0",
+        "author": "Michael Zauner",
+        "license": "MIT",
+        "description": "Adds MathJax capabilites to your Kanboard. Use $$ \\alpha $$  for inline math and $$$ \\beta $$$ for block math",
+        "homepage": "https://github.com/Zaunmich/mathjaxForKanboard",
+        "readme": "https://github.com/Zaunmich/mathjaxForKanboard/blob/master/README.md",
+        "download": "https://github.com/Zaunmich/mathjaxForKanboard/releases/download/v1.1.0/mathjaxForKanboard_v1.1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
     }
 }
