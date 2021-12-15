@@ -1234,5 +1234,17 @@
         "download": "https://github.com/Zaunmich/mathjaxForKanboard/releases/download/v1.1.0/mathjaxForKanboard_v1.1.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
+    },
+    "PAM": {
+        "title": "Project activity modifier",
+        "version": "1.0.0",
+        "author": "Tomas Dittmann",
+        "license": "Unlicense",
+        "description": "add hide/show or delete buttons for administrators to every event on activity streams",
+        "homepage": "https://github.com/Chaosmeister/PAM",
+        "readme": "https://github.com/Chaosmeister/PAM/blob/main/README.md",
+        "download": "https://github.com/Chaosmeister/PAM/releases/download/1.0.0/PAM.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
     }
 }
