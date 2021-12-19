@@ -205,13 +205,13 @@
     },
     "bigboard": {
         "title": "Bigboard",
-        "version": "1.5.0",
-        "author": "BlueTeck, Thomas Stinner, Pierre Cadeot, PapeCoding, Chaosmeister",
+        "version": "1.5.1",
+        "author": "BlueTeck, Thomas Stinner, Pierre Cadeot, PapeCoding, Chaosmeister, Jieiku",
         "license": "MIT",
         "description": "A Kanboard that can display multiple projects.",
         "homepage": "https://github.com/BlueTeck/kanboard_plugin_bigboard",
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_bigboard/master/README.md",
-        "download": "https://github.com/BlueTeck/kanboard_plugin_bigboard/releases/download/1.5.0/Bigboard-1.5.0.zip",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_bigboard/releases/download/1.5.1/Bigboard-1.5.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.12"
     },
