@@ -817,13 +817,13 @@
     },
     "starredprojects": {
         "title": "Starred Projects",
-        "version": "0.2.0",
+        "version": "0.3.0",
         "author": "BibLibre",
         "license": "MIT",
         "description": "Mark projects as favorite for faster access in dashboard",
         "homepage": "https://github.com/biblibre/kanboard-plugin-StarredProjects",
-        "readme": "https://raw.githubusercontent.com/biblibre/kanboard-plugin-StarredProjects/v0.2.0/README.md",
-        "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.2.0/StarredProjects-0.2.0.zip",
+        "readme": "https://raw.githubusercontent.com/biblibre/kanboard-plugin-StarredProjects/v0.3.0/README.md",
+        "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.3.0/StarredProjects-0.3.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.5"
     },
