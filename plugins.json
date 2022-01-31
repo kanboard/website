@@ -86,7 +86,7 @@
     "Boardcustomizer": {
         "title": "Boardcustomizer",
         "version": "1.1.0",
-        "author": "BlueTeck, Jake G",
+        "author": "BlueTeck, Craig Crosby, Jake G",
         "license": "MIT",
         "description": "Customize board and card style per user",
         "homepage": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer",
