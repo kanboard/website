@@ -89,9 +89,9 @@
         "author": "BlueTeck, Jake G",
         "license": "MIT",
         "description": "Customize board and card style per user",
-        "homepage": "https://github.com/Jieiku/Boardcustomizer",
-        "readme": "https://raw.githubusercontent.com/Jieiku/Boardcustomizer/master/README.md",
-        "download": "https://github.com/Jieiku/Boardcustomizer/files/7963065/Boardcustomizer.zip",
+        "homepage": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer",
+        "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_boardcustomizer/master/README.md",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/releases/download/v1.1.0/Boardcustomizer-1.1.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.10"
     },
@@ -175,7 +175,7 @@
         "description": "Add group assignment and additional assignees multiselect option to tasks.",
         "homepage": "https://github.com/Jieiku/Group_assign",
         "readme": "https://raw.githubusercontent.com/Jieiku/Group_assign/master/README.md",
-        "download": "https://github.com/Jieiku/Group_assign/files/7963086/Group_assign.zip",
+        "download": "https://github.com/Jieiku/Group_assign/releases/download/1.8.0/Group_assign-1.8.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
     },
