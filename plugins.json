@@ -169,13 +169,13 @@
     },
     "group_assign": {
         "title": "Group_assign",
-        "version": "1.7.11",
-        "author": "Craig Crosby",
+        "version": "1.7.12",
+        "author": "Craig Crosby, Jake G",
         "license": "MIT",
         "description": "Add group assignment and additional assignees multiselect option to tasks.",
         "homepage": "https://github.com/creecros/Group_assign",
         "readme": "https://raw.githubusercontent.com/creecros/Group_assign/master/README.md",
-        "download": "https://github.com/creecros/Group_assign/releases/download/1.7.11/Group_assign-1.7.11.zip",
+        "download": "https://github.com/creecros/Group_assign/releases/download/1.7.12/Group_assign-1.7.12.zip",
         "remote_install": true,
         "compatible_version": ">=1.1.0"
     },
