@@ -852,14 +852,14 @@
         "compatible_version": ">=1.0.34"
     },
     "subtaskdescription": {
-        "title": "SubtaskDueDescription",
-        "version": "1.0.0",
+        "title": "SubtaskDescription",
+        "version": "1.1.0",
         "author": "Shaun Fong",
         "license": "MIT",
-        "description": "This plugin adds a Due Description to subtasks.",
+        "description": "This plugin add markdown description to subtasks.",
         "homepage": "https://github.com/Shaun-Fong/SubtaskDescription",
         "readme": "https://raw.githubusercontent.com/Shaun-Fong/SubtaskDescription/master/README.md",
-        "download": "https://github.com/Shaun-Fong/SubtaskDescription/releases/download/1.0.0/Subtaskdescription-1.0.0.zip",
+        "download": "https://github.com/Shaun-Fong/SubtaskDescription/releases/download/1.1.0/Subtaskdescription-1.1.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.34"
     },
