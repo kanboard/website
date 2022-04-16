@@ -383,6 +383,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "github-release-notifier": {
+        "title": "Github Release Notifier",
+        "version": "1.0.0",
+        "author": "Shaun Fong",
+        "license": "MIT",
+        "description": "Kanboard Plugin to create task when github release.",
+        "homepage": "https://github.com/Shaun-Fong/github-release-notifier",
+        "readme": "https://raw.githubusercontent.com/Shaun-Fong/github-release-notifier/main/README.md",
+        "download": "https://github.com/Shaun-Fong/github-release-notifier/releases/download/1.0.0/GithubReleaseNotifier-1.0.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.37"
+    },
     "gitlab-auth": {
         "title": "Gitlab Authentication",
         "version": "1.0.5",
