@@ -383,6 +383,18 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
+    "github-release-notifier": {
+        "title": "Github Release Notifier",
+        "version": "1.1.0",
+        "author": "Shaun Fong",
+        "license": "MIT",
+        "description": "Kanboard Plugin to create task when github release.",
+        "homepage": "https://github.com/Shaun-Fong/github-release-notifier",
+        "readme": "https://raw.githubusercontent.com/Shaun-Fong/github-release-notifier/main/README.md",
+        "download": "https://github.com/Shaun-Fong/github-release-notifier/releases/download/1.1.0/GithubReleaseNotifier-1.1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.0.37"
+    },
     "gitlab-auth": {
         "title": "Gitlab Authentication",
         "version": "1.0.5",
@@ -577,13 +589,13 @@
     },
     "metamagik": {
         "title": "metaMagik",
-        "version": "1.5.0",
+        "version": "1.5.1",
         "author": "Craig Crosby + BlueTeck",
         "license": "MIT",
         "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
         "homepage": "https://github.com/creecros/MetaMagik",
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
-        "download": "https://github.com/creecros/MetaMagik/releases/download/1.5.0/MetaMagik-1.5.0.zip",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/1.5.1/MetaMagik-1.5.1.zip",
         "remote_install": true,
         "compatible_version": ">=1.0.33"
     },
@@ -1213,13 +1225,13 @@
     },
     "EAR": {
         "title": "Enable attachment renaming",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "Tomas Dittmann",
         "license": "Unlicense",
         "description": "Add a button on attachments that allows you to rename them",
         "homepage": "https://github.com/Chaosmeister/EAR",
         "readme": "https://github.com/Chaosmeister/EAR/blob/main/README.md",
-        "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.0/EAR.zip",
+        "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.1/EAR.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
     },
