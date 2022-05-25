@@ -131,7 +131,7 @@
         "remote_install": true,
         "compatible_version": ">=1.0.42"
     },
-	"CustomUserCSS": {
+    "CustomUserCSS": {
         "title": "CustomUserCSS",
         "version": "1.0.0",
         "author": "Sebastian Pape",
@@ -191,7 +191,7 @@
         "remote_install": true,
         "compatible_version": ">=1.0.46"
     },
-	"ThemeRevision": {
+    "ThemeRevision": {
         "title": "ThemeRevision",
         "version": "0.8.0",
         "author": "greyaz",
