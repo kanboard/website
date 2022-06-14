@@ -1225,13 +1225,13 @@
     },
     "PITM": {
         "title": "Paste image to markdown",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "Tomas Dittmann",
         "license": "Unlicense",
         "description": "Allow to paste images directly into textareas - requires MarkdownPlus",
         "homepage": "https://github.com/Chaosmeister/PITM",
         "readme": "https://github.com/Chaosmeister/PITM/blob/main/README.md",
-        "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.2/PITM.zip",
+        "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.3/PITM.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
     },
