@@ -1282,5 +1282,17 @@
         "download": "https://github.com/Chaosmeister/PAM/releases/download/1.0.0/PAM.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
+    },
+    "ClearDueDateTaskNotMovedColumn": {
+        "title": "ClearDueDateTaskNotMovedColumn",
+        "version": "0.8.0",
+        "author": "Manfred Hoffmann",
+        "license": "MIT",
+        "description": "Adds an automatic action, that allows you to clear the due date of tasks in a specific column, that haven't been moved during a given period.",
+        "homepage": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn",
+        "readme": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn/README.md",
+        "download": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn/archive/refs/tags/v0.8.0.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.2.19"
     }
 }
