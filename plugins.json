@@ -1303,7 +1303,7 @@
         "description": "Adds an automatic action to assign a priority based on a category.",
         "homepage": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory",
         "readme": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory/blob/main/README.md",
-        "download": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory/releases/download/v0.8.0/TaskAssignPriorityToCategory-0.8.0.zip",
+        "download": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory/releases/download/v0.8.1/TaskAssignPriorityToCategory.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.19"
     }
