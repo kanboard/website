@@ -193,13 +193,13 @@
     },
     "ThemeRevision": {
         "title": "ThemeRevision",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "author": "greyaz",
         "license": "MIT",
         "description": "A 'task-first' and high-quality theme for Kanboard. It's aimed at better mobile experiences, common plugins' compatibilities, and customization friendly.",
         "homepage": "https://github.com/greyaz/ThemeRevision",
         "readme": "https://raw.githubusercontent.com/greyaz/ThemeRevision/main/README.md",
-        "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.0/ThemeRevision.zip",
+        "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.1/ThemeRevision.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.8"
     },
