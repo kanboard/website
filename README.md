@@ -6,7 +6,7 @@ This website is a simple HTML static webpage.
 How to add a new plugin to the list?
 ------------------------------------
 
-Update the files `plugins.json` and `index.html`, then send a pull-request.
+Update the files `plugins.json` and `plugins.html`, then send a pull-request.
 
 - `compatible_version` is the latest stable version tested with your plugin.
 - `remote_install` allows people to install the plugin from the Kanboard user interface.
