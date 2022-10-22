@@ -1307,7 +1307,7 @@
         "remote_install": true,
         "compatible_version": ">=1.2.19"
     },
-    "kanboardcss": {
+    "AutomaticActionUX": {
         "title": "AutomaticActionUX",
         "version": "1.0.0",
         "author": "Aljawaid",
