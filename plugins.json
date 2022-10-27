@@ -527,10 +527,10 @@
         "remote_install": true,
         "compatible_version": ">=1.0.37"
     },
-    "kanboardcss": {
+    "KanboardCSS": {
         "title": "KanboardCSS",
         "version": "1.5.0",
-        "author": "Aljawaid",
+        "author": "aljawaid",
         "license": "MIT",
         "description": "A useful and calm theme",
         "homepage": "https://github.com/aljawaid/KanboardCSS",
@@ -1306,5 +1306,41 @@
         "download": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory/releases/download/v0.8.1/TaskAssignPriorityToCategory.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.19"
+    },
+    "AutomaticActionUX": {
+        "title": "AutomaticActionUX",
+        "version": "1.0.0",
+        "author": "aljawaid",
+        "license": "Unlicense",
+        "description": "This plugin changes the Automatic Action interface to make it more user friendly when viewing. This is particularly useful for visual learners and non-English speaking users.",
+        "homepage": "https://github.com/aljawaid/AutomaticActionUX",
+        "readme": "https://github.com/aljawaid/AutomaticActionUX/blob/master/README.md",
+        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.0/AutomaticActionUX-1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    },
+    "KanboardEmailHistory": {
+        "title": "KanboardEmailHistory",
+        "version": "1.2.0",
+        "author": "aljawaid",
+        "license": "Unlicense",
+        "description": "Action to email the full history of a task on closure",
+        "homepage": "https://github.com/aljawaid/KanboardEmailHistory",
+        "readme": "https://github.com/aljawaid/KanboardEmailHistory/blob/main/README.md",
+        "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v1.2/KanboardEmailHistory-1.2.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
+    },
+    "AgileIndicators": {
+        "title": "AgileIndicators",
+        "version": "1.0.0",
+        "author": "aljawaid",
+        "license": "Unlicense",
+        "description": "Agile Indicators display the measurements for Task Priorities and Task Complexities in an easy to use general format. Task Priorities are scaled between P1 and P5 whilst Task Complexities are scored as 0-50.",
+        "homepage": "https://github.com/aljawaid/AgileIndicators",
+        "readme": "https://github.com/aljawaid/AgileIndicators/blob/master/README.md",
+        "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.0/AgileIndicators-1.0.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.20"
     }
 }
