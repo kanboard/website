@@ -203,7 +203,7 @@
         "remote_install": true,
         "compatible_version": ">=1.2.8"
     },
-	"WechatWorkNotifier": {
+	"WechatWorkNotifier": { 
         "title": "Wechat Work Notifier",
         "version": "0.1.0",
         "author": "greyaz",
