@@ -1345,13 +1345,13 @@
     },
     "KanboardSupport": {
         "title": "KanboardSupport",
-        "version": "1.5.0",
+        "version": "2.0.0",
         "author": "aljawaid",
         "license": "MIT",
         "description": "Add a support section in the Kanboard Settings interface so that end users can easily gather any information required by their internal technical support departments and for troubleshooting purposes.",
         "homepage": "https://github.com/aljawaid/KanboardSupport",
         "readme": "https://github.com/aljawaid/KanboardSupport/blob/master/README.md",
-        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v1.5/KanboardSupport-1.5.zip",
+        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.0/KanboardSupport-2.0.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
     }
