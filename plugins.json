@@ -203,7 +203,19 @@
         "remote_install": true,
         "compatible_version": ">=1.2.8"
     },
-	"WechatWorkNotifier": { 
+	"EmbedAnything": { 
+        "title": "Embed Anything",
+        "version": "0.1.0",
+        "author": "greyaz",
+        "license": "MIT",
+        "description": "Embedding anything into Kanboard. This plugin allows you to embed a custom page via an iframe as a stand-alone board in different projects.",
+        "homepage": "https://github.com/greyaz/EmbedAnything",
+        "readme": "https://raw.githubusercontent.com/greyaz/EmbedAnything/main/README.md",
+        "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.1.0/EmbedAnything.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.8"
+    },
+    "WechatWorkNotifier": { 
         "title": "Wechat Work Notifier",
         "version": "0.1.0",
         "author": "greyaz",
