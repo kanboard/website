@@ -208,7 +208,7 @@
         "version": "0.2.0",
         "author": "greyaz",
         "license": "MIT",
-        "description": "Embedding anything into Kanboard. This plugin allows you to embed a custom page via an iframe as a stand-alone board in different projects.",
+        "description": "Embed anything into Kanboard. This plugin utilizes HTML iframes and allows you to embed any web content into your project as a stand-alone page.",
         "homepage": "https://github.com/greyaz/EmbedAnything",
         "readme": "https://raw.githubusercontent.com/greyaz/EmbedAnything/main/README.md",
         "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.2.0/EmbedAnything.zip",
