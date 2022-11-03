@@ -203,7 +203,7 @@
         "remote_install": true,
         "compatible_version": ">=1.2.8"
     },
-	"EmbedAnything": {  
+    "EmbedAnything": {  
         "title": "Embed Anything",
         "version": "0.1.0",
         "author": "greyaz",
