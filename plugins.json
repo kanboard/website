@@ -1333,13 +1333,13 @@
     },
     "AutomaticActionUX": {
         "title": "AutomaticActionUX",
-        "version": "1.5.0",
+        "version": "1.6.0",
         "author": "aljawaid",
         "license": "Unlicense",
         "description": "This plugin gives the Automatic Action interface a complete makeover to make it more user friendly. Particularly useful for visual learners and non-English speaking users, this plugin adds a quick glance of Actions on the board avoiding careless drag-happy mistakes.",
         "homepage": "https://github.com/aljawaid/AutomaticActionUX",
         "readme": "https://github.com/aljawaid/AutomaticActionUX/blob/master/README.md",
-        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.5/AutomaticActionUX-1.5.zip",
+        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.6/AutomaticActionUX-1.6.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.20"
     },
