@@ -217,13 +217,13 @@
     },
     "WechatWorkNotifier": { 
         "title": "Wechat Work Notifier",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "author": "greyaz",
         "license": "MIT",
         "description": "Receive notifications on Wechat Work (企业微信), aka Wecom.",
         "homepage": "https://github.com/greyaz/WechatWorkNotifier",
         "readme": "https://raw.githubusercontent.com/greyaz/WechatWorkNotifier/main/README.md",
-        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.3.1/WechatWorkNotifier.zip",
+        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.3.2/WechatWorkNotifier.zip",
         "remote_install": true,
         "compatible_version": ">=1.2.8"
     },
