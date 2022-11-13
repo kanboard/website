@@ -1462,6 +1462,7 @@
         "has_schema": false,
         "has_overrides": false,
         "has_hooks": true,
+        "is_action": false,
         "last_updated": "2022-11-09"
     }
 }
