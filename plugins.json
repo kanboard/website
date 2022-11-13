@@ -9,7 +9,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-s3/master/README.md",
         "download": "https://github.com/kanboard/plugin-s3/releases/download/v1.0.5/S3-1.0.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2019-03-26"
     },
     "assigncategory": {
         "title": "Assign category when moving cards to specified column",
@@ -21,7 +22,8 @@
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignCategory/master/README.md",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignCategory/master/releases/TaskAssignCategory.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2017-11-15"
     },
     "assigndate": {
         "title": "Assign date to undated cards",
@@ -33,7 +35,8 @@
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignDateToUndated/master/README.md",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignDateToUndated/master/releases/TaskAssignDateToUndated.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2017-11-15"
     },
     "assignduedatecolumn": {
         "title": "Assign due date when moving cards to specified column",
@@ -45,7 +48,8 @@
         "readme": "https://raw.githubusercontent.com/jclwilson/kanboard-plugin-assignduedate/master/README.md",
         "download": "https://github.com/jclwilson/kanboard-plugin-assignduedate/archive/1.0.0.zip",
         "remote_install": false,
-        "compatible_version": ">=1.2.0"
+        "compatible_version": ">=1.2.0",
+        "last_updated": "2018-03-08"
     },
     "autoemailactions": {
         "title": "Auto Email Extended Actions",
@@ -57,7 +61,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/SendEmailCreator/master/README.md",
         "download": "https://github.com/creecros/SendEmailCreator/releases/download/1.2.3/SendEmailCreator-1.2.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.46"
+        "compatible_version": ">=1.0.46",
+        "last_updated": "2021-02-25"
     },
     "autosubtasks": {
         "title": "Auto Subtask Creation",
@@ -69,7 +74,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/AutoSubtasks/master/README.md",
         "download": "https://github.com/creecros/AutoSubtasks/releases/download/2.1.0/AutoSubtasks-2.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2019-02-13"
     },
     "Bak2topbotm": {
         "title": "Bak2topbotm",
@@ -81,7 +87,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/Bak2topbotm/master/README.md",
         "download": "https://github.com/creecros/Bak2topbotm/releases/download/0.0.3/Bak2topbotm-0.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.43"
+        "compatible_version": ">=1.0.43",
+        "last_updated": "2018-10-16"
     },
     "Boardcustomizer": {
         "title": "Boardcustomizer",
@@ -93,7 +100,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_boardcustomizer/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/releases/download/v1.1.0/Boardcustomizer-1.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.10"
+        "compatible_version": ">=1.2.10",
+        "last_updated": "2022-06-31"
     },
     "commentonly": {
         "title": "Comment Only Restrictions for Project Viewers",
@@ -105,7 +113,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/opencomment/master/README.md",
         "download": "https://github.com/creecros/opencomment/releases/download/0.0.2/CommentOnly-0.0.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.46"
+        "compatible_version": ">=1.0.46",
+        "last_updated": "2018-05-18"
     },
     "CompletedComplexity": {
         "title": "Completed Complexity",
@@ -117,7 +126,9 @@
         "readme": "https://gitlab.com/smacz/kanboard-completedcomplexity",
         "download": "https://gitlab.com/smacz/kanboard-completedcomplexity/uploads/628495306175fc1ec0764d64993d7c0e/CompletedComplexity-0.3.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.13"
+        "compatible_version": ">=1.2.13",
+        "last_updated": "2021-08-27"
+
     },
     "customizer": {
         "title": "Customizer",
@@ -129,7 +140,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/Customizer/master/README.md",
         "download": "https://github.com/creecros/Customizer/releases/download/1.14.0/Customizer-1.14.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.42"
+        "compatible_version": ">=1.0.42",
+        "last_updated": "2022-11-07"
     },
     "CustomUserCSS": {
         "title": "CustomUserCSS",
@@ -141,7 +153,8 @@
         "readme": "https://github.com/PapeCoding/kanboard-CustomUserCSS/blob/master/README.md",
         "download": "https://github.com/PapeCoding/kanboard-CustomUserCSS/releases/download/v1.0.0/CustomUserCSS.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.13"
+        "compatible_version": ">=1.2.13",
+        "last_updated": "2020-04-18"
     },
     "creecros_filter_pack": {
         "title": "Creecros_Filter_Pack",
@@ -153,7 +166,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/Creecros_Filter_Pack/master/README.md",
         "download": "https://github.com/creecros/Creecros_Filter_Pack/releases/download/1.3.1/Creecros_Filter_Pack-1.3.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.42"
+        "compatible_version": ">=1.0.42",
+        "last_updated": "2020-12-09"
     },
     "MarkdownPlus": {
         "title": "MarkdownPlus",
@@ -165,7 +179,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/MarkdownPlus/master/README.md",
         "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.1.0/MarkdownPlus-1.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.46"
+        "compatible_version": ">=1.0.46",
+        "last_updated": "2021-03-19"
     },
     "group_assign": {
         "title": "Group_assign",
@@ -177,7 +192,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/Group_assign/master/README.md",
         "download": "https://github.com/creecros/Group_assign/releases/download/1.7.12/Group_assign-1.7.12.zip",
         "remote_install": true,
-        "compatible_version": ">=1.1.0"
+        "compatible_version": ">=1.1.0",
+        "last_updated": "2022-10-21"
     },
     "Task2pdf": {
         "title": "Task2pdf",
@@ -189,7 +205,8 @@
         "readme": "https://raw.githubusercontent.com/creecros/Task2pdf/master/README.md",
         "download": "https://github.com/creecros/Task2pdf/releases/download/1.6.1/Task2pdf-1.6.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.46"
+        "compatible_version": ">=1.0.46",
+        "last_updated": "2022-11-10"
     },
     "ThemeRevision": {
         "title": "ThemeRevision",
@@ -201,9 +218,10 @@
         "readme": "https://raw.githubusercontent.com/greyaz/ThemeRevision/main/README.md",
         "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.6/ThemeRevision.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.8"
+        "compatible_version": ">=1.2.8",
+        "last_updated": "2022-11-11"
     },
-    "EmbedAnything": {  
+    "EmbedAnything": {
         "title": "Embed Anything",
         "version": "0.2.0",
         "author": "greyaz",
@@ -213,9 +231,10 @@
         "readme": "https://raw.githubusercontent.com/greyaz/EmbedAnything/main/README.md",
         "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.2.0/EmbedAnything.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.8"
+        "compatible_version": ">=1.2.8",
+        "last_updated": "2022-11-03"
     },
-    "WechatWorkNotifier": { 
+    "WechatWorkNotifier": {
         "title": "Wechat Work Notifier",
         "version": "0.3.2",
         "author": "greyaz",
@@ -225,7 +244,8 @@
         "readme": "https://raw.githubusercontent.com/greyaz/WechatWorkNotifier/main/README.md",
         "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.3.2/WechatWorkNotifier.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.8"
+        "compatible_version": ">=1.2.8",
+        "last_updated": "2022-11-08"
     },
     "backlog": {
         "title": "Backlog",
@@ -237,7 +257,8 @@
         "readme": "https://raw.githubusercontent.com/vistree/kanboard-backlog/master/README.md",
         "download": "https://github.com/vistree/kanboard-backlog/releases/download/1.0.3/Backlog-1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.45"
+        "compatible_version": ">=1.0.45",
+        "last_updated": "2019-04-02"
     },
     "bigboard": {
         "title": "Bigboard",
@@ -249,7 +270,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_bigboard/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_bigboard/releases/download/1.5.1/Bigboard-1.5.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.12"
+        "compatible_version": ">=1.2.12",
+        "last_updated": "2021-12-13"
     },
     "chat": {
         "title": "Chat",
@@ -261,7 +283,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-chat/master/README.md",
         "download": "https://github.com/kanboard/plugin-chat/releases/download/v1.0.3/Chat-1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.3"
+        "compatible_version": ">=1.2.3",
+        "last_updated": "2018-04-19"
     },
     "bitbucket-webhook": {
         "title": "Bitbucket Webhook",
@@ -273,7 +296,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-bitbucket-webhook/master/README.md",
         "download": "https://github.com/kanboard/plugin-bitbucket-webhook/releases/download/v1.0.5/BitbucketWebhook-1.0.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-04-13"
     },
     "calendar": {
         "title": "Calendar",
@@ -285,7 +309,9 @@
         "readme": "https://gitlab.com/smacz/kanboard-plugin-calendar/-/raw/master/README.md",
         "download": "https://gitlab.com/smacz/kanboard-plugin-calendar/uploads/8dfb71633c381572df79640aab2c0842/Calendar-1.2.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.13"
+        "compatible_version": ">=1.2.13",
+        "last_updated": "2021-01-26"
+
     },
     "cardpushdate": {
         "title": "Card Push Date - and other actions",
@@ -297,7 +323,8 @@
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/README.md",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/releases/CardPushDate.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2019-12-13"
     },
     "db-storage": {
         "title": "Database Storage",
@@ -309,7 +336,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-database-storage/master/README.md",
         "download": "https://github.com/kanboard/plugin-database-storage/releases/download/v1.0.2/DatabaseStorage-1.0.2.zip",
         "remote_install": false,
-        "compatible_version": ">=1.0.32"
+        "compatible_version": ">=1.0.32",
+        "last_updated": "2020-06-13"
     },
     "coverimage": {
         "title": "Coverimage",
@@ -321,7 +349,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_coverimage/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_coverimage/releases/download/1.2.14.1/Coverimage-1.2.14.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.14"
+        "compatible_version": ">=1.2.14",
+        "last_updated": "2020-04-20"
     },
     "duedate": {
         "title": "Due Date sorting",
@@ -333,7 +362,8 @@
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-duedate/master/README.md",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-duedate/master/releases/DueDate.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2020-10-08"
     },
     "essential": {
         "title": "Essential",
@@ -345,7 +375,8 @@
         "readme": "https://github.com/kenlog/Essential/blob/master/README.md",
         "download": "https://github.com/kenlog/Essential/releases/download/v1.1.3/Essential-v1.1.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2020-01-25"
     },
     "encryptedcontent": {
         "title": "EncryptedContent",
@@ -357,7 +388,8 @@
         "readme": "https://github.com/kenlog/EncryptedContent/blob/master/README.md",
         "download": "https://github.com/kenlog/EncryptedContent/releases/download/v.1.0.1/EncryptedContent-v.1.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2019-01-26"
     },
     "extendedMail": {
         "title": "extendedMail",
@@ -369,7 +401,8 @@
         "readme": "https://github.com/atcomputing/kanboard-ExtendedMail/raw/master/README.md",
         "download": "https://github.com/atcomputing/kanboard-ExtendedMail/releases/download/v0.8/ExtendedMail-0.8.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.2"
+        "compatible_version": ">=1.2.2",
+        "last_updated": "2018-04-26"
     },
     "gantt": {
         "title": "Gantt",
@@ -381,7 +414,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gantt/master/README.md",
         "download": "https://github.com/kanboard/plugin-gantt/releases/download/v1.0.6/Gantt-1.0.6.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.15"
+        "compatible_version": ">=1.2.15",
+        "last_updated": "2020-06-19"
     },
     "gitea-webhook": {
         "title": "Gitea Webhook",
@@ -393,7 +427,8 @@
         "readme": "https://raw.githubusercontent.com/chriswep/plugin-gitea-webhook/master/README.md",
         "download": "https://github.com/chriswep/plugin-gitea-webhook/releases/download/v1.1.2/GiteaWebhook-1.1.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2020-12-17"
     },
     "github-auth": {
         "title": "Github Authentication",
@@ -405,7 +440,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-github-auth/master/README.md",
         "download": "https://github.com/kanboard/plugin-github-auth/releases/download/v1.0.3/GithubAuth-1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2017-01-15"
     },
     "github-webhook": {
         "title": "Github Webhook",
@@ -417,7 +453,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-github-webhook/master/README.md",
         "download": "https://github.com/kanboard/plugin-github-webhook/releases/download/v1.0.6/GithubWebhook-1.0.6.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-04-13"
     },
     "github-release-notifier": {
         "title": "Github Release Notifier",
@@ -429,7 +466,8 @@
         "readme": "https://raw.githubusercontent.com/Shaun-Fong/github-release-notifier/main/README.md",
         "download": "https://github.com/Shaun-Fong/github-release-notifier/releases/download/1.1.0/GithubReleaseNotifier-1.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2022-04-19"
     },
     "gitlab-auth": {
         "title": "Gitlab Authentication",
@@ -441,7 +479,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gitlab-auth/master/README.md",
         "download": "https://github.com/kanboard/plugin-gitlab-auth/releases/download/v1.0.5/GitlabAuth-1.0.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-04-02"
     },
     "gitlab-webhook": {
         "title": "Gitlab Webhook",
@@ -453,7 +492,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gitlab-webhook/master/README.md",
         "download": "https://github.com/kanboard/plugin-gitlab-webhook/releases/download/v1.0.6/GitlabWebhook-1.0.6.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-04-13"
     },
     "gogs-webhook": {
         "title": "Gogs Webhook",
@@ -465,7 +505,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-gogs-webhook/master/README.md",
         "download": "https://github.com/kanboard/plugin-gogs-webhook/releases/download/v1.0.5/GogsWebhook-1.0.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-04-13"
     },
     "google-auth": {
         "title": "Google Authentication",
@@ -477,7 +518,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-google-auth/master/README.md",
         "download": "https://github.com/kanboard/plugin-google-auth/releases/download/v1.0.8/GoogleAuth-1.0.8.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2019-08-30"
     },
     "Greenwing": {
         "title": "Greenwing",
@@ -489,7 +531,8 @@
         "readme": "https://github.com/Confexion/Greenwing/blob/master/README.md",
         "download": "https://github.com/Confexion/Greenwing/releases/download/1.3.2/Greenwing.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.9"
+        "compatible_version": ">=1.2.9",
+        "last_updated": "2021-07-26"
     },
     "highlightcodesyntax": {
         "title": "HighlightCodeSyntax",
@@ -501,7 +544,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/HighlightCodeSyntax/master/README.md",
         "download": "https://github.com/kenlog/HighlightCodeSyntax/releases/download/v1.0.3/HighlightCodeSyntax-v1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2020-06-20"
     },
     "imapuserauth": {
         "title": "IMAP User Authentication",
@@ -513,7 +557,8 @@
         "readme": "https://github.com/RocketMan/plugin-imap-user-auth/blob/master/README.md",
         "download": "https://github.com/RocketMan/plugin-imap-user-auth/releases/download/v1.0.3/IMAPUserAuth-1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.8"
+        "compatible_version": ">=1.2.8",
+       "last_updated": "2019-12-01"
     },
     "importwithgroup": {
         "title": "ImportWithGroup",
@@ -525,7 +570,8 @@
         "readme": "https://github.com/creecros/userimport_wgroups/blob/master/README.md",
         "download": "https://github.com/creecros/userimport_wgroups/releases/download/1.0.0/ImportWithGroup-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.47"
+        "compatible_version": ">=1.0.47",
+        "last_updated": "2018-12-17"
     },
     "instantactions": {
         "title": "Instant Actions for Kanboard Tasks",
@@ -537,7 +583,8 @@
         "readme": "https://github.com/juehv/kanboard-InstantActions/blob/master/README.md",
         "download": "https://github.com/juehv/kanboard-InstantActions/archive/v1.0.zip",
         "remote_install": false,
-        "compatible_version": ">=1.1.0"
+        "compatible_version": ">=1.1.0",
+        "last_updated": "2022-11-09"
     },
     "jabber": {
         "title": "Jabber",
@@ -549,7 +596,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-jabber/master/README.md",
         "download": "https://github.com/kanboard/plugin-jabber/releases/download/v1.0.8/Jabber-1.0.8.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-04-13"
     },
     "KanboardCSS": {
         "title": "KanboardCSS",
@@ -561,7 +609,8 @@
         "readme": "https://raw.githubusercontent.com/aljawaid/KanboardCSS/master/README.md",
         "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v1.5.0/KanboardCSS-1.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.44"
+        "compatible_version": ">=1.0.44",
+        "last_updated": "2018-09-23"
     },
     "kangaroojump": {
         "title": "KangarooJump",
@@ -573,7 +622,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/KangarooJump/master/README.md",
         "download": "https://github.com/kenlog/KangarooJump/releases/download/1.2.0/KangarooJump-v1.2.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2021-01-07"
     },
     "mailgun": {
         "title": "Mailgun",
@@ -585,7 +635,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-mailgun/master/README.md",
         "download": "https://github.com/kanboard/plugin-mailgun/releases/download/v1.0.11/Mailgun-1.0.11.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.40"
+        "compatible_version": ">=1.0.40",
+        "last_updated": "2018-10-16"
     },
     "matrix": {
         "title": "Matrix",
@@ -597,7 +648,8 @@
         "readme": "https://raw.githubusercontent.com/chriswep/kanboard-plugin-matrix/master/README.md",
         "download": "https://github.com/chriswep/kanboard-plugin-matrix/releases/download/v1.1.1/Matrix-1.1.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2020-12-17"
     },
     "mattermost": {
         "title": "Mattermost",
@@ -609,7 +661,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-mattermost/master/README.md",
         "download": "https://github.com/kanboard/plugin-mattermost/releases/download/v1.0.5/Mattermost-1.0.5.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-07-04"
     },
     "metadata": {
         "title": "Metadata Manager",
@@ -621,7 +674,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_metadata/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_metadata/releases/download/1.0.33.2/Metadata.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.33"
+        "compatible_version": ">=1.0.33",
+        "last_updated": "2017-10-31"
     },
     "metamagik": {
         "title": "metaMagik",
@@ -633,7 +687,8 @@
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
         "download": "https://github.com/creecros/MetaMagik/releases/download/1.5.1/MetaMagik-1.5.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.33"
+        "compatible_version": ">=1.0.33",
+        "last_updated": "2022-05-06"
     },
     "minimizesidebar": {
         "title": "MinimizeSidebar",
@@ -645,7 +700,8 @@
         "readme": "https://github.com/kenlog/MinimizeSidebar/blob/master/README.md",
         "download": "https://github.com/kenlog/MinimizeSidebar/releases/download/v1.1.2/MinimizeSidebar-v1.1.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2022-11-09"
     },
     "milestone": {
         "title": "Milestone",
@@ -657,7 +713,8 @@
         "readme": "https://raw.githubusercontent.com/oliviermaridat/kanboard-milestone-plugin/master/README.md",
         "download": "https://github.com/oliviermaridat/kanboard-milestone-plugin/releases/download/1.1.2/Milestone-1.1.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.43"
+        "compatible_version": ">=1.0.43",
+        "last_updated": "2018-03-01"
     },
     "moveondate": {
         "title": "Move cards to specific columns when due date passed",
@@ -744,28 +801,28 @@
         "compatible_version": ">=1.2.5"
     },
     "quabdd": {
-	"title": "QuaBDD",
-	"version": "0.0.3",
-	"author": "Quamob",
-	"license": "MIT",
-	"description": "This plugin give you an new interface that help you create Gherkin tests for a task.",
-	"homepage": "https://gitlab.com/quamob/QuaBDD",
-	"readme": "https://gitlab.com/quamob/QuaBDD/blob/master/README.md",
-	"download": "https://gitlab.com/quamob/QuaBDD/uploads/2524ff16a1636761922bfd85ba4cafef/QuaBDD-0.0.3.zip",
-	"remote_install": true,
-	"compatible_version": ">=1.2.14"
+        "title": "QuaBDD",
+        "version": "0.0.3",
+        "author": "Quamob",
+        "license": "MIT",
+        "description": "This plugin give you an new interface that help you create Gherkin tests for a task.",
+        "homepage": "https://gitlab.com/quamob/QuaBDD",
+        "readme": "https://gitlab.com/quamob/QuaBDD/blob/master/README.md",
+        "download": "https://gitlab.com/quamob/QuaBDD/uploads/2524ff16a1636761922bfd85ba4cafef/QuaBDD-0.0.3.zip",
+        "remote_install": true,
+        "compatible_version": ">=1.2.14"
     },
     "quacicd": {
-	"title": "QuaCICD",
-	"version": "0.0.1",
-	"author": "Quamob",
-	"license": "MIT",
-	"description": "This plugin allow you to execute automated deployment in qualification and production directly on your board.",
-	"homepage": "https://gitlab.com/quamob/QuaCICD",
-	"readme": "https://gitlab.com/quamob/QuaCICD/blob/master/README.md",
-	"download": "https://gitlab.com/quamob/QuaCICD/uploads/35c897fda4fa1cd3b3d81486b2c6123f/QuaCICD-0.0.1.zip",
-	"remote_install": false,
-	"compatible_version": ">=1.2.14"
+        "title": "QuaCICD",
+        "version": "0.0.1",
+        "author": "Quamob",
+        "license": "MIT",
+        "description": "This plugin allow you to execute automated deployment in qualification and production directly on your board.",
+        "homepage": "https://gitlab.com/quamob/QuaCICD",
+        "readme": "https://gitlab.com/quamob/QuaCICD/blob/master/README.md",
+        "download": "https://gitlab.com/quamob/QuaCICD/uploads/35c897fda4fa1cd3b3d81486b2c6123f/QuaCICD-0.0.1.zip",
+        "remote_install": false,
+        "compatible_version": ">=1.2.14"
     },
     "registration": {
         "title": "Self-Registration",
