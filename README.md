@@ -23,7 +23,7 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
         "has_schema": false,
         "has_overrides": false,
         "has_hooks": false,
-        "is_action": false,
+        "is_action": "no",
         "last_updated": "2022-11-10"
     }
     ```
@@ -64,10 +64,10 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
   - `true` or `false`
   - Specify whether your plugin has used any hooks
   - _Boolean type_
-  - `is_action`
-  - `true` or `false`
-  - Specify whether your plugin is a normal plugin _(set to false)_ or an action plugin _(set to true_)
-  - _Boolean type_
+- `is_action`
+  - `yes` or `no` or `both`
+  - Specify whether your plugin is a normal plugin _(set to `no`)_ or an action plugin _(set to `yes`_) or both
+  - _String type_
 - `last_updated`
   - `November 2022`
   - Specify which date your plugin was last updated for general release
