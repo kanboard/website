@@ -1398,6 +1398,7 @@
         "readme": "https://github.com/aljawaid/AutomaticActionUX/blob/master/README.md",
         "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.6/AutomaticActionUX-1.6.zip",
         "remote_install": true,
+        "is_action": "no",
         "compatible_version": ">=1.2.20"
     },
     "KanboardEmailHistory": {
@@ -1410,6 +1411,7 @@
         "readme": "https://github.com/aljawaid/KanboardEmailHistory/blob/main/README.md",
         "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v1.2/KanboardEmailHistory-1.2.zip",
         "remote_install": true,
+        "is_action": "yes",
         "compatible_version": ">=1.2.20"
     },
     "AgileIndicators": {
@@ -1422,6 +1424,7 @@
         "readme": "https://github.com/aljawaid/AgileIndicators/blob/master/README.md",
         "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.0/AgileIndicators-1.0.zip",
         "remote_install": true,
+        "is_action": "no",
         "compatible_version": ">=1.2.20"
     },
     "KanboardSupport": {
@@ -1434,6 +1437,7 @@
         "readme": "https://github.com/aljawaid/KanboardSupport/blob/master/README.md",
         "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.0/KanboardSupport-2.0.zip",
         "remote_install": true,
+        "is_action": "no",
         "compatible_version": ">=1.2.20"
     },
     "Glancer": {
@@ -1446,6 +1450,7 @@
         "readme": "https://github.com/aljawaid/Glancer/blob/master/README.md",
         "download": "https://github.com/aljawaid/Glancer/releases/download/v1.0/Glancer-1.0.zip",
         "remote_install": true,
+        "is_action": "no",
         "compatible_version": ">=1.2.20"
     },
     "KanboardPermalink": {
