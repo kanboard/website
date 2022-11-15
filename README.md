@@ -6,6 +6,8 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
 ### How to add a new plugin to the list?
 
 1. Update the [`plugins.json`](https://github.com/kanboard/website/blob/main/plugins.json) file
+    - **This file is now sorted alphabetically**
+      - Your plugin submission should be positioned in the file in alphabetical order **by plugin name**
     - This file is used in the Kanboard interface Plugins Directory
     - Template:
     ```
@@ -66,7 +68,7 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
   - _Boolean type_
 - `is_action`
   - `yes` or `no` or `both`
-  - Specify whether your plugin is a normal plugin _(set to `no`)_ or an action plugin _(set to `yes`_) or both
+  - Specify whether your plugin is a normal plugin _(set to `no`)_ or an action plugin _(set to `yes`)_ or `both`
   - _String type_
 - `last_updated`
   - `November 2022`
