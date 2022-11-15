@@ -75,7 +75,7 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
     | `action` | Action | _A plugin for actions only_ |
     | `theme` | Normal | _A plugin for theming and styling of the interface_ |
     | `connector` | Normal | _A plugin connecting to third party services - may contain actions_ |
-    | `multi` | General | _A plugin containing all or any combination of the above functions_ |
+    | `multi` | Normal | _A plugin containing all or any combination of the above functions_ |
   - _String type_
 - `last_updated`
   - `2022-11-15`
