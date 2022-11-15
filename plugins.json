@@ -726,7 +726,8 @@
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskMoveOnDueDate/master/README.md",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskMoveOnDueDate/master/releases/TaskMoveOnDueDate.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2017-11-15"
     },
     "moon": {
         "title": "Moon",
@@ -738,7 +739,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/Moon/master/README.md",
         "download": "https://github.com/kenlog/Moon/releases/download/v1.4.6/Moon-v1.4.6.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2020-06-20"
     },
     "nebula": {
         "title": "Nebula",
@@ -750,7 +752,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/Nebula/master/README.md",
         "download": "https://github.com/kenlog/Nebula/releases/download/1.3.6/Nebula-v1.3.6.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2021-01-02"
     },
     "oauth2": {
         "title": "OAuth2",
@@ -762,7 +765,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-oauth2/master/README.md",
         "download": "https://github.com/kanboard/plugin-oauth2/releases/download/v1.0.2/OAuth2-1.0.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2020-06-12"
     },
     "overwrite_translation": {
         "title": "Overwrite Translation",
@@ -774,7 +778,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_overwrite_translation/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_overwrite_translation/releases/download/1.0.33.1/Overwrite_translation.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.33"
+        "compatible_version": ">=1.0.33",
+        "last_updated": "2017-10-31"
     },
     "oxygen": {
         "title": "Oxygen",
@@ -786,7 +791,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/Oxygen/master/README.md",
         "download": "https://github.com/kenlog/Oxygen/releases/download/v1.3.1/Oxygen-1.3.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2018-10-21"
     },
     "pushdate": {
         "title": "Push out due date on cards when moving to specific columns",
@@ -798,7 +804,8 @@
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskPushDate/master/README.md",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskPushDate/master/releases/TaskPushDate.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2017-11-15"
     },
     "quabdd": {
         "title": "QuaBDD",
@@ -810,7 +817,8 @@
         "readme": "https://gitlab.com/quamob/QuaBDD/blob/master/README.md",
         "download": "https://gitlab.com/quamob/QuaBDD/uploads/2524ff16a1636761922bfd85ba4cafef/QuaBDD-0.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.14"
+        "compatible_version": ">=1.2.14",
+        "last_updated": "2020-08-26"
     },
     "quacicd": {
         "title": "QuaCICD",
@@ -822,7 +830,8 @@
         "readme": "https://gitlab.com/quamob/QuaCICD/blob/master/README.md",
         "download": "https://gitlab.com/quamob/QuaCICD/uploads/35c897fda4fa1cd3b3d81486b2c6123f/QuaCICD-0.0.1.zip",
         "remote_install": false,
-        "compatible_version": ">=1.2.14"
+        "compatible_version": ">=1.2.14",
+        "last_updated": "2020-08-10"
     },
     "registration": {
         "title": "Self-Registration",
@@ -834,7 +843,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-registration/master/README.md",
         "download": "https://github.com/kanboard/plugin-registration/releases/download/v1.0.8/Registration-1.0.8.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-03-30"
     },
     "signal": {
         "title": "Signal",
@@ -846,7 +856,8 @@
         "readme": "https://raw.githubusercontent.com/stratmaster/kanboard-plugin-signal/master/README.md",
         "download": "https://github.com/stratmaster/kanboard-plugin-signal/releases/download/v1.0.1/Signal-1.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2021-04-22"
     },
     "spectre": {
         "title": "Spectre Theme",
@@ -858,7 +869,8 @@
         "readme": "https://raw.githubusercontent.com/kuerme/kanboard-theme-spectre/master/README.md",
         "download": "https://github.com/kuerme/kanboard-theme-spectre/releases/download/v1.0.3/Spectre-1.0.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.10"
+        "compatible_version": ">=1.2.10",
+        "last_updated": "2019-07-24"
     },
     "relationgraph": {
         "title": "Relationgraph",
@@ -870,7 +882,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_relationgraph/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_relationgraph/releases/download/0.3.1/Relationgraph-0.3.1.zip",
         "remote_install": true,
-        "compatible_version": "1.2.10"
+        "compatible_version": "1.2.10",
+        "last_updated": "2019-08-26"
     },
     "rocketchat": {
         "title": "RocketChat",
@@ -882,7 +895,8 @@
         "readme": "https://raw.githubusercontent.com/oliviermaridat/plugin-rocketchat/master/README.md",
         "download": "https://github.com/oliviermaridat/plugin-rocketchat/releases/download/v1.0.10/RocketChat-v1.0.10.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2021-12-10"
     },
     "slack": {
         "title": "Slack",
@@ -894,7 +908,8 @@
         "readme": "https://raw.githubusercontent.com/kanboard/plugin-slack/master/README.md",
         "download": "https://github.com/kanboard/plugin-slack/releases/download/v1.0.7/Slack-1.0.7.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2018-07-04"
     },
     "timetrackingeditor": {
         "title": "Time Tracking Editor",
@@ -906,7 +921,8 @@
         "readme": "https://raw.githubusercontent.com/stinnux/kanboard-Timetrackingeditor/master/README.md",
         "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.21/Timetrackingeditor-1.0.21.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.4"
+        "compatible_version": ">=1.2.4",
+        "last_updated": "2018-05-23"
     },
     "TimeMachine":{
         "title": "Plugin to add time machine : Back to the Future",
@@ -918,7 +934,8 @@
         "readme": "https://gitlab.com/yv-kanboard-plugin/time-machine/blob/master/README.md",
         "download": "https://gitlab.com/yv-kanboard-plugin/time-machine/uploads/7633efeee85e7e90b5a8620d5af38160/TimeMachine-1.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.6"
+        "compatible_version": ">=1.2.6",
+        "last_updated": "2018-11-27"
     },
     "starredprojects": {
         "title": "Starred Projects",
@@ -930,7 +947,8 @@
         "readme": "https://raw.githubusercontent.com/biblibre/kanboard-plugin-StarredProjects/v0.3.0/README.md",
         "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.3.0/StarredProjects-0.3.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2022-01-20"
     },
     "soundnotification": {
         "title": "SoundNotification",
@@ -942,7 +960,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/SoundNotification/master/README.md",
         "download": "https://github.com/kenlog/SoundNotification/releases/download/v1.1.1/SoundNotification-v1.1.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2022-04-10"
     },
     "subtaskdate": {
         "title": "SubtaskDueDate",
@@ -954,7 +973,8 @@
         "readme": "https://raw.githubusercontent.com/eSkiSo/Subtaskdate/master/README.md",
         "download": "https://github.com/eSkiSo/Subtaskdate/releases/download/1.1.2/Subtaskdate-1.1.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.34"
+        "compatible_version": ">=1.0.34",
+        "last_updated": "2019-05-19"
     },
     "subtaskdescription": {
         "title": "SubtaskDescription",
@@ -966,7 +986,8 @@
         "readme": "https://raw.githubusercontent.com/Shaun-Fong/SubtaskDescription/master/README.md",
         "download": "https://github.com/Shaun-Fong/SubtaskDescription/releases/download/1.1.1/Subtaskdescription-1.1.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.34"
+        "compatible_version": ">=1.0.34",
+        "last_updated": "2022-05-13"
     },
     "synologychat": {
         "title": "SynologyChat",
@@ -978,7 +999,8 @@
         "readme": "https://raw.githubusercontent.com/Kolossi/plugin-synology-chat/master/README.md",
         "download": "https://github.com/Kolossi/plugin-synology-chat/releases/download/v1.0.0/SynologyChat-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.6"
+        "compatible_version": ">=1.2.6",
+        "last_updated": "2018-11-09"
     },
     "Taglist": {
         "title": "Taglist",
@@ -990,7 +1012,8 @@
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_taglist/master/README.md",
         "download": "https://github.com/BlueTeck/kanboard_plugin_taglist/releases/download/1.1.0/Taglist-1.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.10"
+        "compatible_version": ">=1.2.10",
+        "last_updated": "2020-04-01"
     },
     "timeintervalbutton": {
         "title": "Task Interval Button",
@@ -1002,7 +1025,8 @@
         "readme": "https://raw.githubusercontent.com/mrozigor/kanboard-add-time-interval-plugin/master/README.md",
         "download": "https://github.com/mrozigor/kanboard-add-time-interval-plugin/releases/download/0.9.0/TaskIntervalButton-0.9.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.35"
+        "compatible_version": ">=1.0.35",
+        "last_updated": "2017-11-11"
     },
     "comment-tooltip": {
         "title": "Comment Tooltip",
@@ -1014,7 +1038,8 @@
         "readme": "https://github.com/enricofrigo/kanboard/blob/master/plugin-comment-tooltip/CommentTooltip/README.md",
         "download": "https://github.com/enricofrigo/kanboard/raw/master/plugin-comment-tooltip/releases/download/v1.0.0/CommentTooltip.zip",
         "remote_install": true,
-        "compatible_version": "<=1.2.3"
+        "compatible_version": "<=1.2.3",
+        "last_updated": "2018-05-25"
     },
     "telegram": {
         "title": "Telegram",
@@ -1026,7 +1051,8 @@
         "readme": "https://raw.githubusercontent.com/manuvarkey/kanboard-plugin-telegram/master/README.md",
         "download": "https://github.com/manuvarkey/kanboard-plugin-telegram/releases/download/v1.3.3/Telegram.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2022-06-13"
     },
     "updatenotifier": {
         "title": "UpdateNotifier",
@@ -1038,7 +1064,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/UpdateNotifier/master/README.md",
         "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.4.3/UpdateNotifier-1.4.3.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.42"
+        "compatible_version": ">=1.0.42",
+        "last_updated": "2019-07-01"
     },
     "WeKanboard": {
         "title": "WeKanboard",
@@ -1050,7 +1077,8 @@
         "readme": "https://raw.githubusercontent.com/bw-hro/WeKanboard/master/README.md",
         "download": "https://github.com/bw-hro/WeKanboard/releases/download/v1.0.2/WeKanboard_v1.0.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.11"
+        "compatible_version": ">=1.2.11",
+        "last_updated": "2020-03-01"
     },
     "wiki": {
         "title": "Wiki",
@@ -1062,7 +1090,8 @@
         "readme": "https://raw.githubusercontent.com/funktechno/kanboard-plugin-wiki/master/README.md",
         "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.3.2/Wiki-0.3.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2022-11-11"
     },
     "weightedvoting": {
         "title": "Weighted voting",
@@ -1074,7 +1103,8 @@
         "readme": "https://github.com/manelperez/kanboard-plugin-voting/blob/master/README.md",
         "download": "https://github.com/manelperez/kanboard-plugin-voting/releases/download/voting-v1.0.0/Voting-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2018-06-19"
     },
     "AttachDocumentsforViewers": {
         "title": "Attach Documents for Project Viewers",
@@ -1086,7 +1116,8 @@
         "readme": "https://raw.githubusercontent.com/hernandezfo/AttachDocumentsforViewers/master/README.md",
         "download": "https://github.com/hernandezfo/AttachDocumentsforViewers/releases/download/0.0.1/AttachDocumentsforViewers-0.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2018-08-15"
     },
     "zulip": {
         "title": "Zulip",
@@ -1098,7 +1129,8 @@
         "readme": "https://github.com/ptr0x1/kanboard-plugin-zulip/blob/master/README.md",
         "download": "https://github.com/ptr0x1/kanboard-plugin-zulip/releases/download/1.2.0/Zulip.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2021-07-30"
     },
     "cas-auth": {
         "title": "CAS Authentication",
@@ -1110,7 +1142,8 @@
         "readme": "https://raw.githubusercontent.com/DSIEtudes/plugin-cas-auth/master/README.md",
         "download": "https://github.com/DSIEtudes/plugin-cas-auth/releases/download/1.0.0/CASAuth-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2019-02-28"
     },
     "offline": {
         "title": "Offline",
@@ -1122,7 +1155,8 @@
         "readme": "https://github.com/ipunkt/KanboardOffline/blob/master/README.md",
         "download": "https://github.com/ipunkt/KanboardOffline/releases/download/1.0.0/OfflineKanboardPlugin-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2019-10-17"
     },
     "search": {
         "title": "Search plugin",
@@ -1134,7 +1168,8 @@
         "readme": "https://github.com/ipunkt/KanboardSearch/blob/master/README.md",
         "download": "https://github.com/ipunkt/KanboardSearch/releases/download/v1.1.0/KanboardSearchPlugin-1.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2019-12-17"
     },
     "CommentActions": {
         "title": "Comment Actions",
@@ -1146,7 +1181,8 @@
         "readme": "https://github.com/ipunkt/KanboardCommentActions/blob/master/README.md",
         "download": "https://github.com/ipunkt/KanboardCommentActions/releases/download/v1.0.1/KanboardCommentActions-1.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2019-10-29"
     },
     "TaskButtonsReposition": {
         "title": "Task Buttons reposition",
@@ -1158,7 +1194,8 @@
         "readme": "https://github.com/ipunkt/KanboardTaskButtonsReposition/blob/1.0.0/README.md",
         "download": "https://github.com/ipunkt/KanboardTaskButtonsReposition/releases/download/v1.0.0/KanboardTaskButtonsReposition-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.5"
+        "compatible_version": ">=1.2.5",
+        "last_updated": "2019-10-29"
     },
     "KanboardProjectInvitation": {
         "title": "Project Invitation",
@@ -1170,7 +1207,8 @@
         "readme": "https://github.com/ipunkt/KanboardProjectInvitation/blob/master/README.md",
         "download": "https://github.com/ipunkt/KanboardProjectInvitation/releases/download/v1.0.0/KanboardProjectInvitation-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.11"
+        "compatible_version": ">=1.0.11",
+        "last_updated": "2019-10-28"
     },
     "GrabScroll": {
         "title": "GrabScroll",
@@ -1182,7 +1220,8 @@
         "readme": "https://github.com/psy-q/kanboard-plugin-grabscroll/blob/master/README.md",
         "download": "https://github.com/psy-q/kanboard-plugin-grabscroll/archive/0.2.1.tar.gz",
         "remote_install": false,
-        "compatible_version": ">=1.2.10"
+        "compatible_version": ">=1.2.10",
+        "last_updated": "2021-03-05"
     },
     "SortBoardByDates": {
         "title": "Sort Board By Dates for kanboard",
@@ -1194,7 +1233,8 @@
         "readme": "https://github.com/manne65-hd/Kanboard-SortBoardByDates/blob/master/README.md",
         "download": "https://github.com/manne65-hd/Kanboard-SortBoardByDates/archive/master.zip",
         "remote_install": false,
-        "compatible_version": ">=1.2.11"
+        "compatible_version": ">=1.2.11",
+        "last_updated": "2021-05-11"
     },
     "TaskProgressBar": {
         "title": "TaskProgressBar",
@@ -1206,7 +1246,8 @@
         "readme": "https://raw.githubusercontent.com/kenlog/TaskProgressBar/master/README.md",
         "download": "https://github.com/kenlog/TaskProgressBar/releases/download/v1.0.1/TaskProgressBar.zip",
         "remote_install": true,
-        "compatible_version": ">=1.0.48"
+        "compatible_version": ">=1.0.48",
+        "last_updated": "2021-02-08"
     },
     "Outlook": {
         "title": "Recieve Notification in Outlook",
@@ -1218,7 +1259,8 @@
         "readme": "https://github.com/k10blogger/kanboard-plugin-outlook/blob/master/README.md",
         "download": "https://github.com/k10blogger/kanboard-plugin-outlook/archive/v0.0.2.zip",
         "remote_install": false,
-        "compatible_version": ">=1.0.37"
+        "compatible_version": ">=1.0.37",
+        "last_updated": "2020-05-12"
     },
     "WeeklyRecurringTasks": {
         "title": "Duplicate Tasks by nightly Cron Job",
@@ -1230,7 +1272,8 @@
         "readme": "https://github.com/PapeCoding/kanboard-WeeklyRecurringTasks/blob/master/README.md",
         "download": "https://github.com/PapeCoding/kanboard-WeeklyRecurringTasks/releases/download/v1.0.2/WeeklyRecurringTasks-1.0.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.13"
+        "compatible_version": ">=1.2.13",
+        "last_updated": "2020-12-02"
     },
     "Group_owners": {
         "title": "Group_owners",
@@ -1242,7 +1285,8 @@
         "readme": "https://raw.githubusercontent.com/Cyboulette/Group_owners/main/README.md",
         "download": "https://github.com/Cyboulette/Group_owners/releases/download/1.0.1/Group_owners-1.0.1.zip",
         "remote_install": true,
-        "compatible_version": ">=1.1.0"
+        "compatible_version": ">=1.1.0",
+        "last_updated": "2021-03-10"
     },
     "KanboardEssentials": {
         "title": "Kanboard Essentials",
@@ -1254,7 +1298,8 @@
         "readme": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/README.md",
         "download": "https://gitlab.com/taeluf/php/kanboard-essentials/-/blob/0.0.1/KanboardEssentials.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.0"
+        "compatible_version": ">=1.2.0",
+        "last_updated": "2022-03-03"
     },
     "PersianBoard": {
         "title": "Persian Board",
@@ -1266,7 +1311,8 @@
         "readme": "https://github.com/mer30hamid/PersianBoard/blob/master/README.md",
         "download": "https://github.com/mer30hamid/PersianBoard/releases/download/v1.0.0/PersianBoard-1.0.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.11"
+        "compatible_version": ">=1.2.11",
+        "last_updated": "2021-09-11"
     },
     "KADIFF": {
         "title": "Activity Diff",
@@ -1278,7 +1324,8 @@
         "readme": "https://github.com/Chaosmeister/KADIFF/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/KADIFF/releases/download/1.0.0/KADIFF.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2021-11-23"
     },
     "TNID": {
         "title": "Task number in details",
@@ -1290,7 +1337,8 @@
         "readme": "https://github.com/Chaosmeister/TNID/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/TNID/releases/download/1.0.0/TNID.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2021-11-23"
     },
     "CCIT": {
         "title": "clickable checkboxes in textareass",
@@ -1302,7 +1350,8 @@
         "readme": "https://github.com/Chaosmeister/CCIT/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/CCIT/releases/download/1.0.0/CCIT.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2021-11-23"
     },
     "PITM": {
         "title": "Paste image to markdown",
@@ -1314,7 +1363,8 @@
         "readme": "https://github.com/Chaosmeister/PITM/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.3/PITM.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-06-14"
     },
     "EAR": {
         "title": "Enable attachment renaming",
@@ -1326,7 +1376,8 @@
         "readme": "https://github.com/Chaosmeister/EAR/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.1/EAR.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-05-10"
     },
     "RCB": {
         "title": "Resizable codeblocks",
@@ -1338,7 +1389,8 @@
         "readme": "https://github.com/Chaosmeister/RCB/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/RCB/releases/download/1.0.0/RCB.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2021-12-06"
     },
      "mathjaxForKanboard": {
         "title": "Add MathJax to Kanboard",
@@ -1350,7 +1402,8 @@
         "readme": "https://github.com/Zaunmich/mathjaxForKanboard/blob/master/README.md",
         "download": "https://github.com/Zaunmich/mathjaxForKanboard/releases/download/v1.1.0/mathjaxForKanboard_v1.1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2021-12-10"
     },
     "PAM": {
         "title": "Project activity modifier",
@@ -1362,7 +1415,8 @@
         "readme": "https://github.com/Chaosmeister/PAM/blob/main/README.md",
         "download": "https://github.com/Chaosmeister/PAM/releases/download/1.0.0/PAM.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2021-12-16"
     },
     "ClearDueDateTaskNotMovedColumn": {
         "title": "ClearDueDateTaskNotMovedColumn",
@@ -1374,7 +1428,8 @@
         "readme": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn/README.md",
         "download": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn/archive/refs/tags/v0.8.0.zip",
         "remote_install": false,
-        "compatible_version": ">=1.2.19"
+        "compatible_version": ">=1.2.19",
+        "last_updated": "2022-07-24"
     },
     "TaskAssignPriorityToCategory": {
         "title": "TaskAssignPriorityToCategory",
@@ -1386,7 +1441,8 @@
         "readme": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory/blob/main/README.md",
         "download": "https://github.com/manne65-hd/kanboard-TaskAssignPriorityToCategory/releases/download/v0.8.1/TaskAssignPriorityToCategory.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.19"
+        "compatible_version": ">=1.2.19",
+        "last_updated": "2022-08-17"
     },
     "AutomaticActionUX": {
         "title": "AutomaticActionUX",
@@ -1398,7 +1454,9 @@
         "readme": "https://github.com/aljawaid/AutomaticActionUX/blob/master/README.md",
         "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.6/AutomaticActionUX-1.6.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "is_action": "no",
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-11-03"
     },
     "KanboardEmailHistory": {
         "title": "KanboardEmailHistory",
@@ -1410,7 +1468,9 @@
         "readme": "https://github.com/aljawaid/KanboardEmailHistory/blob/main/README.md",
         "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v1.2/KanboardEmailHistory-1.2.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "is_action": "yes",
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-10-24"
     },
     "AgileIndicators": {
         "title": "AgileIndicators",
@@ -1422,7 +1482,9 @@
         "readme": "https://github.com/aljawaid/AgileIndicators/blob/master/README.md",
         "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.0/AgileIndicators-1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "is_action": "no",
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-10-25"
     },
     "KanboardSupport": {
         "title": "KanboardSupport",
@@ -1434,7 +1496,9 @@
         "readme": "https://github.com/aljawaid/KanboardSupport/blob/master/README.md",
         "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.0/KanboardSupport-2.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "is_action": "no",
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-10-30"
     },
     "Glancer": {
         "title": "Glancer",
@@ -1446,7 +1510,9 @@
         "readme": "https://github.com/aljawaid/Glancer/blob/master/README.md",
         "download": "https://github.com/aljawaid/Glancer/releases/download/v1.0/Glancer-1.0.zip",
         "remote_install": true,
-        "compatible_version": ">=1.2.20"
+        "is_action": "no",
+        "compatible_version": ">=1.2.20",
+        "last_updated": "2022-11-06"
     },
     "KanboardPermalink": {
         "title": "KanboardPermalink",
@@ -1462,6 +1528,7 @@
         "has_schema": false,
         "has_overrides": false,
         "has_hooks": true,
+        "is_action": "no",
         "last_updated": "2022-11-09"
     }
 }
