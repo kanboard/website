@@ -1295,6 +1295,19 @@
         "title": "SynologyChat",
         "version": "1.0.0"
     },
+    "TableView": {
+        "author": "greyaz",
+        "compatible_version": ">=1.2.8",
+        "description": "A Kanboard plugin that provides a table view of tasks in your project.",
+        "download": "https://github.com/greyaz/TableView/releases/download/0.1.0/TableView.zip",
+        "homepage": "https://github.com/greyaz/TableView",
+        "last_updated": "2022-11-16",
+        "license": "MIT",
+        "readme": "https://raw.githubusercontent.com/greyaz/TableView/main/README.md",
+        "remote_install": true,
+        "title": "Table View",
+        "version": "0.1.0"
+    },
     "Taglist": {
         "author": "BlueTeck",
         "compatible_version": ">=1.2.10",
