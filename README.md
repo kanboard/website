@@ -12,21 +12,21 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
     - Template:
     ```
     "MyPlugin": {
-        "title": "MyPlugin",
-        "version": "1.0.0",
         "author": "Plugin Developer Name",
-        "license": "MIT",
-        "description": "My plugin description",
-        "homepage": "https://github.com/PluginDeveloperName/MyPlugin",
-        "readme": "https://github.com/PluginDeveloperName/MyPlugin/blob/master/README.md",
-        "download": "https://github.com/PluginDeveloperName/MyPlugin/releases/download/v1.0/MyPlugin-1.0.zip",
-        "remote_install": true,
         "compatible_version": ">=1.2.20",
-        "has_schema": false,
-        "has_overrides": false,
+        "description": "My plugin description",
+        "download": "https://github.com/PluginDeveloperName/MyPlugin/releases/download/v1.0/MyPlugin-1.0.zip",
         "has_hooks": false,
-        "is_action": "no",
-        "last_updated": "2022-11-10"
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/PluginDeveloperName/MyPlugin",
+        "is_type": "no",
+        "last_updated": "2022-11-10",
+        "license": "MIT",
+        "readme": "https://github.com/PluginDeveloperName/MyPlugin/blob/master/README.md",
+        "remote_install": true,
+        "title": "MyPlugin",
+        "version": "1.0.0"
     }
     ```
 2. Update the [`plugins.html`](https://github.com/kanboard/website/blob/main/plugins.html) file
@@ -66,12 +66,19 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
   - `true` or `false`
   - Specify whether your plugin has used any hooks
   - _Boolean type_
-- `is_action`
-  - `yes` or `no` or `both`
-  - Specify whether your plugin is a normal plugin _(set to `no`)_ or an action plugin _(set to `yes`)_ or `both`
+- `is_type`
+  - `plugin` or `action` or `theme` or `multi` or `connector`
+  - Specify whether your plugin is:
+    | Value | Type | Description |
+    | ----- | ---- | ----------- |
+    | `plugin` | Normal | _A plugin with no automatic actions_ |
+    | `action` | Action | _A plugin for actions only_ |
+    | `theme` | Normal | _A plugin for theming and styling of the interface_ |
+    | `connector` | Normal | _A plugin connecting to third party services - may contain actions_ |
+    | `multi` | Normal | _A plugin containing all or any combination of the above functions_ |
   - _String type_
 - `last_updated`
-  - `November 2022`
+  - `2022-11-15`
   - Specify which date your plugin was last updated for general release
   - _ISO-8601 date type_
 
@@ -81,22 +88,29 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
 Your plugin archive **must contains a folder with the plugin name** (namespace), example:
 
 ```
-MyPlugin-1.0.0.zip
-└── MyPlugin
-    ├── Assets
+MyPlugin-1.0.0.zip      <= Zip archive filename stating release version
+└── MyPlugin            <= Plugin name
+    ├── Assets          <= Javascript/CSS files
+    │   └── cs
+    │   └── js
     ├── Controller
+    ├── LICENSE         <= Plugin license
     ├── Helper
     ├── Locale
     │   └── fr_FR
+    │   └── en_US
+    |   ├── ...
     ├── Model
-    ├── Template
+    ├── Plugin.php      <= Plugin registration file
+    ├── README.md
+    ├── Schema          <= Database migrations
+    ├── Template        <= Template files
     │   ├── ...
-    ├── Test
+    ├── Test            <= Unit tests
     │   └── ...
-    └── ...
 ```
 
-The archive will be extracted by Kanboard into the folder `plugins` as `plugins/MyPlugin`.
+The archive will be extracted by Kanboard into the `plugins` folder as `plugins/MyPlugin`.
 
 #### Important Notes
 
