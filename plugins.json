@@ -861,14 +861,14 @@
         "author": "Craig Crosby",
         "compatible_version": ">=1.0.46",
         "description": "Improved Markdown, with check boxes, emoji shortcode, inline html, etc...",
-        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.1.0/MarkdownPlus-1.1.0.zip",
+        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.1.1/MarkdownPlus-1.1.1.zip",
         "homepage": "https://github.com/creecros/MarkdownPlus",
-        "last_updated": "2021-03-19",
+        "last_updated": "2022-11-22",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/creecros/MarkdownPlus/master/README.md",
         "remote_install": true,
         "title": "MarkdownPlus",
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     "mathjaxForKanboard": {
         "author": "Michael Zauner",
