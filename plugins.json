@@ -19,7 +19,7 @@
     "assigncategory": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
-        "description": "Adds an automatic action which allows you to set the category on a card when moved to a specified column",
+        "description": "Adds an automatic action which allows you to set the category on a card when moved to a specified column.",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignCategory/master/releases/TaskAssignCategory.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -36,7 +36,7 @@
     "assigndate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
-        "description": "Adds an automatic action which allows you to set a due date on undated cards to allow card to appear on calendar and ICS feed",
+        "description": "Adds an automatic action which allows you to set a due date on undated cards to allow card to appear on calendar and ICS feed.",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskAssignDateToUndated/master/releases/TaskAssignDateToUndated.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -53,7 +53,7 @@
     "assignduedatecolumn": {
         "author": "Jacob Charles Wilson",
         "compatible_version": ">=1.2.0",
-        "description": "Adds an automatic action which allows you to set a due date (relative to the current time in days) on a card when moved to a specified column",
+        "description": "Adds an automatic action which allows you to set a due date (relative to the current time in days) on a card when moved to a specified column.",
         "download": "https://github.com/jclwilson/kanboard-plugin-assignduedate/archive/1.0.0.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -155,7 +155,7 @@
     "Bak2topbotm": {
         "author": "Craig Crosby",
         "compatible_version": ">=1.0.43",
-        "description": "Back to Top and Bottom Buttons for Task Summary",
+        "description": "Back to Top and Bottom Buttons for Task Summary.",
         "download": "https://github.com/creecros/Bak2topbotm/releases/download/0.0.3/Bak2topbotm-0.0.3.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -206,7 +206,7 @@
     "Boardcustomizer": {
         "author": "BlueTeck, Craig Crosby, Jake G",
         "compatible_version": ">=1.2.10",
-        "description": "Customize board and card style per user",
+        "description": "Customize board and card style per user.",
         "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/releases/download/v1.1.0/Boardcustomizer-1.1.0.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -240,7 +240,7 @@
     "cardpushdate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
-        "description": "Put easy actions on task cards, searches and dashboard - including update card date, show comments, edit, close and move card",
+        "description": "Put easy actions on task cards, searches and dashboard - including update card date, show comments, edit, close and move card.",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/releases/CardPushDate.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -274,7 +274,7 @@
     "CCIT": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Enable state-saving checkboxes in textareas - requires MarkdownPlus",
+        "description": "Enable state-saving checkboxes in textareas - requires MarkdownPlus.",
         "download": "https://github.com/Chaosmeister/CCIT/releases/download/1.0.0/CCIT.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -444,7 +444,7 @@
     "CustomUserCSS": {
         "author": "Sebastian Pape",
         "compatible_version": ">=1.2.13",
-        "description": "Adds a setting for custom CSS per user",
+        "description": "Adds a setting for custom CSS per user.",
         "download": "https://github.com/PapeCoding/kanboard-CustomUserCSS/releases/download/v1.0.0/CustomUserCSS.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -478,7 +478,7 @@
     "duedate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
-        "description": "Allow boards to be sorted by card due date",
+        "description": "Allow boards to be sorted by card due date.",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-duedate/master/releases/DueDate.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -495,7 +495,7 @@
     "EAR": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Add a button on attachments that allows you to rename them",
+        "description": "Add a button on attachments that allows you to rename them.",
         "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.1/EAR.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -512,7 +512,7 @@
     "EmbedAnything": {
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
-        "description": "Embed anything into Kanboard. This plugin utilizes HTML iframes and allows you to embed any web content into your project as a stand-alone page.",
+        "description": "Embed anything into Kanboard. This plugin utilizes HTML iframes and allows you to embed any web content into your project as a standalone page.",
         "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.2.0/EmbedAnything.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -563,7 +563,7 @@
     "extendedMail": {
         "author": "Rens Sikma",
         "compatible_version": ">=1.2.2",
-        "description": "Adds extra functionality to kanboard comment by email",
+        "description": "Adds extra functionality to kanboard comment by email.",
         "download": "https://github.com/atcomputing/kanboard-ExtendedMail/releases/download/v0.8/ExtendedMail-0.8.0.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -631,7 +631,7 @@
     "github-release-notifier": {
         "author": "Shaun Fong",
         "compatible_version": ">=1.0.37",
-        "description": "Kanboard Plugin to create task when github release. Requires GitHub webhooks to be configured for a project",
+        "description": "Kanboard Plugin to create task when github release. Requires GitHub webhooks to be configured for a project.",
         "download": "https://github.com/Shaun-Fong/github-release-notifier/releases/download/1.1.0/GithubReleaseNotifier-1.1.0.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -835,7 +835,7 @@
     "imapuserauth": {
         "author": "Jim Mason",
         "compatible_version": ">=1.2.8",
-        "description": "Login to Kanboard using your IMAP credentials",
+        "description": "Login to Kanboard using your IMAP credentials.",
         "download": "https://github.com/RocketMan/plugin-imap-user-auth/releases/download/v1.0.3/IMAPUserAuth-1.0.3.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -903,7 +903,7 @@
     "KADIFF": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Show a side-by-side diff (if applicable) in the activity streams",
+        "description": "Show a side-by-side difference (where applicable) in the activity streams.",
         "download": "https://github.com/Chaosmeister/KADIFF/releases/download/1.0.0/KADIFF.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -920,7 +920,7 @@
     "KanboardCSS": {
         "author": "aljawaid",
         "compatible_version": ">=1.0.44",
-        "description": "A useful and calm theme",
+        "description": "A useful and calm theme.",
         "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v1.5.0/KanboardCSS-1.5.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -937,7 +937,7 @@
     "KanboardEmailHistory": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Action to email the full history of a task on closure",
+        "description": "Action to email the full history of a task on closure.",
         "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v1.2/KanboardEmailHistory-1.2.zip",
         "has_hooks": false,
         "has_overrides": true,
@@ -971,7 +971,7 @@
     "KanboardPermalink": {
         "author": "Theobald Software GmbH, aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Adds a convenient link to copy the task url to the clipboard",
+        "description": "Adds a convenient link to copy the task url to the clipboard.",
         "download": "https://github.com/theobald-software/KanboardPermalink/releases/download/v1.0/KanboardPermalink-1.0.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -988,7 +988,7 @@
     "KanboardProjectInvitation": {
         "author": "Andrei Volgin / Hussein Khalil, ipunkt Business Solutions",
         "compatible_version": ">=1.0.11",
-        "description": "Plugin is used to invite new users to actual Project by typing user's email. Input for invitation is located in Project Settings->Permissions.",
+        "description": "Plugin is used to invite new users to actual Project by typing user's email. Input for invitation is located in Project Settings -> Permissions.",
         "download": "https://github.com/ipunkt/KanboardProjectInvitation/releases/download/v1.0.0/KanboardProjectInvitation-1.0.0.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1107,7 +1107,7 @@
     "mattermost": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.37",
-        "description": "Send Kanboard notifications to Mattermost (self-hosted Slack clone).",
+        "description": "Send Kanboard notifications to Mattermost (selfhosted Slack clone).",
         "download": "https://github.com/kanboard/plugin-mattermost/releases/download/v1.0.5/Mattermost-1.0.5.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1141,7 +1141,7 @@
     "metamagik": {
         "author": "Craig Crosby + BlueTeck",
         "compatible_version": ">=1.0.33",
-        "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager",
+        "description": "Custom Fields and advanced GUI for managing them, along with Metadata Manager.",
         "download": "https://github.com/creecros/MetaMagik/releases/download/1.5.1/MetaMagik-1.5.1.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1198,7 +1198,7 @@
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/kenlog/Moon",
-        "is_type": "plugin",
+        "is_type": "theme",
         "last_updated": "2020-06-20",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/kenlog/Moon/master/README.md",
@@ -1209,7 +1209,7 @@
     "moveondate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
-        "description": "Adds an automatic action which allows you to move cards to a specific column when the due date has passed",
+        "description": "Adds an automatic action which allows you to move cards to a specific column when the due date has passed.",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskMoveOnDueDate/master/releases/TaskMoveOnDueDate.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -1260,7 +1260,7 @@
     "offline": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
         "compatible_version": ">=1.2.5",
-        "description": "This Plugin is used to automatically alert users when they've lost internet connectivity.",
+        "description": "This plugin is used to automatically alert users when they've lost internet connectivity.",
         "download": "https://github.com/ipunkt/KanboardOffline/releases/download/1.0.0/OfflineKanboardPlugin-1.0.0.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1328,7 +1328,7 @@
     "PAM": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Add hide/show and delete buttons for administrators to every event on activity streams",
+        "description": "Add hide/show/delete buttons for administrators for every event on activity streams.",
         "download": "https://github.com/Chaosmeister/PAM/releases/download/1.0.0/PAM.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1345,7 +1345,7 @@
     "PersianBoard": {
         "author": "Hamid Kord",
         "compatible_version": ">=1.2.11",
-        "description": "Make Kanboard compatible with Iranian Calendar (Persian or jalali Calendar) and support RTL (Right To Left) direction.",
+        "description": "Make Kanboard compatible with the Iranian Calendar (Persian or Jalali calendar) and support RTL (Right to Left) direction.",
         "download": "https://github.com/mer30hamid/PersianBoard/releases/download/v1.0.0/PersianBoard-1.0.0.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1362,7 +1362,7 @@
     "PITM": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Allow to paste images directly into textareas at the caret position - requires MarkdownPlus",
+        "description": "Allow to paste images directly into textareas at the caret position - requires MarkdownPlus.",
         "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.3/PITM.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1379,7 +1379,7 @@
     "pushdate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
-        "description": "Adds an automatic action which allows you to push the due date a specified number of days when moving cards to a specific column",
+        "description": "Adds an automatic action which allows you to push the due date a specified number of days when moving cards to a specific column.",
         "download": "https://raw.githubusercontent.com/dmorlitz/kanboard-TaskPushDate/master/releases/TaskPushDate.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -1430,7 +1430,7 @@
     "RCB": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Make codeblocks resizable, scrollable and also initially limit their height to 200px",
+        "description": "Make codeblocks resizable, scrollable and also initially limit their height to 200px.",
         "download": "https://github.com/Chaosmeister/RCB/releases/download/1.0.0/RCB.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1464,7 +1464,7 @@
     "relationgraph": {
         "author": "BlueTeck, Xavier Vidal",
         "compatible_version": "1.2.10",
-        "description": "Show relations between tasks using a graph library",
+        "description": "Show relations between tasks using a graph library.",
         "download": "https://github.com/BlueTeck/kanboard_plugin_relationgraph/releases/download/0.3.1/Relationgraph-0.3.1.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1566,7 +1566,7 @@
     "SortBoardByDates": {
         "author": "Manfred Hoffmann",
         "compatible_version": ">=1.2.11",
-        "description": "Allows boards to be sorted by different dates Date due, started, created, modified, moved, closed ... or (of course) in kanboard default-mode)",
+        "description": "Allows boards to be sorted by different dates (Date due, started, created, modified, moved, closed) or (of course) in kanboard default mode).",
         "download": "https://github.com/manne65-hd/Kanboard-SortBoardByDates/archive/master.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1600,7 +1600,7 @@
     "spectre": {
         "author": "Viggo",
         "compatible_version": ">=1.2.10",
-        "description": "Modern And Simple CSS Theme For Kanboard",
+        "description": "Modern And Simple CSS Theme For Kanboard.",
         "download": "https://github.com/kuerme/kanboard-theme-spectre/releases/download/v1.0.3/Spectre-1.0.3.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1617,7 +1617,7 @@
     "starredprojects": {
         "author": "BibLibre",
         "compatible_version": ">=1.2.5",
-        "description": "Mark projects as favorite for faster access in dashboard",
+        "description": "Mark projects as favorite for faster access in dashboard.",
         "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.3.0/StarredProjects-0.3.0.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1702,7 +1702,7 @@
     "Taglist": {
         "author": "BlueTeck",
         "compatible_version": ">=1.2.10",
-        "description": "Filter dropdown for tags",
+        "description": "Filter dropdown for tags.",
         "download": "https://github.com/BlueTeck/kanboard_plugin_taglist/releases/download/1.1.0/Taglist-1.1.0.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1753,7 +1753,7 @@
     "TaskButtonsReposition": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
         "compatible_version": ">=1.2.5",
-        "description": "By this Plugin some action buttons are duplicated from sidebar list to corresponding accordion section in Task content view.",
+        "description": "Some action buttons are duplicated from the sidebar list to the corresponding accordion section in the task view.",
         "download": "https://github.com/ipunkt/KanboardTaskButtonsReposition/releases/download/v1.0.0/KanboardTaskButtonsReposition-1.0.0.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1770,7 +1770,7 @@
     "TaskProgressBar": {
         "author": "Valentino Pesce",
         "compatible_version": ">=1.0.48",
-        "description": "Show the progress bar of sub-tasks from the bulletin board.",
+        "description": "Show the progress bar of subtasks from the bulletin board.",
         "download": "https://github.com/kenlog/TaskProgressBar/releases/download/v1.0.1/TaskProgressBar.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1838,7 +1838,7 @@
     "TimeMachine": {
         "author": "Yohann Valentin",
         "compatible_version": ">=1.2.6",
-        "description": "Add more analytics times datas like time comparison by swimlanes, categories and by dates(only spent time). And a edit form on subtask time tracking",
+        "description": "Add more analytics times datas like time comparison by swimlanes, categories and by dates(only spent time). And a edit form on subtask time tracking.",
         "download": "https://gitlab.com/yv-kanboard-plugin/time-machine/uploads/7633efeee85e7e90b5a8620d5af38160/TimeMachine-1.0.1.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1855,7 +1855,7 @@
     "timetrackingeditor": {
         "author": "Stinnux",
         "compatible_version": ">=1.2.4",
-        "description": "Manually Add and Edit Time Tracking entries, add comments and select billable/not billable to time tracking entries. Export Time Tracking Entries as HTML",
+        "description": "Manually Add and Edit Time Tracking entries, add comments and select billable/not billable to time tracking entries. Export Time Tracking Entries as HTML.",
         "download": "https://github.com/stinnux/kanboard-Timetrackingeditor/releases/download/1.0.21/Timetrackingeditor-1.0.21.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1872,7 +1872,7 @@
     "TNID": {
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
-        "description": "Show the task number in the task details, so if you use the MinimizeSidebar plugin, you can still see the tasknumber",
+        "description": "Show the task number in the task details, so if you use the MinimizeSidebar plugin, you can still see the task number.",
         "download": "https://github.com/Chaosmeister/TNID/releases/download/1.0.0/TNID.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1923,7 +1923,7 @@
     "WeeklyRecurringTasks": {
         "author": "Sebastian Pape, Sebastien Diot",
         "compatible_version": ">=1.2.13",
-        "description": "Automatically clones Tasks with the DAILY/WEEKLY/BIWEEKLY or MONDAY/TUESDAY/WEDNESDAY/THURSDAY/FRIDAY/SATURDAY/SUNDAY tag",
+        "description": "Automatically clones Tasks with the DAILY/WEEKLY/BIWEEKLY or MONDAY/TUESDAY/WEDNESDAY/THURSDAY/FRIDAY/SATURDAY/SUNDAY tag.",
         "download": "https://github.com/PapeCoding/kanboard-WeeklyRecurringTasks/releases/download/v1.0.2/WeeklyRecurringTasks-1.0.2.zip",
         "has_hooks": false,
         "has_overrides": false,
