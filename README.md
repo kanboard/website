@@ -20,7 +20,7 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/PluginDeveloperName/MyPlugin",
-        "is_type": "no",
+        "is_type": "plugin",
         "last_updated": "2022-11-10",
         "license": "MIT",
         "readme": "https://github.com/PluginDeveloperName/MyPlugin/blob/master/README.md",
