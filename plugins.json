@@ -3,18 +3,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Agile Indicators display the measurements for Task Priorities and Task Complexities in an easy to use general format. Task Priorities are scaled between P1 and P5 whilst Task Complexities are scored as 0-50.",
-        "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.0/AgileIndicators-1.0.zip",
+        "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.1/AgileIndicators-1.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/AgileIndicators",
         "is_type": "plugin",
-        "last_updated": "2022-10-25",
-        "license": "Unlicense",
+        "last_updated": "2022-11-22",
+        "license": "MIT",
         "readme": "https://github.com/aljawaid/AgileIndicators/blob/master/README.md",
         "remote_install": true,
         "title": "AgileIndicators",
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "assigncategory": {
         "author": "David Morlitz",
