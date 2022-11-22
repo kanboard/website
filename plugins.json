@@ -700,18 +700,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Glancer lets you quickly jump to a project, task or comment through a search bar at the bottom of the screen. Following the Getting Things Done methodology, productive users can glance in and out of tasks, comments and projects across the interface.",
-        "download": "https://github.com/aljawaid/Glancer/releases/download/v1.0/Glancer-1.0.zip",
+        "download": "https://github.com/aljawaid/Glancer/releases/download/v1.5/Glancer-1.5.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/Glancer",
         "is_type": "plugin",
-        "last_updated": "2022-11-06",
+        "last_updated": "2022-11-22",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/Glancer/blob/master/README.md",
         "remote_install": true,
         "title": "Glancer",
-        "version": "1.0.0"
+        "version": "1.5.0"
     },
     "gogs-webhook": {
         "author": "Frédéric Guillot",
