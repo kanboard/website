@@ -494,7 +494,7 @@
     },
     "EAR": {
         "author": "Tomas Dittmann",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.23",
         "description": "Add a button on attachments that allows you to rename them.",
         "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.1/EAR.zip",
         "has_hooks": true,
