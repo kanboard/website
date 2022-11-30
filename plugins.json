@@ -496,18 +496,18 @@
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.23",
         "description": "Add a button on attachments that allows you to rename them.",
-        "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.1/EAR.zip",
+        "download": "https://github.com/Chaosmeister/EAR/releases/download/1.1.2/EAR.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/Chaosmeister/EAR",
         "is_type": "plugin",
-        "last_updated": "2022-05-10",
+        "last_updated": "2022-11-30",
         "license": "Unlicense",
         "readme": "https://github.com/Chaosmeister/EAR/blob/main/README.md",
         "remote_install": true,
         "title": "Enable attachment renaming",
-        "version": "1.1.1"
+        "version": "1.1.2"
     },
     "EmbedAnything": {
         "author": "greyaz",
