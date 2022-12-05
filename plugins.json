@@ -1087,6 +1087,23 @@
         "title": "Add MathJax to Kanboard",
         "version": "1.1.0"
     },
+    "MatomoConnector": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "Connect your Kanboard instance to Matomo Analytics to track visitors to your site. Set the standard tracking code or use the optional JavaScript fallback code with further options for image tracking.",
+        "download": "https://github.com/aljawaid/MatomoConnector/releases/download/v1.0/MatomoConnector-1.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/MatomoConnector",
+        "is_type": "connector",
+        "last_updated": "2022-12-05",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/MatomoConnector/blob/master/README.md",
+        "remote_install": true,
+        "title": "MatomoConnector",
+        "version": "1.0.0"
+    },
     "matrix": {
         "author": "Chris Metz",
         "compatible_version": ">=1.0.37",
