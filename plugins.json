@@ -920,19 +920,19 @@
     "KanboardCSS": {
         "author": "aljawaid",
         "compatible_version": ">=1.0.44",
-        "description": "A useful and calm theme.",
-        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v1.5.0/KanboardCSS-1.5.zip",
+        "description": "This plugin adds a new style for the Kanboard user interface. As a polished theme for modern browsers using gradients and shades of blue and red, this theme refreshes the Kanboard interface to complement the user experience.",
+        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v2.0/KanboardCSS-2.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardCSS",
         "is_type": "theme",
-        "last_updated": "2018-09-23",
+        "last_updated": "2022-12-05",
         "license": "MIT",
-        "readme": "https://raw.githubusercontent.com/aljawaid/KanboardCSS/master/README.md",
+        "readme": "https://github.com/aljawaid/KanboardCSS/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardCSS",
-        "version": "1.5.0"
+        "version": "2.0.0"
     },
     "KanboardEmailHistory": {
         "author": "aljawaid",
@@ -946,7 +946,7 @@
         "is_type": "action",
         "last_updated": "2022-10-24",
         "license": "Unlicense",
-        "readme": "https://github.com/aljawaid/KanboardEmailHistory/blob/main/README.md",
+        "readme": "https://github.com/aljawaid/KanboardEmailHistory/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardEmailHistory",
         "version": "1.2.0"
