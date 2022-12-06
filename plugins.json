@@ -921,7 +921,7 @@
         "author": "aljawaid",
         "compatible_version": ">=1.0.44",
         "description": "This plugin adds a new style for the Kanboard user interface. As a polished theme for modern browsers using gradients and shades of blue and red, this theme refreshes the Kanboard interface to complement the user experience.",
-        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v2.0/KanboardCSS-2.0.zip",
+        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v2.1/KanboardCSS-2.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
@@ -932,7 +932,7 @@
         "readme": "https://github.com/aljawaid/KanboardCSS/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardCSS",
-        "version": "2.0.0"
+        "version": "2.1.0"
     },
     "KanboardEmailHistory": {
         "author": "aljawaid",
