@@ -513,18 +513,18 @@
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
         "description": "Embed anything into Kanboard. This plugin utilizes HTML iframes and allows you to embed any web content into your project as a standalone page.",
-        "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.2.0/EmbedAnything.zip",
+        "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.3.0/EmbedAnything.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/EmbedAnything",
         "is_type": "plugin",
-        "last_updated": "2022-11-03",
+        "last_updated": "2022-12-14",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/EmbedAnything/main/README.md",
         "remote_install": true,
         "title": "Embed Anything",
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     "encryptedcontent": {
         "author": "Valentino Pesce",
