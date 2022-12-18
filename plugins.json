@@ -1750,6 +1750,23 @@
         "title": "Taglist",
         "version": "1.1.0"
     },
+    "TagManager": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "Use tags like you have never used them before. This plugin revamps the whole project and global tags concept to provide the user with a clearer process of creating and associating tags to better improve their workflow.",
+        "download": "https://github.com/aljawaid/TagManager/releases/download/v1.0/TagManager-1.0.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/TagManager",
+        "is_type": "plugin",
+        "last_updated": "2022-12-18",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/TagManager/blob/master/README.md",
+        "remote_install": true,
+        "title": "TagManager",
+        "version": "1.0.0"
+    },
     "Task2pdf": {
         "author": "Craig Crosby",
         "compatible_version": ">=1.0.46",
