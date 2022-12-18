@@ -513,18 +513,18 @@
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
         "description": "Embed anything into Kanboard. This plugin utilizes HTML iframes and allows you to embed any web content into your project as a standalone page.",
-        "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.2.0/EmbedAnything.zip",
+        "download": "https://github.com/greyaz/EmbedAnything/releases/download/0.3.0/EmbedAnything.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/EmbedAnything",
         "is_type": "plugin",
-        "last_updated": "2022-11-03",
+        "last_updated": "2022-12-14",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/EmbedAnything/main/README.md",
         "remote_install": true,
         "title": "Embed Anything",
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     "encryptedcontent": {
         "author": "Valentino Pesce",
@@ -1839,18 +1839,18 @@
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
         "description": "A 'task-first' and high-quality theme for Kanboard. It's aimed at better mobile experiences, common plugins' compatibilities, and customization friendly.",
-        "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.8/ThemeRevision.zip",
+        "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.9/ThemeRevision.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/ThemeRevision",
         "is_type": "theme",
-        "last_updated": "2022-11-22",
+        "last_updated": "2022-12-14",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/ThemeRevision/main/README.md",
         "remote_install": true,
         "title": "ThemeRevision",
-        "version": "1.1.8"
+        "version": "1.1.9"
     },
     "timeintervalbutton": {
         "author": "Igor Mroz",
