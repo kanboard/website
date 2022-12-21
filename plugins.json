@@ -1036,6 +1036,23 @@
         "title": "KangarooJump",
         "version": "1.2.0"
     },
+    "KBColours": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "This plugin shows the actual colour values (background and matching border) for all the default Kanboard colours in the application settings.",
+        "download": "https://github.com/aljawaid/KBColours/releases/download/v1.0/KBColours-1.0.zip",
+        "has_hooks": false,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/KBColours",
+        "is_type": "plugin",
+        "last_updated": "2022-12-21",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/KBColours/blob/master/README.md",
+        "remote_install": true,
+        "title": "KBColours",
+        "version": "1.0.0"
+    },
     "mailgun": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.40",
