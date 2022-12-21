@@ -700,18 +700,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Quickly jump to a project, task or comment through a bar at the bottom of the screen. Use the new copy to clipboard feature in different formats coupled with the new global shortcut icon to realise why Glancer was built for power users. Following the 'Getting Things Done' methodology, productive users can glance through their workflow easily.",
-        "download": "https://github.com/aljawaid/Glancer/releases/download/v2.0/Glancer-2.0.zip",
+        "download": "https://github.com/aljawaid/Glancer/releases/download/v2.1/Glancer-2.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/Glancer",
         "is_type": "plugin",
-        "last_updated": "2022-12-01",
+        "last_updated": "2022-12-21",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/Glancer/blob/master/README.md",
         "remote_install": true,
         "title": "Glancer",
-        "version": "2.0.0"
+        "version": "2.1.0"
     },
     "gogs-webhook": {
         "author": "Frédéric Guillot",
