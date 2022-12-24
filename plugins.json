@@ -479,7 +479,7 @@
         "author": "Fx",
         "compatible_version": ">=1.2.5",
         "description": "Switch sorting boards by card due date, last modification of tasks oder default view",
-        "download": "https://github.com/JustFxDev/kanboard-duedate/archive/refs/tags/V1.2.0.zip",
+        "download": "https://github.com/JustFxDev/kanboard-duedate/raw/master/releases/duedate-1.2.0.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
