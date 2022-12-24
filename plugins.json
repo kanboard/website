@@ -476,21 +476,21 @@
         "version": "1.0.2"
     },
     "duedate": {
-        "author": "JustFXDev",
+        "author": "Fx",
         "compatible_version": ">=1.2.5",
-        "description": "Allow boards to be sorted by card due date.",
-        "download": "https://raw.githubusercontent.com/JustFxDev/kanboard-duedate/master/releases/DueDate.zip",
+        "description": "Switch sorting boards by card due date, last modification of tasks oder default view",
+        "download": "https://github.com/JustFxDev/kanboard-duedate/raw/master/releases/duedate-1.2.0.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/JustFxDev/kanboard-duedate",
         "is_type": "plugin",
-        "last_updated": "2020-10-08",
+        "last_updated": "2022-12-23",
         "license": "MIT",
-        "readme": "https://raw.githubusercontent.com/JustFxDev/kanboard-duedate/master/README.md",
+        "readme": "https://github.com/JustFxDev/kanboard-duedate/blob/master/README.md",
         "remote_install": true,
         "title": "Due Date sorting",
-        "version": "1.0.0"
+        "version": "1.2.0"
     },
     "EAR": {
         "author": "Tomas Dittmann",
