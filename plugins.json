@@ -989,18 +989,18 @@
         "author": "Theobald Software GmbH, aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Adds a convenient link to copy the task url to the clipboard.",
-        "download": "https://github.com/theobald-software/KanboardPermalink/releases/download/v1.0/KanboardPermalink-1.0.zip",
+        "download": "https://github.com/theobald-software/KanboardPermalink/releases/download/v1.1/KanboardPermalink-1.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/theobald-software/KanboardPermalink",
         "is_type": "plugin",
-        "last_updated": "2022-11-09",
+        "last_updated": "2022-12-30",
         "license": "MIT",
         "readme": "https://github.com/theobald-software/KanboardPermalink/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardPermalink",
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "KanboardProjectInvitation": {
         "author": "Andrei Volgin / Hussein Khalil, ipunkt Business Solutions",
