@@ -105,18 +105,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "This plugin gives the Automatic Action interface a complete makeover to make it more user friendly. Particularly useful for visual learners and non-English speaking users, this plugin adds a quick glance of Actions on the board avoiding careless drag-happy mistakes.",
-        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.7/AutomaticActionUX-1.7.zip",
+        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v1.8/AutomaticActionUX-1.8.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/AutomaticActionUX",
         "is_type": "plugin",
-        "last_updated": "2022-11-22",
+        "last_updated": "2022-12-30",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/AutomaticActionUX/blob/master/README.md",
         "remote_install": true,
         "title": "AutomaticActionUX",
-        "version": "1.7.0"
+        "version": "1.8.0"
     },
     "autosubtasks": {
         "author": "Craig Crosby",
