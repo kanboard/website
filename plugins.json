@@ -326,7 +326,7 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "A new way to utilise colors to their full potential in Kanboard.  Choose from 2 color palettes or create your own. Across all palettes, choose from over 70 colors to match your workflow across the interface.",
-        "download": "https://github.com/aljawaid/ColorManager/releases/download/v2.5/ColorManager-2.5.zip",
+        "download": "https://github.com/aljawaid/ColorManager/releases/download/v2.6/ColorManager-2.6.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
@@ -337,7 +337,7 @@
         "readme": "https://github.com/aljawaid/ColorManager/blob/master/README.md",
         "remote_install": true,
         "title": "ColorManager",
-        "version": "2.5.0"
+        "version": "2.6.0"
     },
     "comment-tooltip": {
         "author": "Enrico Frigo",
