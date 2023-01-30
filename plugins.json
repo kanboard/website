@@ -16,6 +16,23 @@
         "title": "AgileIndicators",
         "version": "1.2.0"
     },
+    "ApplicationBranding": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "This plugin will rename your installation to 'My Workspace' and include matching device icons in the site metadata for a better user experience. A revamped login page, with a new Admin Dashboard showing global installation activity data with corrected page titles will give a more professional appeal across the site and when sharing links.",
+        "download": "https://github.com/aljawaid/ApplicationBranding/releases/download/v1.0/ApplicationBranding-1.0.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/ApplicationBranding",
+        "is_type": "plugin",
+        "last_updated": "2023-01-30",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/ApplicationBranding/blob/master/README.md",
+        "remote_install": true,
+        "title": "ApplicationBranding",
+        "version": "1.0.0"
+    },
     "assigncategory": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
