@@ -1089,7 +1089,7 @@
     },
     "Mailmagik": {
         "author": "Craig Crosby",
-        "compatible_version": ">=1.2.19,
+        "compatible_version": ">=1.2.19",
         "description": "Connect Kanboard to an IMAP server to recieve emails and automatically convert emails to tasks or comments",
         "download": "https://github.com/creecros/Mailmagik/releases/download/1.1.0/Mailmagik-1.1.0.zip",
         "has_hooks": true,
