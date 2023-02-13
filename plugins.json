@@ -2026,18 +2026,18 @@
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
         "description": "Receive notifications on Wechat Work (企业微信), aka Wecom.",
-        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.4.0/WechatWorkNotifier.zip",
+        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.4.1/WechatWorkNotifier.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/WechatWorkNotifier",
         "is_type": "connector",
-        "last_updated": "2022-11-14",
+        "last_updated": "2023-02-13",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/WechatWorkNotifier/main/README.md",
         "remote_install": true,
-        "title": "WechatWorkNotifier",
-        "version": "0.4.0"
+        "title": "Wechat Work Notifier",
+        "version": "0.4.1"
     },
     "WeeklyRecurringTasks": {
         "author": "Sebastian Pape, Sebastien Diot",
