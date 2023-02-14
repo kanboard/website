@@ -557,7 +557,7 @@
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/EmbedAnything/main/README.md",
         "remote_install": true,
-        "title": "Embed Anything",
+        "title": "EmbedAnything",
         "version": "0.3.0"
     },
     "encryptedcontent": {
@@ -1781,7 +1781,7 @@
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/TableView/main/README.md",
         "remote_install": true,
-        "title": "Table View",
+        "title": "TableView",
         "version": "0.1.0"
     },
     "Taglist": {
@@ -1924,18 +1924,18 @@
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
         "description": "A 'task-first' and high-quality theme for Kanboard. It's aimed at better mobile experiences, common plugins' compatibilities, and customization friendly.",
-        "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.9/ThemeRevision.zip",
+        "download": "https://github.com/greyaz/ThemeRevision/releases/download/1.1.10/ThemeRevision.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/ThemeRevision",
         "is_type": "theme",
-        "last_updated": "2022-12-14",
+        "last_updated": "2023-02-13",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/ThemeRevision/main/README.md",
         "remote_install": true,
-        "title": "ThemeRevision",
-        "version": "1.1.9"
+        "title": "ThemeRevision for Kanboard",
+        "version": "1.1.10"
     },
     "timeintervalbutton": {
         "author": "Igor Mroz",
@@ -2026,18 +2026,18 @@
         "author": "greyaz",
         "compatible_version": ">=1.2.8",
         "description": "Receive notifications on Wechat Work (企业微信), aka Wecom.",
-        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.4.0/WechatWorkNotifier.zip",
+        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.4.1/WechatWorkNotifier.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/WechatWorkNotifier",
         "is_type": "connector",
-        "last_updated": "2022-11-14",
+        "last_updated": "2023-02-13",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/WechatWorkNotifier/main/README.md",
         "remote_install": true,
         "title": "Wechat Work Notifier",
-        "version": "0.4.0"
+        "version": "0.4.1"
     },
     "WeeklyRecurringTasks": {
         "author": "Sebastian Pape, Sebastien Diot",
