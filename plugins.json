@@ -1701,20 +1701,20 @@
     },
     "starredprojects": {
         "author": "BibLibre",
-        "compatible_version": ">=1.2.5",
+        "compatible_version": ">=1.2.14",
         "description": "Mark projects as favorite for faster access in dashboard.",
-        "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.3.0/StarredProjects-0.3.0.zip",
+        "download": "https://github.com/biblibre/kanboard-plugin-StarredProjects/releases/download/v0.4.0/StarredProjects-0.4.0.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/biblibre/kanboard-plugin-StarredProjects",
         "is_type": "plugin",
-        "last_updated": "2022-01-20",
+        "last_updated": "2023-02-21",
         "license": "MIT",
-        "readme": "https://raw.githubusercontent.com/biblibre/kanboard-plugin-StarredProjects/v0.3.0/README.md",
+        "readme": "https://raw.githubusercontent.com/biblibre/kanboard-plugin-StarredProjects/v0.4.0/README.md",
         "remote_install": true,
         "title": "Starred Projects",
-        "version": "0.3.0"
+        "version": "0.4.0"
     },
     "subtaskdate": {
         "author": "Manuel Raposo & Craig Crosby",
