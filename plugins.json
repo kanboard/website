@@ -1210,18 +1210,18 @@
         "author": "Craig Crosby + BlueTeck",
         "compatible_version": ">=1.0.33",
         "description": "Custom Fields and advanced GUI for managing them, along with [Metadata Manager](https://github.com/BlueTeck/kanboard_plugin_metadata).",
-        "download": "https://github.com/creecros/MetaMagik/releases/download/1.5.3/MetaMagik-1.5.3.zip",
+        "download": "https://github.com/creecros/MetaMagik/releases/download/1.5.4/MetaMagik-1.5.4.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/creecros/MetaMagik",
         "is_type": "plugin",
-        "last_updated": "2023-02-06",
+        "last_updated": "2023-02-16",
         "license": "MIT",
         "readme": "https://github.com/creecros/MetaMagik/blob/master/README.md",
         "remote_install": true,
         "title": "metaMagik",
-        "version": "1.5.3"
+        "version": "1.5.4"
     },
     "milestone": {
         "author": "Olivier Maridat",
@@ -1822,7 +1822,7 @@
         "author": "Craig Crosby",
         "compatible_version": ">=1.0.46",
         "description": "Create a printer friendly PDF of a task.",
-        "download": "https://github.com/creecros/Task2pdf/releases/download/1.7.0/Task2pdf-1.7.0.zip",
+        "download": "https://github.com/creecros/Task2pdf/releases/download/1.8.0/Task2pdf-1.8.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
@@ -1833,7 +1833,7 @@
         "readme": "https://raw.githubusercontent.com/creecros/Task2pdf/master/README.md",
         "remote_install": true,
         "title": "Task2pdf",
-        "version": "1.7.0"
+        "version": "1.8.0"
     },
     "TaskAssignPriorityToCategory": {
         "author": "Manfred Hoffmann",
