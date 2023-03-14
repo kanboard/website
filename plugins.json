@@ -1036,6 +1036,23 @@
         "title": "Project Invitation",
         "version": "1.0.0"
     },
+    "KanboardSkeletonPlugin": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "This template repository is the basic structure of a Kanboard Plugin. Download and use any part of this repository to create and develop your own Kanboard plugin. Developers should use the live repository instead of the latest release for the most up to date changes.",
+        "download": "https://github.com/aljawaid/KanboardSkeletonPlugin/releases/download/v3.0/KanboardSkeletonPlugin-3.0.zip",
+        "has_hooks": false,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/KanboardSkeletonPlugin",
+        "is_type": "plugin",
+        "last_updated": "2023-03-14",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/KanboardSkeletonPlugin/blob/master/README.md",
+        "remote_install": false,
+        "title": "KanboardSkeletonPlugin",
+        "version": "3.0.0"
+    },
     "KanboardSupport": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
