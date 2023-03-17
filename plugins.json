@@ -1,4 +1,38 @@
 {
+    "AddShortcuts": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.27",
+        "description": "A plugin, which adds certain shortcuts to Kanboard.",
+        "download": "https://github.com/Tagirijus/AddShortcuts/archive/refs/tags/v1.6.1.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/AddShortcuts",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/AddShortcuts/blob/master/README.md",
+        "remote_install": false,
+        "title": "AddShortcuts",
+        "version": "1.6.1"
+    },
+    "AddSpendTime": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.27",
+        "description": "Adds a button for a task to quickly add spent time with an time-input prompt",
+        "download": "https://github.com/Tagirijus/AddSpentTime/archive/refs/tags/v1.3.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/AddSpendTime",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/AddSpendTime/blob/master/README.md",
+        "remote_install": false,
+        "title": "AddSpendTime",
+        "version": "1.3.0"
+    },
     "AgileIndicators": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
@@ -492,6 +526,23 @@
         "title": "CustomUserCSS",
         "version": "1.0.0"
     },
+    "DashboardTaskSorting": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.26",
+        "description": "DashboardTaskSorting changes the default sorting for tasks on the main dashboard to 1. due date ASC and 2. priority DESC: for both, the overview and the tasks site.",
+        "download": "https://github.com/Tagirijus/DashboardTaskSorting/archive/refs/tags/v1.4.0.zip",
+        "has_hooks": false,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/DashboardTaskSorting",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/DashboardTaskSorting/blob/master/README.md",
+        "remote_install": false,
+        "title": "DashboardTaskSorting",
+        "version": "1.4.0"
+    },
     "db-storage": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.32",
@@ -865,6 +916,23 @@
         "remote_install": true,
         "title": "HighlightCodeSyntax",
         "version": "1.0.3"
+    },
+    "HoursView": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.27",
+        "description": "Show total hours in different places in the Kanboard app",
+        "download": "https://github.com/Tagirijus/HoursView/archive/refs/tags/v1.5.0.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/HoursView",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/HoursView/blob/master/README.md",
+        "remote_install": false,
+        "title": "HoursView",
+        "version": "1.5.0"
     },
     "imapuserauth": {
         "author": "Jim Mason",
@@ -1733,6 +1801,23 @@
         "title": "Starred Projects",
         "version": "0.4.0"
     },
+    "StartedDateOnCard": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.27",
+        "description": "This plugin adds a visual hint on a card, if it has a started date.",
+        "download": "https://github.com/Tagirijus/StartedDateOnCard/archive/refs/tags/v1.3.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/StartedDateOnCard",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/StartedDateOnCard/blob/master/README.md",
+        "remote_install": false,
+        "title": "StartedDateOnCard",
+        "version": "1.3.0"
+    },
     "subtaskdate": {
         "author": "Manuel Raposo & Craig Crosby",
         "compatible_version": ">=1.0.34",
@@ -1869,6 +1954,23 @@
         "title": "TaskAssignPriorityToCategory",
         "version": "0.8.1"
     },
+    "TaskAutoColor": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.26",
+        "description": "This plugin automatic colorizes the task according to its priority.",
+        "download": "https://github.com/Tagirijus/TaskAutoColor/archive/refs/tags/v1.2.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/TaskAutoColor",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/TaskAutoColor/blob/master/README.md",
+        "remote_install": false,
+        "title": "TaskAutoColor",
+        "version": "1.2.0"
+    },
     "TaskButtonsReposition": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
         "compatible_version": ">=1.2.5",
@@ -1885,6 +1987,23 @@
         "remote_install": true,
         "title": "Task Buttons Reposition",
         "version": "1.0.0"
+    },
+    "TaskIcons": {
+        "author": "Tagirijus",
+        "compatible_version": ">=1.2.27",
+        "description": "This plugin simply changes the started date icon from the clock to a play symbol.",
+        "download": "https://github.com/Tagirijus/TaskIcons/archive/refs/tags/v1.4.0.zip",
+        "has_hooks": false,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/Tagirijus/TaskIcons",
+        "is_type": "plugin",
+        "last_updated": "2023-03-17",
+        "license": "MIT",
+        "readme": "https://github.com/Tagirijus/TaskIcons/blob/master/README.md",
+        "remote_install": false,
+        "title": "TaskIcons",
+        "version": "1.4.0"
     },
     "TaskProgressBar": {
         "author": "Valentino Pesce",
