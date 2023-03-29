@@ -578,21 +578,21 @@
         "version": "1.0.2"
     },
     "duedate": {
-        "author": "Fx",
+        "author": "JustFxDev (Fx)",
         "compatible_version": ">=1.2.5",
-        "description": "Switch sorting boards by card due date, last modification of tasks oder default view",
-        "download": "https://github.com/JustFxDev/kanboard-duedate/raw/master/releases/duedate-1.2.0.zip",
+        "description": "Switch sorting cards in all columns by card due date, last modification of tasks or default view",
+        "download": "https://github.com/JustFxDev/kanboard-duedate/releases/download/v1.2.1/DueDate_v1.2.1.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/JustFxDev/kanboard-duedate",
         "is_type": "plugin",
-        "last_updated": "2022-12-23",
+        "last_updated": "2023-03-29",
         "license": "MIT",
         "readme": "https://github.com/JustFxDev/kanboard-duedate/blob/master/README.md",
         "remote_install": true,
         "title": "Due Date sorting",
-        "version": "1.2.0"
+        "version": "1.2.1"
     },
     "EAR": {
         "author": "Tomas Dittmann",
@@ -2076,19 +2076,19 @@
     "ThemeMaestro": {
         "author": "JustFxDev (Fx)",
         "compatible_version": ">=1.2.11",
-        "description": "A colorful theme to refresh the interface using different color schemes. Supports the Customizer plugin.",
-        "download": "https://github.com/JustFxDev/ThemeMaestro/releases/download/v0.8.0/ThemeMaestro-0.8.0.zip",
+        "description": "A colorful theme to refresh the interface providing different color schemes. Supports the Customizer plugin.",
+        "download": "https://github.com/JustFxDev/ThemeMaestro/releases/download/v0.9.0/ThemeMaestro-0.9.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/JustFxDev/ThemeMaestro",
         "is_type": "theme",
-        "last_updated": "2023-01-05",
+        "last_updated": "2023-03-29",
         "license": "MIT",
         "readme": "https://github.com/JustFxDev/ThemeMaestro/blob/main/README.md",
         "remote_install": true,
         "title": "ThemeMaestro",
-        "version": "0.8.0"
+        "version": "0.9.0"
     },
     "ThemeRevision": {
         "author": "greyaz",
