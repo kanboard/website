@@ -1869,6 +1869,23 @@
         "title": "SubtaskDescription",
         "version": "1.1.1"
     },
+    "SubtasksOnBoard": {
+        "author": "JustFxDev (Fx), rfde",
+        "compatible_version": ">=1.2.20",
+        "description": "Display subtasks of a task on the task cards on a board and run, start or clear them directly on the task card",
+        "download": "https://github.com/JustFxDev/SubtasksOnBoard/releases/download/v1.0.9/SubtasksOnBoard_v1.0.9.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/JustFxDev/SubtasksOnBoard",
+        "is_type": "theme",
+        "last_updated": "2023-03-29",
+        "license": "MIT",
+        "readme": "https://github.com/JustFxDev/SubtasksOnBoard#readme",
+        "remote_install": true,
+        "title": "Subtasks on Board",
+        "version": "1.0.9"
+    },
     "synologychat": {
         "author": "Paul Sweeney",
         "compatible_version": ">=1.2.6",
