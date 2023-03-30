@@ -1878,7 +1878,7 @@
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/JustFxDev/SubtasksOnBoard",
-        "is_type": "theme",
+        "is_type": "plugin",
         "last_updated": "2023-03-29",
         "license": "MIT",
         "readme": "https://github.com/JustFxDev/SubtasksOnBoard#readme",
