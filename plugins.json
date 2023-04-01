@@ -1040,18 +1040,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.0.44",
         "description": "This pure CSS theme replaces the look and feel of the Kanboard user interface. For modern browsers using gradients and shades of blue and red, KanboardCSS refreshes the the user experience. A new animated notification icon easily identifies new messages without affecting browser performance. All tables and forms are restyled to save screen space and improve productivity. This theme works perfectly with other plugins.",
-        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v3.0/KanboardCSS-3.0.zip",
+        "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v3.1/KanboardCSS-3.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardCSS",
         "is_type": "theme",
-        "last_updated": "2023-03-05",
+        "last_updated": "2023-04-01",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/KanboardCSS/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardCSS",
-        "version": "3.0.0"
+        "version": "3.1.0"
     },
     "KanboardEmailHistory": {
         "author": "aljawaid",
