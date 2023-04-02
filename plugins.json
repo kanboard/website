@@ -2230,18 +2230,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "This simple tool extends the rewriting of browser URLs for your Kanboard application. Sanitize those long URLs automatically creating neat pretty easy to remember bookmarks. This plugin extends URLs from the core and from plugins. URL Rewriting must be correctly configured for this plugin to function properly.",
-        "download": "https://github.com/aljawaid/URLCleaner/releases/download/v1.5/URLCleaner-1.5.zip",
+        "download": "https://github.com/aljawaid/URLCleaner/releases/download/v1.6/URLCleaner-1.6.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/URLCleaner",
         "is_type": "plugin",
-        "last_updated": "2023-03-05",
+        "last_updated": "2023-04-03",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/URLCleaner/blob/master/README.md",
         "remote_install": true,
         "title": "URLCleaner",
-        "version": "1.5.0"
+        "version": "1.6.0"
     },
     "WechatWorkNotifier": {
         "author": "greyaz",
