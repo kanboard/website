@@ -475,6 +475,23 @@
         "title": "Completed Complexity",
         "version": "0.3.0"
     },
+    "CostControl": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "This plugin replaces and extends the features from the original Budget plugin allowing users to control the budget of a project. Extended features include more currencies allowing users to change and modify their base currencies for most countries.",
+        "download": "https://github.com/aljawaid/CostControl/releases/download/v1.0/CostControl-1.0.zip",
+        "has_hooks": false,
+        "has_overrides": true,
+        "has_schema": true,
+        "homepage": "https://github.com/aljawaid/CostControl",
+        "is_type": "theme",
+        "last_updated": "2023-04-02",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/CostControl/blob/master/README.md",
+        "remote_install": false,
+        "title": "CostControl",
+        "version": "1.0.0"
+    },
     "coverimage": {
         "author": "BlueTeck + creecros",
         "compatible_version": ">=1.2.14",
