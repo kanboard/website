@@ -288,23 +288,6 @@
         "title": "Budget",
         "version": "1.0.9"
     },
-    "calendar": {
-        "author": "Andrew Cziryak",
-        "compatible_version": ">=1.2.13",
-        "description": "Embedded calendar into Kanboard.",
-        "download": "https://gitlab.com/smacz/kanboard-plugin-calendar/uploads/8dfb71633c381572df79640aab2c0842/Calendar-1.2.0.zip",
-        "has_hooks": true,
-        "has_overrides": false,
-        "has_schema": false,
-        "homepage": "https://gitlab.com/smacz/kanboard-plugin-calendar",
-        "is_type": "plugin",
-        "last_updated": "2021-01-26",
-        "license": "MIT",
-        "readme": "https://gitlab.com/smacz/kanboard-plugin-calendar/-/raw/master/README.md",
-        "remote_install": true,
-        "title": "Calendar",
-        "version": "1.2.0"
-    },
     "cardpushdate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
