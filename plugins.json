@@ -972,18 +972,18 @@
         "author": "Alfred Bühler",
         "compatible_version": ">=1.2.20",
         "description": "Allow some configuration of the iCal calendar feeds.",
-        "download": "https://codeberg.org/api/packages/abu/generic/ICalConfig/0.3.0/ICalConfig-0.3.0.zip",
+        "download": "https://codeberg.org/api/packages/abu/generic/ICalConfig/0.4.0/ICalConfig-0.4.0.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://codeberg.org/abu/ICalConfig/",
         "is_type": "plugin",
-        "last_updated": "2023-04-05",
+        "last_updated": "2023-04-30",
         "license": "MIT",
         "readme": "https://codeberg.org/abu/ICalConfig/src/branch/master/README.md",
         "remote_install": true,
         "title": "ICalConfig",
-        "version": "0.3.0"
+        "version": "0.4.0"
     },
     "imapuserauth": {
         "author": "Jim Mason",
