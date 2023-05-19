@@ -1091,18 +1091,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "This plugin adds a new Automatic Action to provide any user or department to receive a final email report when a task is closed. Automatic emails are sent detailing the task description including the full comment history. Let this plugin create a digital file copy of your tasks using advanced options including emailing different recipients, adding comment logs and a fallback for a blank email subject line.",
-        "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v2.6/KanboardEmailHistory-2.6.zip",
+        "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v2.7/KanboardEmailHistory-2.7.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardEmailHistory",
         "is_type": "action",
-        "last_updated": "2023-01-30",
+        "last_updated": "2023-05-19",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/KanboardEmailHistory/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardEmailHistory",
-        "version": "2.6.0"
+        "version": "2.7.0"
     },
     "KanboardEssentials": {
         "author": "Taeluf",
