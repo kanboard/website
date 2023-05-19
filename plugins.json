@@ -1584,18 +1584,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Replace the Installed Plugins section within the Kanboard interface with a new Plugin Manager and revamped Plugins Directory. Plugin Manager provides both users and developers with an improved comprehensive interface displaying a new section for troubleshooting plugins and a new plugin structure breakdown for each plugin.",
-        "download": "https://github.com/aljawaid/PluginManager/releases/download/v3.5/PluginManager-3.5.zip",
+        "download": "https://github.com/aljawaid/PluginManager/releases/download/v4.0/PluginManager-4.0.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/PluginManager",
         "is_type": "plugin",
-        "last_updated": "2023-05-04",
+        "last_updated": "2023-05-19",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/PluginManager/blob/master/README.md",
         "remote_install": true,
         "title": "PluginManager",
-        "version": "3.5.0"
+        "version": "4.0.0"
     },
     "pushdate": {
         "author": "David Morlitz",
