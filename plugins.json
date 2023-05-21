@@ -2111,18 +2111,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Predefined Contents is replaced by the Template Manager. Improve consistency of your project data and save time for repetitive comments using saved templates. Project Editors can create, update and delete templates for each project. Templates can be created for task descriptions (core feature), comments (new feature), global templates (new feature) and email subjects (core feature) all in one place including adding notes and instructions separate to the template content to help keep content neat. The global templates feature shows for every project and can be used as a way to guide and advise users within tasks.  Templates can also be useful in environments where auditing is required.",
-        "download": "https://github.com/aljawaid/TemplateManager/releases/download/v2.6/TemplateManager-2.6.zip",
+        "download": "https://github.com/aljawaid/TemplateManager/releases/download/v2.7/TemplateManager-2.7.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/aljawaid/TemplateManager",
         "is_type": "plugin",
-        "last_updated": "2023-04-01",
+        "last_updated": "2023-05-22",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/TemplateManager/blob/master/README.md",
         "remote_install": true,
         "title": "TemplateManager",
-        "version": "2.6.0"
+        "version": "2.7.0"
     },
     "ThemeMaestro": {
         "author": "JustFxDev (Fx)",
