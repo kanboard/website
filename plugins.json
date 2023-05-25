@@ -530,7 +530,7 @@
         "author": "Craig Crosby",
         "compatible_version": ">=1.0.42",
         "description": "GUI to add logos, themes, favicons and much more customization.",
-        "download": "https://github.com/creecros/Customizer/releases/download/1.14.1/Customizer-1.14.1.zip",
+        "download": "https://github.com/creecros/Customizer/releases/download/1.14.2/Customizer-1.14.2.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
@@ -541,7 +541,7 @@
         "readme": "https://github.com/creecros/Customizer/blob/master/README.md",
         "remote_install": true,
         "title": "Customizer",
-        "version": "1.14.1"
+        "version": "1.14.2"
     },
     "CustomUserCSS": {
         "author": "Sebastian Pape",
