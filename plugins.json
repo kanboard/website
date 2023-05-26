@@ -54,18 +54,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "This plugin will rename your installation to 'My Workspace' and include matching device favicons, description and logo in the site metadata for a better user experience. A revamped login page, with a new Admin Dashboard showing global installation activity data with corrected page titles will give a more professional appeal across the site and when sharing links.",
-        "download": "https://github.com/aljawaid/ApplicationBranding/releases/download/v3.2/ApplicationBranding-3.2.zip",
+        "download": "https://github.com/aljawaid/ApplicationBranding/releases/download/v3.3/ApplicationBranding-3.3.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/ApplicationBranding",
         "is_type": "plugin",
-        "last_updated": "2023-05-20",
+        "last_updated": "2023-05-26",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/ApplicationBranding/blob/master/README.md",
         "remote_install": true,
         "title": "ApplicationBranding",
-        "version": "3.2.0"
+        "version": "3.3.0"
     },
     "assigncategory": {
         "author": "David Morlitz",
