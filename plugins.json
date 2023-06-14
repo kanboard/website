@@ -33,22 +33,22 @@
         "title": "AddShortcuts",
         "version": "1.6.1"
     },
-    "AddSpendTime": {
+    "AddSpentTime": {
         "author": "Tagirijus",
         "compatible_version": ">=1.2.27",
         "description": "Adds a button for a task to quickly add spent time with an time-input prompt",
-        "download": "https://github.com/Tagirijus/AddSpentTime/archive/refs/tags/v1.3.0.zip",
+        "download": "https://github.com/Tagirijus/AddSpentTime/releases/download/v1.6.0/AddSpentTime-1.6.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
-        "homepage": "https://github.com/Tagirijus/AddSpendTime",
+        "homepage": "https://github.com/Tagirijus/AddSpentTime",
         "is_type": "plugin",
-        "last_updated": "2023-03-17",
+        "last_updated": "2023-05-30",
         "license": "MIT",
-        "readme": "https://github.com/Tagirijus/AddSpendTime/blob/master/README.md",
+        "readme": "https://github.com/Tagirijus/AddSpentTime/blob/master/README.md",
         "remote_install": false,
-        "title": "AddSpendTime",
-        "version": "1.3.0"
+        "title": "AddSpentTime",
+        "version": "1.6.0"
     },
     "AgileIndicators": {
         "author": "aljawaid",
