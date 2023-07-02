@@ -3,18 +3,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Use the dedicated Address Book to create and manage contacts or organisations in projects and tasks. Add custom properties to standardise a deeper relationship between tasks and people or places. Contacts can be linked exclusively to tasks in a project. Users can sort their contact properties to show the first 3 properties (e.g. name, number and email) for quick reference from the task summary and the project board view.",
-        "download": "https://github.com/aljawaid/AddressBook/releases/download/v1.0/AddressBook-1.0.zip",
+        "download": "https://github.com/aljawaid/AddressBook/releases/download/v1.1/AddressBook-1.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
         "homepage": "https://github.com/aljawaid/AddressBook",
         "is_type": "plugin",
-        "last_updated": "2023-06-29",
+        "last_updated": "2023-07-02",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/AddressBook/blob/master/README.md",
-        "remote_install": false,
+        "remote_install": true,
         "title": "AddressBook",
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "AddShortcuts": {
         "author": "Tagirijus",
