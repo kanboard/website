@@ -492,6 +492,23 @@
         "title": "Completed Complexity",
         "version": "0.3.0"
     },
+    "ContentCleaner": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "This tool allows admins to cleanup their Kanboard database by selectively deleting useless data saved by Kanboard and leftover data after uninstalling plugins. Keep your database clean and free from cluttered and expired data using cleaning jobs to solve specific application issues.",
+        "download": "https://github.com/aljawaid/ContentCleaner/releases/download/v1.0/ContentCleaner-1.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/ContentCleaner",
+        "is_type": "plugin",
+        "last_updated": "2023-07-07",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/ContentCleaner/blob/master/README.md",
+        "remote_install": false,
+        "title": "ContentCleaner",
+        "version": "0.5.0"
+    },
     "CostControl": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
