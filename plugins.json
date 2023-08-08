@@ -309,18 +309,18 @@
         "author": "Frédéric Guillot, Alfred Bühler",
         "compatible_version": ">=1.2.13",
         "description": "Embedded calendar for Kanboard.",
-        "download": "https://codeberg.org/api/packages/abu/generic/Calendar/1.4.1/Calendar-1.4.1.zip",
+        "download": "https://codeberg.org/api/packages/abu/generic/Calendar/1.5.0/Calendar-1.5.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://codeberg.org/abu/Calendar/",
         "is_type": "plugin",
-        "last_updated": "2023-07-19",
+        "last_updated": "2023-08-08",
         "license": "MIT",
         "readme": "https://codeberg.org/abu/Calendar/src/branch/master/README.md",
         "remote_install": true,
         "title": "Calendar",
-        "version": "1.4.1"
+        "version": "1.5.0"
     },
     "cardpushdate": {
         "author": "David Morlitz",
