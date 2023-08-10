@@ -713,6 +713,24 @@
         "title": "Essential",
         "version": "1.1.3"
     },
+    "EssentialTheme": {
+        "author": "Valentino Pesce, Alfred Bühler",
+        "compatible_version": ">=1.0.48",
+        "description": "Essential theme returns a new style to your kanboard.",
+        "description": "A modern theme for Kanboard, returning a new style to your instance.",
+        "download": "https://codeberg.org/api/packages/abu/generic/EssentialTheme/1.1.4/EssentialTheme-1.1.4.zip",
+        "has_hooks": false,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://codeberg.org/abu/EssentialTheme/",
+        "is_type": "theme",
+        "last_updated": "2023-08-10",
+        "license": "MIT",
+        "readme": "https://codeberg.org/abu/EssentialTheme/src/branch/master/README.md",
+        "remote_install": true,
+        "title": "EssentialTheme",
+        "version": "1.1.4"
+    },
     "extendedMail": {
         "author": "Rens Sikma",
         "compatible_version": ">=1.2.2",
