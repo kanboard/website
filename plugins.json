@@ -716,7 +716,6 @@
     "EssentialTheme": {
         "author": "Valentino Pesce, Alfred Bühler",
         "compatible_version": ">=1.0.48",
-        "description": "Essential theme returns a new style to your kanboard.",
         "description": "A modern theme for Kanboard, returning a new style to your instance.",
         "download": "https://codeberg.org/api/packages/abu/generic/EssentialTheme/1.1.4/EssentialTheme-1.1.4.zip",
         "has_hooks": false,
