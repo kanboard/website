@@ -336,7 +336,7 @@
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/dmorlitz/kanboard-CardPushDate/master/README.md",
         "remote_install": true,
-        "title": "Card Push Date - and other actions",
+        "title": "Card Push Date and other actions",
         "version": "1.0"
     },
     "cas-auth": {
@@ -625,7 +625,7 @@
         "license": "Unlicense",
         "readme": "https://github.com/Chaosmeister/DefinitionOfDone/blob/main/README.md",
         "remote_install": true,
-        "title": "Definition of done",
+        "title": "Definition of Done",
         "version": "1.0.0"
     },
     "duedate": {
