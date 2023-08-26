@@ -1736,7 +1736,7 @@
     },
     "relationgraph": {
         "author": "BlueTeck, Xavier Vidal",
-        "compatible_version": "1.2.10",
+        "compatible_version": ">=1.2.10",
         "description": "Show relations between tasks using a graph library.",
         "download": "https://github.com/BlueTeck/kanboard_plugin_relationgraph/releases/download/0.3.1/Relationgraph-0.3.1.zip",
         "has_hooks": true,
