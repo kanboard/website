@@ -356,23 +356,6 @@
         "title": "CAS Authentication",
         "version": "1.0.0"
     },
-    "CCIT": {
-        "author": "Tomas Dittmann",
-        "compatible_version": ">=1.2.20",
-        "description": "Enable state-saving checkboxes in textareas.<br><span title=\"Warning\" style=\"color: #FF6500; font-size: 1.2em;\">&nbsp;&#x26A0;&nbsp;</span>Requires [MarkdownPlus](https://github.com/creecros/MarkdownPlus/releases)",
-        "download": "https://github.com/Chaosmeister/CCIT/releases/download/1.0.0/CCIT.zip",
-        "has_hooks": true,
-        "has_overrides": false,
-        "has_schema": false,
-        "homepage": "https://github.com/Chaosmeister/CCIT",
-        "is_type": "plugin",
-        "last_updated": "2021-11-23",
-        "license": "Unlicense",
-        "readme": "https://github.com/Chaosmeister/CCIT/blob/main/README.md",
-        "remote_install": true,
-        "title": "clickable checkboxes in textareass",
-        "version": "1.0.0"
-    },
     "chat": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.2.3",
@@ -627,6 +610,23 @@
         "remote_install": false,
         "title": "Database Storage",
         "version": "1.0.2"
+    },
+    "DefinitionOfDone": {
+        "author": "Tomas Dittmann",
+        "compatible_version": ">=1.2.32",
+        "description": "This plugin adds a simple checklist to the taskview, similar to subtasks. Each entry consists of a title, a description and a toggleable \"**done**\" field. \n &nbsp;⚠️&nbsp; Compatible with [MarkdownPlus](https://github.com/creecros/MarkdownPlus/releases)",
+        "download": "https://github.com/Chaosmeister/DefinitionOfDone/releases/download/1.0.0/DefinitionOfDone.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": true,
+        "homepage": "https://github.com/Chaosmeister/DefinitionOfDone",
+        "is_type": "plugin",
+        "last_updated": "2023-08-23",
+        "license": "Unlicense",
+        "readme": "https://github.com/Chaosmeister/DefinitionOfDone/blob/main/README.md",
+        "remote_install": true,
+        "title": "Definition of done",
+        "version": "1.0.0"
     },
     "duedate": {
         "author": "JustFxDev (Fx)",
