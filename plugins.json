@@ -2,7 +2,7 @@
     "AddressBook": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Use the dedicated Address Book to create and manage contacts or organisations in projects and tasks. Add custom properties to standardise a deeper relationship between tasks and people or places. Contacts can be linked exclusively to tasks in a project. Users can sort their contact properties to show the first 3 properties (e.g. name, number and email) for quick reference from the task summary and the project board view.",
+        "description": "Use the dedicated Address Book to create and manage contacts or organisations in projects and tasks. Add custom properties to standardise a deeper relationship between tasks and people or places. \n \n Contacts can be linked exclusively to tasks in a project. Users can sort their contact properties to show the first 3 properties (e.g. name, number and email) for quick reference from the task summary and the project board view.",
         "download": "https://github.com/aljawaid/AddressBook/releases/download/v1.3/AddressBook-1.3.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -70,7 +70,7 @@
     "ApplicationBranding": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "This plugin will rename your installation to 'My Workspace' and include matching device favicons, description and logo in the site metadata for a better user experience. A revamped login page, with a new Admin Dashboard showing global installation activity data with corrected page titles will give a more professional appeal across the site and when sharing links.",
+        "description": "This plugin will rename your installation to 'My Workspace' (or a custom name) and include matching device favicons, description and logo in the site metadata for a better user experience. \n \n Users will experience a revamped login page, security page and password reminder page, with a new Admin Dashboard showing global installation activity data with corrected page titles will give a more professional appeal across the site and when sharing links.",
         "download": "https://github.com/aljawaid/ApplicationBranding/releases/download/v4.0/ApplicationBranding-4.0.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -393,7 +393,7 @@
     "ColorManager": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "A new way to utilise colors to their full potential in Kanboard.  Choose from 3 color palettes or create your own. Across all palettes, choose from over 85 colors to match your workflow across the interface.",
+        "description": "Use a new way to utilise colors to their full potential in Kanboard.  Choose from 3 color palettes or create your own. Across all palettes, choose from over 85 colors to match your workflow across the entire interface.",
         "download": "https://github.com/aljawaid/ColorManager/releases/download/v3.7/ColorManager-3.7.zip",
         "has_hooks": false,
         "has_overrides": false,
@@ -495,7 +495,7 @@
     "CostControl": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Use the new Cost Control section to enable currencies and budgeting in Kanboard. Get live currency rates automatically for over 120 currencies allowing users to compare with manually saved rates. This plugin replaces and extends the features from the original Budget plugin enabling projects to have an associated cost element.",
+        "description": "Use the new Cost Control section to enable currencies and budgeting in Kanboard. Get live currency rates automatically for over 120 currencies allowing users to compare with manually saved rates. Using this plugin enables projects to have an associated cost element.  \n \n ⚠️&nbsp; This plugin _replaces and extends_ the features from the original [Budget](https://github.com/kanboard/plugin-budget) plugin.",
         "download": "https://github.com/aljawaid/CostControl/releases/download/v1.2/CostControl-1.2.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -869,7 +869,7 @@
     "Glancer": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Quickly jump to a project, task or comment through a bar at the bottom of the screen. Use the new copy to clipboard feature in different formats coupled with the new global shortcut icon to realise why Glancer was built for power users. Following the 'Getting Things Done' methodology, productive users can glance through their workflow easily.",
+        "description": "Following the 'Getting Things Done' methodology, productive users can glance through their workflow easily. \n \n Quickly jump to a project, task or comment through a bar at the bottom of the screen. Use the new copy to clipboard feature in different formats coupled with the new global shortcut icon to realise why Glancer was built for power users.",
         "download": "https://github.com/aljawaid/Glancer/releases/download/v2.7.1/Glancer-2.7.1.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1124,7 +1124,7 @@
     "KanboardCSS": {
         "author": "aljawaid",
         "compatible_version": ">=1.0.44",
-        "description": "This pure CSS theme replaces the look and feel of the Kanboard user interface. For modern browsers using gradients and shades of blue and red, KanboardCSS refreshes the the user experience. A new animated notification icon easily identifies new messages without affecting browser performance. All tables and forms are restyled to save screen space and improve productivity. This theme works perfectly with other plugins.",
+        "description": "This pure CSS theme replaces the look and feel of the Kanboard user interface. For modern browsers using gradients and shades of blue and red, KanboardCSS refreshes the the user experience. \n \n A new animated notification icon easily identifies new messages without affecting browser performance. All tables and forms are restyled to save screen space and improve productivity. This theme works perfectly with other plugins.",
         "download": "https://github.com/aljawaid/KanboardCSS/releases/download/v3.5/KanboardCSS-3.5.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1141,7 +1141,7 @@
     "KanboardEmailHistory": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "This plugin adds a new Automatic Action to provide any user or department to receive a final email report when a task is closed. Automatic emails are sent detailing the task description including the full comment history. Let this plugin create a digital file copy of your tasks using advanced options including emailing different recipients, adding comment logs and a fallback for a blank email subject line.",
+        "description": "This plugin adds a new Automatic Action to provide any user or department to receive a final email report when a task is closed. Automatic emails are sent detailing the task description including the full comment history. \n \n Let this plugin create a digital file copy of your tasks using advanced options including emailing different recipients, adding comment logs and a fallback for a blank email subject line. Digital file copies can also be useful in environments where auditing is required.",
         "download": "https://github.com/aljawaid/KanboardEmailHistory/releases/download/v2.7/KanboardEmailHistory-2.7.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -1226,7 +1226,7 @@
     "KanboardSupport": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Add a support section in the Kanboard Settings interface so that end users can easily gather any information required by their internal technical support departments and for troubleshooting purposes.",
+        "description": "Add a support section in the Kanboard Settings interface so that end users can easily gather any information required by their internal technical support departments and for troubleshooting purposes. \n \n Display system and user configurations to identify and troubleshoot problems across the application. Works smoothly with [PluginManager](https://github.com/aljawaid/PluginManager) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner).",
         "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.9/KanboardSupport-2.9.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1328,7 +1328,7 @@
     "MatomoConnector": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Connect your Kanboard instance to Matomo Analytics to track visitors to your site. Set the standard tracking code or use the optional JavaScript fallback code with further options for image tracking.",
+        "description": "Connect your Kanboard instance to [Matomo Analytics](https://matomo.org) to track visitors to your site. Set the standard tracking code or use the optional JavaScript fallback code with further options for image tracking.",
         "download": "https://github.com/aljawaid/MatomoConnector/releases/download/v2.5/MatomoConnector-2.5.zip",
         "has_hooks": true,
         "has_overrides": false,
@@ -1634,7 +1634,7 @@
     "PluginManager": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Replace the Installed Plugins section within the Kanboard interface with a new Plugin Manager and revamped Plugins Directory. Plugin Manager provides both users and developers with an improved comprehensive interface displaying a new section for troubleshooting plugins and a new plugin structure breakdown for each plugin.",
+        "description": "Use an improved user-friendly layout for handling plugins. All plugins are broken down into a new structure to help users troubleshoot plugin-related problems. New features include listing and installing Manual Plugins both locally and remotely. \n \n The new Plugin Problems section lists information on how to troubleshoot issues with plugins adding quick links to [KanboardSupport](https://github.com/aljawaid/KanboardSupport) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner) to extend troubleshooting the whole application. \n \n **Make PluginManager your must-have plugin to extend Kanboard more efficiently.**",
         "download": "https://github.com/aljawaid/PluginManager/releases/download/v4.5/PluginManager-4.5.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -2161,7 +2161,7 @@
     "TemplateManager": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "Predefined Contents is replaced by the Template Manager. Improve consistency of your project data and save time for repetitive comments using saved templates. Project Editors can create, update and delete templates for each project. Templates can be created for task descriptions (core feature), comments (new feature), global templates (new feature) and email subjects (core feature) all in one place including adding notes and instructions separate to the template content to help keep content neat. The global templates feature shows for every project and can be used as a way to guide and advise users within tasks.  Templates can also be useful in environments where auditing is required.",
+        "description": "Predefined Contents is replaced to improve consistency of your project data and save time for repetitive comments using saved templates. \n \n Templates can be created for task descriptions (core feature), comments (new feature), global templates (new feature) and email subjects (core feature) all in one place including adding notes and instructions separate to the template content to help keep content neat. \n \n The global templates feature shows for every project and can be used as a way to guide and advise users within tasks.  Project Editors can create, update and delete templates for each project. Templates can also be useful in environments where policy compliance or auditing is required.",
         "download": "https://github.com/aljawaid/TemplateManager/releases/download/v2.8/TemplateManager-2.8.zip",
         "has_hooks": true,
         "has_overrides": true,
@@ -2297,7 +2297,7 @@
     "URLCleaner": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "This simple tool extends the rewriting of browser URLs for your Kanboard application. Sanitize those long URLs automatically creating neat pretty easy to remember bookmarks. This plugin extends URLs from the core and from plugins. URL Rewriting must be correctly configured for this plugin to function properly.",
+        "description": "This simple tool extends the rewriting of browser URLs for your Kanboard application. Sanitize those long URLs automatically creating neat pretty easy to remember bookmarks. This plugin extends URLs from the core and from plugins. Works with [Bigboard](https://github.com/TimoStahl/kanboard_plugin_bigboard), [Wiki](https://github.com/funktechno/kanboard-plugin-wiki), [Calendar](https://github.com/kanboard/plugin-calendar), [MetaMagik](https://github.com/creecros/MetaMagik) plugins. \n \n ⚠️&nbsp; URL Rewriting must be [correctly configured](https://docs.kanboard.org/v1/admin/url-rewriting/) for this plugin to function properly.",
         "download": "https://github.com/aljawaid/URLCleaner/releases/download/v1.6/URLCleaner-1.6.zip",
         "has_hooks": false,
         "has_overrides": false,
