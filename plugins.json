@@ -1227,18 +1227,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Add a support section in the Kanboard Settings interface so that end users can easily gather any information required by their internal technical support departments and for troubleshooting purposes. \n \n Display system and user configurations to identify and troubleshoot problems across the application. Works smoothly with [PluginManager](https://github.com/aljawaid/PluginManager) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner).",
-        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.9/KanboardSupport-2.9.zip",
+        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.10/KanboardSupport-2.10.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardSupport",
         "is_type": "plugin",
-        "last_updated": "2023-08-19",
+        "last_updated": "2023-08-27",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/KanboardSupport/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardSupport",
-        "version": "2.9.0"
+        "version": "2.10.0"
     },
     "kangaroojump": {
         "author": "Valentino Pesce",
