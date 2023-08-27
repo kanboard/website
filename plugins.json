@@ -580,7 +580,7 @@
     "DashboardTaskSorting": {
         "author": "Tagirijus",
         "compatible_version": ">=1.2.26",
-        "description": "DashboardTaskSorting changes the default sorting logic for tasks on the main dashboard for both the overview and the tasks site to: \n \n 1. Due Date ASC \n \n 2. Priority DESC",
+        "description": "DashboardTaskSorting changes the default sorting logic for tasks on the main dashboard for both the overview and the tasks site to: \n 1. Due Date ASC \n 2. Priority DESC",
         "download": "https://github.com/Tagirijus/DashboardTaskSorting/archive/refs/tags/v1.4.0.zip",
         "has_hooks": false,
         "has_overrides": true,
