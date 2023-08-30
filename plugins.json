@@ -747,6 +747,23 @@
         "title": "extendedMail",
         "version": "0.8.0"
     },
+    "FontSwitcher": {
+        "author": "aljawaid",
+        "compatible_version": ">=1.2.20",
+        "description": "Choose a new font style from a variety of self-hosted fonts replacing the default 'Helvetica Neue' (Mac), and 'Arial' (Windows) fonts to a different typeface giving your application a fresh new look. \n \n Improve readability and reduce eye strain by choosing from different styles of sans-serif fonts or select an article-type serif type or even a code-type monospace style. Font styles are applied instantly across the site for all users.",
+        "download": "https://github.com/aljawaid/FontSwitcher/releases/download/v1.0/FontSwitcher-1.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/aljawaid/FontSwitcher",
+        "is_type": "theme",
+        "last_updated": "2023-08-30",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/FontSwitcher/blob/master/README.md",
+        "remote_install": true,
+        "title": "FontSwitcher",
+        "version": "1.0.0"
+    },
     "gantt": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.2.15",
