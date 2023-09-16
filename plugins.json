@@ -1244,18 +1244,18 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "This plugin shows a dedicated section to display the environment and configuration settings allowing users to quickly troubleshoot issues without having to open core files. \n \n Display or share configurations to identify problems across the application in a user-friendly format. Helpful tips, webhook documentation and access to view the default and current config files from within the interface are just some of the features included in this powerful plugin. \n \n Works smoothly with [PluginManager](https://github.com/aljawaid/PluginManager) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner).",
-        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.10/KanboardSupport-2.10.zip",
+        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v3.0/KanboardSupport-3.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardSupport",
         "is_type": "plugin",
-        "last_updated": "2023-08-27",
+        "last_updated": "2023-09-16",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/KanboardSupport/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardSupport",
-        "version": "2.10.0"
+        "version": "3.0.0"
     },
     "kangaroojump": {
         "author": "Valentino Pesce",
