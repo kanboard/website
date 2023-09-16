@@ -1243,7 +1243,7 @@
     "KanboardSupport": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
-        "description": "This plugin shows a configuration section to display all the default and custom values so that users can check and troubleshoot issues without having to open core files. \n \n Display or share configurations to identify and troubleshoot problems across the application in a user-friendly format. Works smoothly with [PluginManager](https://github.com/aljawaid/PluginManager) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner).",
+        "description": "This plugin shows a dedicated section to display the environment and configuration settings allowing users to quickly troubleshoot issues without having to open core files. \n \n Display or share configurations to identify problems across the application in a user-friendly format. Helpful tips, webhook documentation and access to view the default and current config files from within the interface are just some of the features included in this powerful plugin. \n \n Works smoothly with [PluginManager](https://github.com/aljawaid/PluginManager) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner).",
         "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v2.10/KanboardSupport-2.10.zip",
         "has_hooks": true,
         "has_overrides": false,
