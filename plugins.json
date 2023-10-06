@@ -156,18 +156,18 @@
         "author": "Craig Crosby",
         "compatible_version": ">=1.0.46",
         "description": "Add the automatic actions to send a task by email to the creator or assignee of the task. Also included are actions to send a notification via email when a task or subtask due date is impending within a duration or overdue.",
-        "download": "https://github.com/creecros/SendEmailCreator/releases/download/1.2.5/SendEmailCreator-1.2.5.zip",
+        "download": "https://github.com/creecros/SendEmailCreator/releases/download/1.2.5/SendEmailCreator-1.2.6.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/creecros/SendEmailCreator",
         "is_type": "action",
-        "last_updated": "2023-02-10",
+        "last_updated": "2023-10-26",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/creecros/SendEmailCreator/master/README.md",
         "remote_install": true,
         "title": "Auto Email Extended Actions",
-        "version": "1.2.5"
+        "version": "1.2.6"
     },
     "AutomaticActionUX": {
         "author": "aljawaid",
