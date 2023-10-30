@@ -2162,18 +2162,18 @@
         "author": "Manu Varkey",
         "compatible_version": ">=1.0.37",
         "description": "Receive individual or project notifications on [Telegram](https://telegram.org).",
-        "download": "https://github.com/manuvarkey/kanboard-plugin-telegram/releases/download/v1.3.3/Telegram.zip",
+        "download": "https://github.com/manuvarkey/kanboard-plugin-telegram/releases/download/v1.4.0/Telegram.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/manuvarkey/kanboard-plugin-telegram",
         "is_type": "connector",
-        "last_updated": "2022-06-13",
+        "last_updated": "2023-10-30",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/manuvarkey/kanboard-plugin-telegram/master/README.md",
         "remote_install": true,
         "title": "Telegram",
-        "version": "1.3.3"
+        "version": "1.4.0"
     },
     "TemplateManager": {
         "author": "aljawaid",
