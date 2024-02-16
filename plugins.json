@@ -2413,6 +2413,23 @@
         "title": "Wiki",
         "version": "0.3.2"
     },
+    "WysiwygMDEditor": {
+        "author": "Im[F(x)]",
+        "compatible_version": ">=1.2.33",
+        "description": "Integrates external MD editors into Kanboard in order to conveniently edit/preview (and eventually render) the markdown textareas in the Kanboard interface. Each editor may allow for different customizations of functionality, MD features, and UI themes.",
+        "download": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor/releases/download/v0.5.2/WysiwygMDEditor-0.5.2.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor",
+        "is_type": "plugin",
+        "last_updated": "2024-02-15",
+        "license": "MIT",
+        "readme": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor/blob/master/README.md",
+        "remote_install": true,
+        "title": "Wysiwyg MD Editor",
+        "version": "0.5.2"
+    },
     "zulip": {
         "author": "Peter Fejer",
         "compatible_version": ">=1.2.5",
