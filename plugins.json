@@ -1720,18 +1720,18 @@
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
         "description": "Make codeblocks resizable, scrollable and also initially limit their height to 200px.",
-        "download": "https://github.com/Chaosmeister/RCB/releases/download/1.0.0/RCB.zip",
+        "download": "https://github.com/Chaosmeister/RCB/releases/download/1.1.0/RCB.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/Chaosmeister/RCB",
         "is_type": "plugin",
-        "last_updated": "2021-12-06",
+        "last_updated": "2024-02-20",
         "license": "Unlicense",
         "readme": "https://github.com/Chaosmeister/RCB/blob/main/README.md",
         "remote_install": true,
         "title": "Resizable codeblocks",
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "registration": {
         "author": "Frédéric Guillot",
