@@ -1512,6 +1512,23 @@
         "title": "Nebula",
         "version": "1.3.6"
     },
+    "Notes": {
+        "author": "Jonathan Ling",
+        "compatible_version": ">=1.2.35",
+        "description": "A simple notes plugin for taking notes on your dashboard in markdown.",
+        "download": "https://gitlab.com/colonelpopcorn/kanboard-notes-plugin/-/package_files/117073213/download",
+        "has_hooks": false,
+        "has_overrides": false,
+        "has_schema": true,
+        "homepage": "https://gitlab.com/colonelpopcorn/kanboard-notes-plugin",
+        "is_type": "plugin",
+        "last_updated": "2024-03-15",
+        "license": "MIT",
+        "readme": "https://gitlab.com/colonelpopcorn/kanboard-notes-plugin/-/raw/main/README.md",
+        "remote_install": true,
+        "title": "Notes",
+        "version": "1.0.0"
+    },
     "oauth2": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.37",
