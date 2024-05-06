@@ -1516,7 +1516,7 @@
         "author": "Jonathan Ling",
         "compatible_version": ">=1.2.35",
         "description": "A simple notes plugin for taking notes on your dashboard in markdown.",
-        "download": "https://gitlab.com/colonelpopcorn/kanboard-notes-plugin/-/package_files/117073213/download",
+        "download": "https://gitlab.com/colonelpopcorn/kanboard-notes-plugin/-/package_files/126475864/download",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": true,
@@ -1527,7 +1527,7 @@
         "readme": "https://gitlab.com/colonelpopcorn/kanboard-notes-plugin/-/raw/main/README.md",
         "remote_install": true,
         "title": "Notes",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "oauth2": {
         "author": "Frédéric Guillot",
