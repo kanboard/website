@@ -1683,8 +1683,8 @@
         "version": "4.7.0"
     },
     "ProjectReports": {
-        "author": "noclickhouse",
-        "compatible_version": ">=1.2.20",
+        "author": "AcidHead",
+        "compatible_version": ">=1.0.35",
         "description": "Generation a reports for the selected project",
         "download": "https://github.com/noclickhouse/ProjectReports/archive/refs/tags/kanboard.zip",
         "has_hooks": false,
