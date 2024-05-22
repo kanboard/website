@@ -1682,6 +1682,23 @@
         "title": "PluginManager",
         "version": "4.7.0"
     },
+    "ProjectReports": {
+        "author": "noclickhouse",
+        "compatible_version": ">=1.2.20",
+        "description": "Generation a reports for the selected project",
+        "download": "https://github.com/noclickhouse/ProjectReports/archive/refs/tags/kanboard.zip",
+        "has_hooks": false,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/noclickhouse/ProjectReports",
+        "is_type": "plugin",
+        "last_updated": "2024-05-21",
+        "license": "MIT",
+        "readme": "https://github.com/noclickhouse/ProjectReports/blob/main/README.md",
+        "remote_install": true,
+        "title": "ProjectReports",
+        "version": "1.0.0"
+    },
     "pushdate": {
         "author": "David Morlitz",
         "compatible_version": ">=1.2.5",
