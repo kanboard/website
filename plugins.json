@@ -1683,10 +1683,10 @@
         "version": "4.7.0"
     },
     "ProjectReports": {
-        "author": "noclickhouse",
-        "compatible_version": ">=1.2.20",
+        "author": "AHead",
+        "compatible_version": ">=1.0.35",
         "description": "Generation a reports for the selected project",
-        "download": "https://github.com/noclickhouse/ProjectReports/archive/refs/tags/kanboard.zip",
+        "download": "https://github.com/noclickhouse/ProjectReports/releases/download/ProjectReports/ProjectReports.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
