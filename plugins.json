@@ -1652,7 +1652,7 @@
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.20",
         "description": "Allow to paste images directly into textareas at the caret position. \n \n ⚠️&nbsp; Requires [MarkdownPlus](https://github.com/creecros/MarkdownPlus/releases).",
-        "download": "https://github.com/Chaosmeister/PITM/releases/download/1.0.3/PITM.zip",
+        "download": "https://github.com/Chaosmeister/PITM/releases/download/1.1.0/PITM.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
@@ -1663,7 +1663,7 @@
         "readme": "https://github.com/Chaosmeister/PITM/blob/main/README.md",
         "remote_install": true,
         "title": "Paste image to markdown",
-        "version": "1.0.3"
+        "version": "1.1.0"
     },
     "PluginManager": {
         "author": "aljawaid",
