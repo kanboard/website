@@ -1635,18 +1635,18 @@
         "author": "Hamid Kord",
         "compatible_version": ">=1.2.11",
         "description": "Make Kanboard compatible with the Iranian Calendar (Persian or Jalali calendar) and support RTL (right to left) direction.",
-        "download": "https://github.com/mer30hamid/PersianBoard/releases/download/v1.0.0/PersianBoard-1.0.0.zip",
+        "download": "https://github.com/mer30hamid/PersianBoard/releases/download/v1.0.1/PersianBoard-1.0.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/mer30hamid/PersianBoard",
         "is_type": "plugin",
-        "last_updated": "2021-09-11",
+        "last_updated": "2024-06-25",
         "license": "MIT",
         "readme": "https://github.com/mer30hamid/PersianBoard/blob/master/README.md",
         "remote_install": true,
         "title": "Persian Board",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "PITM": {
         "author": "Tomas Dittmann",
