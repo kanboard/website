@@ -1295,18 +1295,18 @@
         "author": "Craig Crosby & Alfred Bühler",
         "compatible_version": ">=1.2.19",
         "description": "Connect Kanboard to an IMAP server to recieve emails and automatically convert emails to tasks or comments. \n \n ⚠️&nbsp; This plugin may require extra configuration to your application.",
-        "download": "https://github.com/creecros/Mailmagik/releases/download/1.2.3/Mailmagik-1.2.3.zip",
+        "download": "https://github.com/creecros/Mailmagik/releases/download/1.3.0/Mailmagik-1.3.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/creecros/Mailmagik",
         "is_type": "connector",
-        "last_updated": "2023-07-18",
+        "last_updated": "2024-07-03",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/creecros/Mailmagik/main/README.md",
         "remote_install": true,
         "title": "Mailmagik",
-        "version": "1.2.3"
+        "version": "1.3.0"
     },
     "MarkdownPlus": {
         "author": "Craig Crosby & Tomas Dittmann",
