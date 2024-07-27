@@ -1,0 +1,15 @@
+{
+  "name": "kanboard-website",
+  "version": "1.0.0",
+  "description": "Kanboard's Official Website Repository",
+  "main": "generate-plugins-html.js",
+  "scripts": {
+    "build": "node generate-plugins-html.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^13.0.2",
+    "mustache": "^4.2.0"
+  }
+}
