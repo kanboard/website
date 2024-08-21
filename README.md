@@ -1,51 +1,43 @@
-Kanboard's Official Website Repository
-======================================
+# Kanboard's Official Website Repository
 
 This website is a simple HTML static webpage to serve [Kanboard](https://kanboard.org/ "Visit website").
 
 ### How to add a new plugin to the list?
 
 1. Update the [**`plugins.json`**](https://github.com/kanboard/website/blob/main/plugins.json) file
-    - **This file is now sorted alphabetically**
-      - Your plugin submission should be positioned in the file in alphabetical order **by plugin name**
-    - This file is used in the Kanboard interface Plugins Directory
-    - Template:
-    ```
-    "MyPlugin": {
-        "author": "Plugin Developer Name",
-        "compatible_version": ">=1.2.20",
-        "description": "My plugin description",
-        "download": "https://github.com/PluginDeveloperName/MyPlugin/releases/download/v1.0/MyPlugin-1.0.zip",
-        "has_hooks": false,
-        "has_overrides": false,
-        "has_schema": false,
-        "homepage": "https://github.com/PluginDeveloperName/MyPlugin",
-        "is_type": "plugin",
-        "last_updated": "2022-11-10",
-        "license": "MIT",
-        "readme": "https://github.com/PluginDeveloperName/MyPlugin/blob/master/README.md",
-        "remote_install": true,
-        "title": "MyPlugin",
-        "version": "1.0.0"
-    }
-    ```
-2. Update the [**`plugins.html`**](https://github.com/kanboard/website/blob/main/plugins.html) file
-    - This file is used in the Kanboard website [Plugins Directory](https://kanboard.org/plugins.html "View Plugins Directory")
-    - Template:
-    ```
-    <dt><a href="https://github.com/pluginURL">Plugin Name</a></dt>
-    <dd>
-        <p>Enter your plugin description here</p>
-        <p><em>By Your Name</em></p>
-    </dd>
-    ```
-3. Send a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork "You must fork the main repository before you can create a Pull Request") of your changes
-    - Once merged, this will automatically update the above file(s) with your changes
+   - **This file is now sorted alphabetically**
+     - Your plugin submission should be positioned in the file in alphabetical order **by plugin name**
+   - This file is used in the Kanboard interface Plugins Directory
+   - Template:
+   ```
+   "MyPlugin": {
+       "author": "Plugin Developer Name",
+       "compatible_version": ">=1.2.20",
+       "description": "My plugin description",
+       "download": "https://github.com/PluginDeveloperName/MyPlugin/releases/download/v1.0/MyPlugin-1.0.zip",
+       "has_hooks": false,
+       "has_overrides": false,
+       "has_schema": false,
+       "homepage": "https://github.com/PluginDeveloperName/MyPlugin",
+       "is_type": "plugin",
+       "last_updated": "2022-11-10",
+       "license": "MIT",
+       "readme": "https://github.com/PluginDeveloperName/MyPlugin/blob/master/README.md",
+       "remote_install": true,
+       "title": "MyPlugin",
+       "version": "1.0.0"
+   }
 
-------
+   ```
+2. Send a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork "You must fork the main repository before you can create a Pull Request") of your changes
+   - Once merged, this will automatically update the above file(s) with your changes
+
+---
+
 ### JSON Properties in `plugins.json`
 
 **Mandatory**
+
 - `compatible_version`
   - This is the latest stable version tested with your plugin
 - `download`
@@ -59,6 +51,7 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
 - The **last plugin** in the list should **NOT** have a comma at the end of the section (after the curly bracket)
 
 **Optional**
+
 - `has_schema`
   - `true` or `false`
   - Specify whether your plugin has any database changes
@@ -87,7 +80,8 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
   - Specify which date your plugin was last updated for general release
   - _ISO-8601 date type_
 
-------
+---
+
 ### Folder Structure
 
 ```
