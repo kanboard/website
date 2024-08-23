@@ -2040,21 +2040,21 @@
         "version": "1.0.0"
     },
     "TableView": {
-        "author": "greyaz",
+        "author": "Greyaz",
         "compatible_version": ">=1.2.8",
         "description": "A Kanboard plugin that provides a table view of tasks in your project.",
-        "download": "https://github.com/greyaz/TableView/releases/download/0.1.0/TableView.zip",
+        "download": "https://github.com/greyaz/TableView/releases/download/0.2.0/TableView.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/TableView",
         "is_type": "plugin",
-        "last_updated": "2022-11-16",
+        "last_updated": "2024-08-23",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/TableView/main/README.md",
         "remote_install": true,
         "title": "TableView",
-        "version": "0.1.0"
+        "version": "0.2.0"
     },
     "Taglist": {
         "author": "BlueTeck",
@@ -2363,21 +2363,21 @@
         "version": "2.0.0"
     },
     "WechatWorkNotifier": {
-        "author": "greyaz",
+        "author": "Greyaz",
         "compatible_version": ">=1.2.8",
         "description": "Receive notifications on [Wechat Work (企业微信)](https://work.weixin.qq.com) aka Wecom.",
-        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.4.1/WechatWorkNotifier.zip",
+        "download": "https://github.com/greyaz/WechatWorkNotifier/releases/download/0.4.2/WechatWorkNotifier.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/greyaz/WechatWorkNotifier",
         "is_type": "connector",
-        "last_updated": "2023-02-13",
+        "last_updated": "2024-08-23",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/greyaz/WechatWorkNotifier/main/README.md",
         "remote_install": true,
         "title": "Wechat Work Notifier",
-        "version": "0.4.1"
+        "version": "0.4.2"
     },
     "WeeklyRecurringTasks": {
         "author": "Sebastian Pape, Sebastien Diot",
