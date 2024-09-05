@@ -29,7 +29,7 @@ const isAlphabetical = (array) => {
 const isValidPluginStructure = (plugin) => {
   const fields = {
     author: { type: "string" },
-    compatible_version: { type: "string", regex: /^(>=|<=|>|<)?\d+(\.\d+)*$/ },
+    compatible_version: { type: "string", regex: /^(>=|<=|>|<)\d+\.\d+\.\d+$/ },
     description: { type: "string" },
     download: { type: "string", regex: /^https?:\/\/.+$/ },
     has_hooks: { type: "boolean" },
@@ -63,7 +63,7 @@ const isValidPluginStructure = (plugin) => {
     if (regex && !regex.test(plugin[field])) {
       return {
         status: false,
-        message: `Field "${field}" does not match the required pattern.`,
+        message: `Field "${field}" with value "${plugin[field]}" does not match the required pattern ${regex}`,
       };
     }
 
