@@ -5,10 +5,12 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
 ### How to add a new plugin to the list?
 
 1. Update the [**`plugins.json`**](https://github.com/kanboard/website/blob/main/plugins.json) file
+
    - **This file is now sorted alphabetically**
      - Your plugin submission should be positioned in the file in alphabetical order **by plugin name**
    - This file is used in the Kanboard interface Plugins Directory
    - Template:
+
    ```
    "MyPlugin": {
        "author": "Plugin Developer Name",
@@ -29,6 +31,7 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
    }
 
    ```
+
 2. Send a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork "You must fork the main repository before you can create a Pull Request") of your changes
    - Once merged, this will automatically update the above file(s) with your changes
 
@@ -36,37 +39,33 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
 
 ### JSON Properties in `plugins.json`
 
-**Mandatory**
+Here’s a completed list with all fields:
 
+- `author`
+  - The name of the plugin developer or organization that created the plugin.
 - `compatible_version`
-  - This is the latest stable version tested with your plugin
+  - This indicates the Kanboard version with which your plugin is tested and compatible. It typically follows the format `>=1.2.20` for compatibility.
 - `download`
-  - **Do not use the GitHub archive URL** for the download link
+  - **Do not use the GitHub archive URL** for the download link:
     - Once unzipped, the directory structure is not the same as the one mentioned above. GitHub usually appends the branch name to the folder. **As a result, Kanboard won't be able to load the plugin**.
   - Make your own archive or set the `remote_install` field to `false`.
-  - If you release a new version of your plugin, always cross-check the version numbers of your archive filename and the url
+  - If you release a new version of your plugin, always cross-check the version numbers of your archive filename and the URL.
 - `remote_install`
-  - Allows people to install the plugin from the Kanboard user interface
-- The **last property** should **NOT** have a comma at the end of the line (before the curly bracket)
-- The **last plugin** in the list should **NOT** have a comma at the end of the section (after the curly bracket)
-
-**Optional**
-
+  - Allows people to install the plugin from the Kanboard user interface.
+- The **last property** should **NOT** have a comma at the end of the line (before the closing curly bracket).
+- The **last plugin** in the list should **NOT** have a comma at the end of the section (after the closing curly bracket).
 - `has_schema`
   - `true` or `false`
-  - Specify whether your plugin has any database changes
-  - _Boolean type_
+  - Specify whether your plugin includes any database changes. This field should be of _Boolean type_.
 - `has_overrides`
   - `true` or `false`
-  - Specify whether your plugin has any template overrides
-  - _Boolean type_
+  - Specify whether your plugin includes any template overrides. This field should be of _Boolean type_.
 - `has_hooks`
   - `true` or `false`
-  - Specify whether your plugin has used any hooks
-  - _Boolean type_
+  - Specify whether your plugin uses any hooks. This field should be of _Boolean type_.
 - `is_type`
   - `plugin` or `action` or `theme` or `multi` or `connector`
-  - Specify whether your plugin is:
+  - Specify the type of your plugin:
     | Value | Type | Description |
     | ----- | ---- | ----------- |
     | `plugin` | Normal | _A plugin with no automatic actions_ |
@@ -74,11 +73,10 @@ This website is a simple HTML static webpage to serve [Kanboard](https://kanboar
     | `theme` | Normal | _A plugin for theming and styling of the interface_ |
     | `connector` | Normal | _A plugin connecting to third party services - may contain actions_ |
     | `multi` | Normal | _A plugin containing all or any combination of the above functions_ |
-  - _String type_
+  - This field should be of _String type_.
 - `last_updated`
-  - `2022-11-15`
-  - Specify which date your plugin was last updated for general release
-  - _ISO-8601 date type_
+  - Format: `YYYY-MM-DD` (e.g., `2022-11-15`)
+  - Specify the date when your plugin was last updated for general release. This field should be of _ISO-8601 date type_.
 
 ---
 
