@@ -2,8 +2,11 @@ const fs = require("fs");
 const Mustache = require("mustache");
 const marked = require("marked");
 
+const inputFile = "plugins.json";
+const outputFile = "plugins.html";
+
 // Read plugins.json
-const pluginsData = JSON.parse(fs.readFileSync("plugins.json", "utf-8"));
+const pluginsData = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
 
 // HTML template
 const template = `
@@ -97,7 +100,7 @@ for (const pluginKey in pluginsData) {
 }
 
 // Read the existing plugins.html file
-let pluginsHtml = fs.readFileSync("plugins.html", "utf-8");
+let pluginsHtml = fs.readFileSync(outputFile, "utf-8");
 
 // Replace the content between <!-- PLUGINS_LIST:START --> and <!-- PLUGINS_LIST:END -->
 const startTag = "<!-- PLUGINS_LIST:START -->";

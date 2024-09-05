@@ -2,9 +2,10 @@
   "name": "kanboard-website",
   "version": "1.0.0",
   "description": "Kanboard's Official Website Repository",
-  "main": "generate-plugins-html.js",
+  "main": "ci/generate-plugins-html.js",
   "scripts": {
-    "build": "node generate-plugins-html.js"
+    "build": "node ci/generate-plugins-html.js",
+    "validate-plugins": "node ci/validate-plugins.js"
   },
   "author": "",
   "license": "ISC",
