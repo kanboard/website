@@ -900,6 +900,23 @@
         "title": "Glancer",
         "version": "2.7.1"
     },
+    "global-search": {
+        "author": "Valentino Pesce",
+        "compatible_version": ">=1.2.32",
+        "description": "The Global Search Plugin adds a powerful global search functionality to Kanboard, allowing users to search for tasks, comments, and projects across all available projects they have access to. The search results are filtered by permissions, ensuring that users only see the content they are authorized to view. The search results can also be filtered to display only tasks, comments, or projects.",
+        "download": "https://github.com/kenlog/global-search-kanboard/releases/download/v1.0.0/Globalsearch.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/kenlog/global-search-kanboard",
+        "is_type": "plugin",
+        "last_updated": "2024-09-21",
+        "license": "MIT",
+        "readme": "https://raw.githubusercontent.com/kenlog/global-search-kanboard/refs/heads/master/README.md",
+        "remote_install": true,
+        "title": "Global Search",
+        "version": "1.0.0"
+    },
     "gogs-webhook": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.37",
@@ -967,23 +984,6 @@
         "remote_install": true,
         "title": "Greenwing",
         "version": "1.3.2"
-    },
-    "global-search": {
-        "author": "Valentino Pesce",
-        "compatible_version": ">=1.2.32",
-        "description": "The Global Search Plugin adds a powerful global search functionality to Kanboard, allowing users to search for tasks, comments, and projects across all available projects they have access to. The search results are filtered by permissions, ensuring that users only see the content they are authorized to view. The search results can also be filtered to display only tasks, comments, or projects.",
-        "download": "https://github.com/kenlog/global-search-kanboard/releases/download/v1.0.0/Globalsearch.zip",
-        "has_hooks": true,
-        "has_overrides": false,
-        "has_schema": false,
-        "homepage": "https://github.com/kenlog/global-search-kanboard",
-        "is_type": "plugin",
-        "last_updated": "2024-09-21",
-        "license": "MIT",
-        "readme": "https://raw.githubusercontent.com/kenlog/global-search-kanboard/refs/heads/master/README.md",
-        "remote_install": true,
-        "title": "Global Search",
-        "version": "1.0.0"
     },
     "group_assign": {
         "author": "Craig Crosby",
