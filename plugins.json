@@ -2349,18 +2349,18 @@
         "author": "Valentino Pesce",
         "compatible_version": ">=1.0.42",
         "description": "The Update Notifier is a utility that scans installed plugin and displays a list of updates.",
-        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.4.3/UpdateNotifier-1.4.3.zip",
+        "download": "https://github.com/kenlog/UpdateNotifier/releases/download/v1.7.0/UpdateNotifier.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/kenlog/UpdateNotifier",
         "is_type": "plugin",
-        "last_updated": "2019-07-01",
+        "last_updated": "2024-10-06",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/kenlog/UpdateNotifier/master/README.md",
         "remote_install": true,
         "title": "UpdateNotifier",
-        "version": "1.4.3"
+        "version": "1.7.0"
     },
     "URLCleaner": {
         "author": "aljawaid",
