@@ -1329,7 +1329,7 @@
         "author": "Craig Crosby & Tomas Dittmann",
         "compatible_version": ">=1.0.46",
         "description": "Improved Markdown, with check boxes, emoji shortcode, inline html, etc.",
-        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.1.4/MarkdownPlus-1.1.4.zip",
+        "download": "https://github.com/creecros/MarkdownPlus/releases/download/1.1.5/MarkdownPlus-1.1.5.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
@@ -1340,7 +1340,7 @@
         "readme": "https://raw.githubusercontent.com/creecros/MarkdownPlus/master/README.md",
         "remote_install": true,
         "title": "MarkdownPlus",
-        "version": "1.1.4"
+        "version": "1.1.5"
     },
     "mathjaxForKanboard": {
         "author": "Michael Zauner",
