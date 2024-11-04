@@ -1512,6 +1512,23 @@
         "title": "Move cards to specific columns when due date passed",
         "version": "1.0.0"
     },
+    "movetotop": {
+        "author": "Timotheus Pokorra",
+        "compatible_version": ">=1.2.0",
+        "description": "Adds an Automatic Action which allows you to move the task to the top of the column.",
+        "download": "https://codeberg.org/solidcharity/kanboard-TaskMoveToTopAction/archive/v1.0.0.zip",
+        "has_hooks": false,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://codeberg.org/solidcharity/kanboard-TaskMoveToTopAction",
+        "is_type": "action",
+        "last_updated": "2024-11-04",
+        "license": "MIT",
+        "readme": "https://codeberg.org/solidcharity/kanboard-TaskMoveToTopAction/src/branch/master/README.md",
+        "remote_install": true,
+        "title": "Action to move task to the top of the column.",
+        "version": "1.0.0"
+    },
     "nebula": {
         "author": "Valentino Pesce",
         "compatible_version": ">=1.0.48",
