@@ -298,12 +298,12 @@
         "has_schema": true,
         "homepage": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/",
         "is_type": "plugin",
-        "last_updated": "${DATE}",
+        "last_updated": "2024-11-14",
         "license": "MIT",
         "readme": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/blob/master/README.md",
         "remote_install": true,
         "title": "Broadcast",
-        "version": "${VERSION}"
+        "version": "1.1.0"
     },        
     "Budget": {
         "author": "Frédéric Guillot",
