@@ -304,7 +304,7 @@
         "remote_install": true,
         "title": "Broadcast",
         "version": "${VERSION}"
-    },
+    },        
     "Budget": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.37",
