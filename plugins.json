@@ -1396,7 +1396,7 @@
     "matrix": {
         "author": "Chris Metz",
         "compatible_version": ">=1.0.37",
-        "description": "Send Kanboard notifications to [Matrix Synapse](https://matrix.org/docs/projects/server/synapse) (federated messaging platform).",
+        "description": "Send Kanboard notifications to [Matrix Synapse](https://github.com/element-hq/synapse/blob/develop/README.rst) (federated messaging platform, now actively maintained at element-hq/synapse).",
         "download": "https://github.com/chriswep/kanboard-plugin-matrix/releases/download/v1.1.1/Matrix-1.1.1.zip",
         "has_hooks": true,
         "has_overrides": false,
