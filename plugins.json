@@ -402,7 +402,7 @@
         "is_type": "action",
         "last_updated": "2022-07-24",
         "license": "MIT",
-        "readme": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn/README.md",
+        "readme": "https://github.com/manne65-hd/kanboard-ClearDueDateTaskNotMovedColumn/blob/main/README.md",
         "remote_install": false,
         "title": "ClearDueDateTaskNotMovedColumn",
         "version": "0.8.0"
@@ -2204,7 +2204,7 @@
         "is_type": "plugin",
         "last_updated": "2019-10-29",
         "license": "MIT",
-        "readme": "https://github.com/ipunkt/KanboardTaskButtonsReposition/blob/1.0.0/README.md",
+        "readme": "https://github.com/ipunkt/KanboardTaskButtonsReposition/blob/master/README.md",
         "remote_install": true,
         "title": "Task Buttons Reposition",
         "version": "1.0.0"
