@@ -287,7 +287,7 @@
         "remote_install": true,
         "title": "Boardcustomizer",
         "version": "1.1.0"
-    },        
+    },
     "Broadcast": {
         "author": "Frédéric Guillot, Balázs Úr, Rainer Bielefeld",
         "compatible_version": ">=1.2.3",
@@ -304,7 +304,7 @@
         "remote_install": true,
         "title": "Broadcast",
         "version": "1.1.1"
-    },        
+    },
     "Budget": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.37",
