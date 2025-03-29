@@ -2383,18 +2383,18 @@
         "author": "Im[F(x)]",
         "compatible_version": ">=1.2.33",
         "description": "The plugin allows to keep TODO-style notes on every KB project and as standalone lists. The notes that may appear unsuitable for creating board tasks are totally fine for a custom TODO list. They are easy and fast to create, change and rearrange, with convenient visual aids and multiple useful features.",
-        "download": "https://github.com/imfx77/kanboard-plugin-TodoNotes/releases/download/v1.0.0/TodoNotes-1.0.0.zip",
+        "download": "https://github.com/imfx77/kanboard-plugin-TodoNotes/releases/download/v1.0.1/TodoNotes-1.0.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
         "homepage": "https://github.com/imfx77/kanboard-plugin-TodoNotes",
         "is_type": "plugin",
-        "last_updated": "2024-10-21",
+        "last_updated": "2025-03-29",
         "license": "MIT",
         "readme": "https://github.com/imfx77/kanboard-plugin-TodoNotes/blob/master/README.md",
         "remote_install": true,
         "title": "TodoNotes",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "updatenotifier": {
         "author": "Valentino Pesce",
@@ -2536,18 +2536,18 @@
         "author": "Im[F(x)]",
         "compatible_version": ">=1.2.33",
         "description": "Integrates external MD editors into Kanboard in order to conveniently edit and preview the markdown textareas, as well as render the markdown fields in the Kanboard interface. Each editor may allow for different customizations of functionality, MD features, and UI themes. Rendering can parametrize theme, code highlight, and background transparency.",
-        "download": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor/releases/download/v0.9.6/WysiwygMDEditor-0.9.6.zip",
+        "download": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor/releases/download/v0.9.7/WysiwygMDEditor-0.9.7.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor",
         "is_type": "plugin",
-        "last_updated": "2024-07-29",
+        "last_updated": "2025-03-29",
         "license": "MIT",
         "readme": "https://github.com/imfx77/kanboard-plugin-Wysiwyg-MD-Editor/blob/master/README.md",
         "remote_install": true,
         "title": "WysiwygMDEditor",
-        "version": "0.9.6"
+        "version": "0.9.7"
     },
     "zulip": {
         "author": "Peter Fejer",
