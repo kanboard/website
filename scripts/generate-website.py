@@ -306,7 +306,7 @@ INDEX_TEMPLATE = """
         <dt>Visual and clear overview of your tasks</dt>
         <dd>
             The Kanban board is the best way to know the current status of a project because it's visual.
-            It's very easy to understand, there is nothing to explain and no training is required.
+            It's very easy to understand - there is nothing to explain and no training is required.
         </dd>
         <dt>Drag and drop tasks between columns easily</dt>
         <dd>
@@ -365,7 +365,7 @@ INDEX_TEMPLATE = """
 
 <section id="donations">
     <h2>Donations</h2>
-    <p>If you are using Kanboard every day at your company, consider making a small donation.</p>
+    <p>If you use Kanboard every day at your company, please consider making a donation.</p>
 
 <h3>LiberaPay</h3>
 <p><a href="https://liberapay.com/Kanboard/">Make a donation to Kanboard on LiberaPay</a>.</p>
@@ -385,7 +385,7 @@ PLUGINS_TEMPLATE = """
     <p>You can extend the features of Kanboard by installing some extensions.</p>
     <p>
         <em>
-            There is no approval process and code review.
+            There is no approval process or code review.
             This is up to you to validate the compatibility of these plugins with your Kanboard instance.
         </em>
     </p>
@@ -393,7 +393,7 @@ PLUGINS_TEMPLATE = """
         type="text"
         id="pluginsfilter_input"
         onkeyup="pluginFilter()"
-        placeholder="Search for plugin.."
+        placeholder="Search for plugins..."
         title="Search input for plugin filter"
     >
 </div>
