@@ -181,7 +181,7 @@ PAGE_TEMPLATE = """
     <header>
         <nav>
             <a href="/">Home</a>
-            <a href="/#donations">Donations</a>
+            <a href="/donations.html">Donations</a>
             <a href="/releases.html">Releases</a>
             <a href="https://github.com/kanboard/">Repositories</a>
             <a href="/plugins.html">Plugins</a>
@@ -362,21 +362,6 @@ INDEX_TEMPLATE = """
         </dd>
     </dl>
 </section>
-
-<section id="donations">
-    <h2>Donations</h2>
-    <p>If you use Kanboard every day at your company, please consider making a donation.</p>
-
-<h3>LiberaPay</h3>
-<p><a href="https://liberapay.com/Kanboard/">Make a donation to Kanboard on LiberaPay</a>.</p>
-
-<h3>PayPal</h3>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="RCQNQETNVHRJ4">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal Donation">
-    </form>
-</section>
 """
 
 PLUGINS_TEMPLATE = """
@@ -440,6 +425,23 @@ PLUGIN_TEMPLATE = """
         </ul>
     </dd>
 </div>
+"""
+
+DONATIONS_TEMPLATE = """
+<section id="donations">
+    <h1>Donations</h1>
+    <p>If you use Kanboard every day at your company, please consider making a donation.</p>
+
+    <h2>LiberaPay</h2>
+    <p><a href="https://liberapay.com/Kanboard/">Make a donation to Kanboard on LiberaPay</a>.</p>
+
+    <h2>PayPal</h2>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="RCQNQETNVHRJ4">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal Donation">
+    </form>
+</section>
 """
 
 
@@ -567,6 +569,10 @@ def generate_plugins_document(plugin_file: str) -> str:
     )
 
 
+def generate_donations_document() -> str:
+    return generate_html_document("Donations", DONATIONS_TEMPLATE)
+
+
 def main():
     shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -580,6 +586,10 @@ def main():
     print("Generate plugins page")
     with open(f"{OUTPUT_DIR}/plugins.html", "w", encoding="utf-8") as f:
         f.write(generate_plugins_document("plugins.json"))
+
+    print("Generate donations page")
+    with open(f"{OUTPUT_DIR}/donations.html", "w", encoding="utf-8") as f:
+        f.write(generate_donations_document())
 
     print("Copy assets")
     shutil.copytree("assets", f"{OUTPUT_DIR}/assets")
