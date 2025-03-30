@@ -174,6 +174,11 @@ PAGE_TEMPLATE = """
     <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/touch-icon-iphone-retina.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/touch-icon-ipad-retina.png">
     <link rel="alternate" type="application/atom+xml" title="Kanboard Releases" href="/releases.xml">
+    <meta property="og:title" content="{title}">
+    <meta property="og:description" content="{description}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{url}">
+    <meta property="og:image" content="https://kanboard.org/assets/img/touch-icon-ipad-retina.png">
     <title>{title}</title>
     <style>{stylesheet}</style>
 </head>
@@ -455,9 +460,18 @@ def convert_markdown_to_html(content: str) -> str:
     return markdown.Markdown().convert(content)
 
 
-def generate_html_document(title: str, content: str) -> str:
+def generate_html_document(
+    title: str,
+    content: str,
+    description: str = "Kanboard is a free and open source Kanban project management software.",
+    url: str = "https://kanboard.org/",
+) -> str:
     return PAGE_TEMPLATE.format(
-        stylesheet=STYLESHEET, title=html.escape(title), body=content
+        stylesheet=STYLESHEET,
+        title=html.escape(title),
+        body=content,
+        description=description,
+        url=html.escape(url),
     ).strip()
 
 
@@ -466,6 +480,17 @@ def generate_index_document() -> str:
 
 
 def generate_release_document(metadata: dict, content: str) -> str:
+    release_url = f"https://kanboard.org/releases/{metadata.get('release_type')}/{metadata.get('release_version')}.html"
+
+    if metadata.get("release_type") == "python-api-client":
+        release_description = (
+            f"Python API Client {metadata.get('release_version', '')} release notes"
+        )
+    else:
+        release_description = (
+            f"Kanboard {metadata.get('release_version', '')} release notes"
+        )
+
     body = RELEASE_TEMPLATES[metadata["release_type"]].format(
         stylesheet=STYLESHEET,
         title=html.escape(metadata.get("title", "")),
@@ -474,7 +499,12 @@ def generate_release_document(metadata: dict, content: str) -> str:
         release_date_in_english=metadata.get("release_date", "").strftime("%B %d, %Y"),
         markdown_content=convert_markdown_to_html(content),
     )
-    return generate_html_document(metadata.get("title", ""), body)
+    return generate_html_document(
+        metadata.get("title", ""),
+        body,
+        release_description,
+        release_url,
+    )
 
 
 def generate_release_index(release_docs: list) -> str:
@@ -489,7 +519,12 @@ def generate_release_index(release_docs: list) -> str:
         title=page_title,
         release_list=release_list,
     )
-    return generate_html_document(page_title, body)
+    return generate_html_document(
+        title=page_title,
+        content=body,
+        description="Kanboard and Python API Client release notes",
+        url="https://kanboard.org/releases.html",
+    )
 
 
 def generate_release_documents(content_dir: str, output_dir: str) -> None:
@@ -566,11 +601,18 @@ def generate_plugins_document(plugin_file: str) -> str:
     return generate_html_document(
         title="Kanboard Plugins",
         content=PLUGINS_TEMPLATE.format(plugins_list="\n".join(plugins_html)),
+        description="Kanboard plugins list",
+        url="https://kanboard.org/plugins.html",
     )
 
 
 def generate_donations_document() -> str:
-    return generate_html_document("Donations", DONATIONS_TEMPLATE)
+    return generate_html_document(
+        "Donations",
+        DONATIONS_TEMPLATE,
+        description="Kanboard donations page",
+        url="https://kanboard.org/donations.html",
+    )
 
 
 def main():
