@@ -1138,6 +1138,23 @@
         "title": "Instant Actions for Kanboard Tasks",
         "version": "1.0.0"
     },
+    "irccat": {
+        "author": "Lisa Marie Maginnis",
+        "compatible_version": ">=1.0.37",
+        "description": "Send Kanboard notifications to IRC via the [irccat bot](https://github.com/irccloud/irccat).",
+        "download": "https://github.com/e-lisa/plugin-irccat/commits/v1.0.0",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/e-lisa/plugin-irccat/releases/tag/v1.0.0",
+        "is_type": "plugin",
+        "last_updated": "2025-05-22",
+        "license": "MIT",
+        "readme": "https://github.com/e-lisa/plugin-irccat/blob/main/README.md",
+        "remote_install": true,
+        "title": "irccat",
+        "version": "1.0.0"
+    },
     "jabber": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.37",
