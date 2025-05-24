@@ -2536,18 +2536,18 @@
         "author": "lastlink",
         "compatible_version": ">=1.0.37",
         "description": "Wiki to document projects.",
-        "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.4.0/Wiki-0.4.0.zip",
+        "download": "https://github.com/funktechno/kanboard-plugin-wiki/releases/download/0.4.1/Wiki-0.4.1.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/funktechno/kanboard-plugin-wiki",
         "is_type": "plugin",
-        "last_updated": "2024-08-19",
+        "last_updated": "2025-05-23",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/funktechno/kanboard-plugin-wiki/master/README.md",
         "remote_install": true,
         "title": "Wiki",
-        "version": "0.4.0"
+        "version": "0.4.1"
     },
     "WysiwygMDEditor": {
         "author": "Im[F(x)]",
