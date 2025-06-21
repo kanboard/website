@@ -1512,6 +1512,23 @@
         "title": "MinimizeSidebar",
         "version": "1.1.2"
     },
+    "ModelContextProtocol": {
+        "author": "Christian Starr",
+        "compatible_version": ">=1.2.0",
+        "description": "Transform Kanboard into an AI-powered project management powerhouse! Enables complete control through Model Context Protocol (MCP) for AI assistants like Cursor and Claude with 26 comprehensive tools.",
+        "download": "https://github.com/ChristianJStarr/kanboard-mcp/releases/download/v1.0.0/ModelContextProtocol-1.0.0.zip",
+        "has_hooks": false,
+        "has_overrides": true,
+        "has_schema": true,
+        "homepage": "https://github.com/ChristianJStarr/kanboard-mcp",
+        "is_type": "plugin",
+        "last_updated": "2025-06-21",
+        "license": "MIT",
+        "readme": "https://github.com/ChristianJStarr/kanboard-mcp/blob/master/README.md",
+        "remote_install": true,
+        "title": "Model Context Protocol",
+        "version": "1.0.0"
+    },
     "moon": {
         "author": "Valentino Pesce",
         "compatible_version": ">=1.0.48",
