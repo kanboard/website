@@ -800,20 +800,20 @@
     },
     "gitea-webhook": {
         "author": "Chris Metz",
-        "compatible_version": ">=1.0.37",
+        "compatible_version": ">=1.2.31",
         "description": "Connect [Gitea](https://gitea.io/en-us/) webhook events to Kanboard Automatic Actions. \n \n ⚠️&nbsp; This plugin connects to a third party service.",
-        "download": "https://github.com/chriswep/plugin-gitea-webhook/releases/download/v1.1.2/GiteaWebhook-1.1.2.zip",
+        "download": "https://github.com/chriswep/plugin-gitea-webhook/releases/download/v1.2.0/GiteaWebhook-1.2.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/chriswep/plugin-gitea-webhook",
         "is_type": "connector",
-        "last_updated": "2020-12-17",
+        "last_updated": "2025-06-25",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/chriswep/plugin-gitea-webhook/master/README.md",
         "remote_install": true,
         "title": "Gitea Webhook",
-        "version": "1.1.2"
+        "version": "1.2.0"
     },
     "github-auth": {
         "author": "Frédéric Guillot",
