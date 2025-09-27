@@ -632,18 +632,18 @@
         "author": "Tomas Dittmann",
         "compatible_version": ">=1.2.32",
         "description": "This plugin adds a simple checklist to the taskview, similar to subtasks. Each entry consists of a title, a description and a toggleable '**done**' field. \n \n ⚠️&nbsp; Compatible with [MarkdownPlus](https://github.com/creecros/MarkdownPlus/releases)",
-        "download": "https://github.com/Chaosmeister/DefinitionOfDone/releases/download/1.3.0/DefinitionOfDone.zip",
+        "download": "https://github.com/Chaosmeister/DefinitionOfDone/releases/download/1.3.2/DefinitionOfDone.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/Chaosmeister/DefinitionOfDone",
         "is_type": "plugin",
-        "last_updated": "2023-08-29",
+        "last_updated": "2025-09-26",
         "license": "Unlicense",
         "readme": "https://github.com/Chaosmeister/DefinitionOfDone/blob/main/README.md",
         "remote_install": true,
         "title": "Definition of Done",
-        "version": "1.3.0"
+        "version": "1.3.2"
     },
     "duedate": {
         "author": "JustFxDev (Fx)",
