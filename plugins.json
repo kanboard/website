@@ -292,18 +292,18 @@
         "author": "Frédéric Guillot, Balázs Úr, Rainer Bielefeld",
         "compatible_version": ">=1.2.3",
         "description": "Broadcast Messages by WEB Popup or E-Mail",
-        "download": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/releases/download/1.1.1/Broadcast-1.1.1.zip",
+        "download": "https://github.com/RainerBielefeld/Broadcast/archive/refs/tags/broadcast.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
-        "homepage": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/",
+        "homepage": "https://github.com/RainerBielefeld/Broadcast",
         "is_type": "plugin",
-        "last_updated": "2024-11-22",
+        "last_updated": "2025-11-03",
         "license": "MIT",
-        "readme": "https://github.com/RainerBielefeld/KANBOARD-plugin-broadcast/blob/master/README.md",
+        "readme": "https://github.com/RainerBielefeld/Broadcast/blob/main/README.md",
         "remote_install": true,
         "title": "Broadcast",
-        "version": "1.1.1"
+        "version": "1.0.0"
     },
     "Budget": {
         "author": "Frédéric Guillot",
