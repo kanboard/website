@@ -273,20 +273,20 @@
     },
     "Boardcustomizer": {
         "author": "BlueTeck, Craig Crosby, Jake G",
-        "compatible_version": ">=1.2.10",
+        "compatible_version": ">=1.2.47",
         "description": "Customize the board and card style per user.",
-        "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/releases/download/v1.1.0/Boardcustomizer-1.1.0.zip",
+        "download": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer/releases/download/v1.1.1/Boardcustomizer-1.1.1.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/BlueTeck/kanboard_plugin_boardcustomizer",
         "is_type": "plugin",
-        "last_updated": "2022-06-30",
+        "last_updated": "2025-12-30",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/BlueTeck/kanboard_plugin_boardcustomizer/master/README.md",
         "remote_install": true,
         "title": "Boardcustomizer",
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     "Broadcast": {
         "author": "Frédéric Guillot, Balázs Úr, Rainer Bielefeld",
