@@ -457,7 +457,7 @@ def parse_markdown_file(filepath: str) -> frontmatter.Post:
 
 
 def convert_markdown_to_html(content: str) -> str:
-    return markdown.Markdown().convert(content)
+    return markdown.Markdown(tab_length=2).convert(content)
 
 
 def generate_html_document(
