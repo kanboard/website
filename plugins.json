@@ -886,19 +886,19 @@
     "github-webhook-plus": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.2.16",
-        "description": "Connect [GitHub](https://github.com) webhook events to Kanboard Automatic Actions. \n \n ⚠️  This plugin connects to a third party service.",
-        "download": "https://github.com/y9938/plugin-github-webhook-plus/releases/download/v1.1.2/GithubWebhookPlus-1.1.2.zip",
+        "description": "Connect [GitHub](https://github.com) webhook events to Kanboard Automatic Actions. \n \n ⚠️&nbsp; This plugin connects to a third party service.",
+        "download": "https://github.com/y9938/plugin-github-webhook-plus/releases/download/v1.2.0/GithubWebhookPlus-1.2.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/y9938/plugin-github-webhook-plus",
         "is_type": "connector",
-        "last_updated": "2026-04-25",
+        "last_updated": "2026-04-29",
         "license": "MIT",
         "readme": "https://raw.githubusercontent.com/y9938/plugin-github-webhook-plus/main/README.md",
         "remote_install": true,
         "title": "Github Webhook Plus",
-        "version": "1.1.2"
+        "version": "1.2.0"
     },
     "gitlab-auth": {
         "author": "Frédéric Guillot",
