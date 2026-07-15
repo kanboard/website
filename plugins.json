@@ -1376,6 +1376,23 @@
         "title": "KangarooJump",
         "version": "1.2.0"
     },
+    "Kanteen": {
+        "author": "Zarafy Labs",
+        "compatible_version": ">=1.2.0",
+        "description": "Installable offline PWA for Kanboard with local editing and sync-on-reconnect. Works fully offline over your LAN — no cloud, no tunnel.",
+        "download": "https://github.com/Zarafy-labs/kanteen-offline-Kanboard/releases/download/v0.1.0/kanteen.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/Zarafy-labs/kanteen-offline-Kanboard",
+        "is_type": "plugin",
+        "last_updated": "2026-07-12",
+        "license": "MIT",
+        "readme": "https://github.com/Zarafy-labs/kanteen-offline-Kanboard/blob/main/README.md",
+        "remote_install": true,
+        "title": "Kanteen",
+        "version": "0.1.0"
+    },
     "mailgun": {
         "author": "Frédéric Guillot",
         "compatible_version": ">=1.0.40",
