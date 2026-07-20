@@ -1257,6 +1257,23 @@
         "title": "KanboardEmailHistory",
         "version": "2.7.0"
     },
+    "KanboardLogout": {
+        "author": "KanboardLogout",
+        "compatible_version": ">=1.2.20",
+        "description": "A simple, quick and dirty plugin to override the local /logout link with overlay. Instead of logging out Kanboard only, it will logout your OIDC source AND Kanboard (it still triggers /logout).",
+        "download": "https://github.com/PluginDeveloperName/MyPlugin/releases/download/v1.0/MyPlugin-1.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/vmario89/KanboardLogout",
+        "is_type": "plugin",
+        "last_updated": "2026-07-20",
+        "license": "MIT",
+        "readme": "https://github.com/vmario89/KanboardLogout/blob/master/README.md",
+        "remote_install": true,
+        "title": "KanboardLogout",
+        "version": "1.0.0"
+    },
     "KanboardEssentials": {
         "author": "Taeluf",
         "compatible_version": ">=1.2.0",
