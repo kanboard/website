@@ -662,6 +662,23 @@
         "title": "DiscordNotifier",
         "version": "1.0.0"
     },
+    "Drawio": {
+        "author": "Youssef BOUTALEB",
+        "compatible_version": ">=1.2.20",
+        "description": "Draw.io diagrams inside Kanboard Markdown. A fenced block tagged \"diagram\" is displayed as the diagram it describes, with a View full size action for every reader and an Edit action wherever Kanboard offers one for the surrounding text, and the Markdown toolbar gains an Insert diagram button that opens the draw.io editor. The Markdown field is the only storage: no database table, no document system, no separate permission model. The payload format is compatible with Wiki.js, so existing diagrams move between the two unchanged.",
+        "download": "https://github.com/youssefboutaleb/kanboard-plugin-drawio/releases/download/v0.2.0/Drawio-0.2.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/youssefboutaleb/kanboard-plugin-drawio",
+        "is_type": "plugin",
+        "last_updated": "2026-08-19",
+        "license": "MIT",
+        "readme": "https://github.com/youssefboutaleb/kanboard-plugin-drawio/blob/main/README.md",
+        "remote_install": true,
+        "title": "Draw.io Diagrams",
+        "version": "0.2.0"
+    },
     "duedate": {
         "author": "JustFxDev (Fx)",
         "compatible_version": ">=1.2.5",
