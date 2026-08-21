@@ -207,7 +207,7 @@
         "author": "Matthieu Fereyre",
         "compatible_version": ">=1.2.29",
         "description": "A calm, high-contrast skin for both themes. Card colours become readable instead of decorative: the type colour moves off the text's background and onto a bar at the leading edge, and tags become pills carrying their own fill and ink. Task descriptions and comments get a real typographic scale, with coloured headings, inline code in its own ink and tinted callouts. The application header and the project toolbar stay on screen while the content scrolls under them. Every colour pair the stylesheet paints is measured against WCAG AA, and the sixteen task colours are checked against each other in CIEDE2000 so two cards side by side tell themselves apart. Fonts are bundled and served by your own instance, with no request to Google Fonts.",
-        "download": "https://github.com/MatthieuFereyre/AzimuthSkin/releases/download/v1.0.1/AzimuthSkin-1.0.1.zip",
+        "download": "https://github.com/MatthieuFereyre/AzimuthSkin/releases/download/v1.0.2/AzimuthSkin-1.0.2.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
@@ -218,7 +218,7 @@
         "readme": "https://github.com/MatthieuFereyre/AzimuthSkin/blob/master/README.md",
         "remote_install": true,
         "title": "AzimuthSkin",
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "backlog": {
         "author": "vistree + creecros",
