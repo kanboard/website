@@ -798,6 +798,23 @@
         "title": "extendedMail",
         "version": "0.8.0"
     },
+    "FileInteractionCore": {
+        "author": "Youssef BOUTALEB",
+        "compatible_version": ">=1.2.23",
+        "description": "Preview and edit task attachments without leaving Kanboard. Renders Word, PowerPoint, Excel, PDF, CSV, Markdown, HTML, JSON and source code in a modal, with an in-browser editor for text, code, CSV and spreadsheet attachments. Every format is parsed in pure PHP and escaped before display; images, audio and video are left to Kanboard's own viewers.",
+        "download": "https://github.com/youssefboutaleb/kanboard-file-attachment-interaction/releases/download/v1.1.1/FileInteractionCore-1.1.1.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/youssefboutaleb/kanboard-file-attachment-interaction",
+        "is_type": "plugin",
+        "last_updated": "2026-08-18",
+        "license": "MIT",
+        "readme": "https://github.com/youssefboutaleb/kanboard-file-attachment-interaction/blob/main/README.md",
+        "remote_install": true,
+        "title": "File Interaction Core",
+        "version": "1.1.1"
+    },
     "FontSwitcher": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
@@ -1715,6 +1732,23 @@
         "remote_install": true,
         "title": "Notes",
         "version": "1.0.1"
+    },
+    "NotionSync": {
+        "author": "HyperNextPlus SAS",
+        "compatible_version": ">=1.2.0",
+        "description": "Creates a page in a Notion database when a task is created and keeps its title synchronized. Includes per-project property mapping, a queue for pending syncs and a cron command.",
+        "download": "https://github.com/HyperNextPlus/NotionSync/releases/download/v0.0.1/NotionSync-0.0.1.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": true,
+        "homepage": "https://github.com/HyperNextPlus/NotionSync",
+        "is_type": "connector",
+        "last_updated": "2026-08-15",
+        "license": "MIT",
+        "readme": "https://github.com/HyperNextPlus/NotionSync/blob/main/README.md",
+        "remote_install": true,
+        "title": "NotionSync",
+        "version": "0.0.1"
     },
     "oauth2": {
         "author": "Frédéric Guillot",
