@@ -2702,6 +2702,23 @@
         "title": "WeKanboard",
         "version": "1.0.2"
     },
+    "Whisper": {
+        "author": "izzipizzy",
+        "compatible_version": ">=1.2.54",
+        "description": "Create Kanboard tasks from Telegram voice notes using local Whisper, with optional DeepSeek/OpenRouter normalization. Requires companion speech and polling services; see installation instructions.",
+        "download": "https://github.com/izzipizzy/kanboard-whisper/releases/download/v0.1.0/Whisper-0.1.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": true,
+        "homepage": "https://github.com/izzipizzy/kanboard-whisper",
+        "is_type": "connector",
+        "last_updated": "2026-09-11",
+        "license": "MIT",
+        "readme": "https://github.com/izzipizzy/kanboard-whisper/blob/main/README.md",
+        "remote_install": false,
+        "title": "Telegram Whisper",
+        "version": "0.1.0"
+    },
     "wiki": {
         "author": "lastlink",
         "compatible_version": ">=1.0.37",
