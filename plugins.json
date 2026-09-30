@@ -2209,6 +2209,23 @@
         "title": "StartedDateOnCard",
         "version": "1.3.0"
     },
+    "StatusReport": {
+        "author": "OrkFlowTech",
+        "compatible_version": ">=1.2.50",
+        "description": "Classify comments as status reports and expose the current status of a task.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-statusreport/releases/download/v1.0.0/StatusReport-1.0.0.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": true,
+        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-statusreport",
+        "is_type": "plugin",
+        "last_updated": "2026-09-30",
+        "license": "MIT",
+        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-statusreport/blob/main/README.md",
+        "remote_install": true,
+        "title": "StatusReport",
+        "version": "1.0.0"
+    },
     "subtaskdate": {
         "author": "Manuel Raposo & Craig Crosby",
         "compatible_version": ">=1.0.34",
