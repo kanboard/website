@@ -135,6 +135,23 @@
         "title": "Assign due date when moving cards to specified column",
         "version": "1.0.0"
     },
+    "AsyntaiChatbot": {
+        "author": "Asyntai",
+        "compatible_version": ">=1.2.20",
+        "description": "AI chat assistant for Kanboard. It answers your users around the clock, in their language, and turns support tickets from your website chat into Kanboard tasks with the whole conversation.",
+        "download": "https://github.com/asyntai/kanboard-ai-chatbot/releases/download/v1.0.0/AsyntaiChatbot-1.0.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/asyntai/kanboard-ai-chatbot",
+        "is_type": "plugin",
+        "last_updated": "2026-10-10",
+        "license": "MIT",
+        "readme": "https://github.com/asyntai/kanboard-ai-chatbot/blob/main/README.md",
+        "remote_install": true,
+        "title": "Asyntai AI Chatbot",
+        "version": "1.0.0"
+    },
     "AttachDocumentsforViewers": {
         "author": "Franklin Hernandez",
         "compatible_version": ">=1.2.5",
