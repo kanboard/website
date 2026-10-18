@@ -1,20 +1,20 @@
 {
     "AddressBook": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
-        "description": "Use the dedicated Address Book to create and manage contacts or organisations in projects and tasks. Add custom properties to standardise a deeper relationship between tasks and people or places. \n \n Contacts can be linked exclusively to tasks in a project. Users can sort their contact properties to show the first 3 properties (e.g. name, number and email) for quick reference from the task summary and the project board view.",
-        "download": "https://github.com/aljawaid/AddressBook/releases/download/v1.3/AddressBook-1.3.zip",
+        "compatible_version": ">=1.2.54",
+        "description": "Use the dedicated Address Book to create and manage contacts or organisations in a global directory. Assign contacts to individual projects before linking them to project tasks. Add custom properties to standardise a deeper relationship between tasks and people or places. \n \n Users can sort their contact properties to show the first 3 properties (e.g. name, number and email) for quick reference from the task summary and the project board view.",
+        "download": "https://github.com/aljawaid/AddressBook/releases/download/v1.4.0/AddressBook-1.4.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
         "homepage": "https://github.com/aljawaid/AddressBook",
         "is_type": "plugin",
-        "last_updated": "2023-07-04",
+        "last_updated": "2026-10-18",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/AddressBook/blob/master/README.md",
         "remote_install": true,
         "title": "AddressBook",
-        "version": "1.3.0"
+        "version": "1.4.0"
     },
     "AddShortcuts": {
         "author": "Tagirijus",
@@ -54,35 +54,35 @@
         "author": "aljawaid",
         "compatible_version": ">=1.2.20",
         "description": "Agile Indicators display the measurements for Task Priorities and Task Complexities in an easy to use general format. Task Priorities are scaled between P1 and P5 whilst Task Complexities are scored as 0-50.",
-        "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.4/AgileIndicators-1.4.zip",
+        "download": "https://github.com/aljawaid/AgileIndicators/releases/download/v1.5.2/AgileIndicators-1.5.2.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/AgileIndicators",
         "is_type": "plugin",
-        "last_updated": "2023-08-09",
+        "last_updated": "2026-10-18",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/AgileIndicators/blob/master/README.md",
         "remote_install": true,
         "title": "AgileIndicators",
-        "version": "1.4.0"
+        "version": "1.5.2"
     },
     "ApplicationBranding": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "This plugin will rename your installation to 'My Workspace' (or a custom name) and include matching device favicons, description and logo in the site metadata for a better user experience. \n \n Users will experience a revamped login page, security page and password reminder page, with a new Admin Dashboard showing global installation activity data with corrected page titles will give a more professional appeal across the site and when sharing links.",
-        "download": "https://github.com/aljawaid/ApplicationBranding/releases/download/v4.0/ApplicationBranding-4.0.zip",
+        "download": "https://github.com/aljawaid/ApplicationBranding/releases/download/v5.0.4/ApplicationBranding-5.0.4.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/ApplicationBranding",
         "is_type": "plugin",
-        "last_updated": "2023-08-20",
+        "last_updated": "2026-10-18",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/ApplicationBranding/blob/master/README.md",
         "remote_install": true,
         "title": "ApplicationBranding",
-        "version": "4.0.0"
+        "version": "5.0.4"
     },
     "assigncategory": {
         "author": "David Morlitz",
