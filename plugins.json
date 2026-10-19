@@ -188,20 +188,20 @@
     },
     "AutomaticActionUX": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "This plugin gives the Automatic Action interface a complete makeover to make it more user friendly. Particularly useful for visual learners and non-English speaking users, this plugin adds a quick glance of Actions on the board avoiding careless drag-happy mistakes.",
-        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v2.6/AutomaticActionUX-2.6.zip",
+        "download": "https://github.com/aljawaid/AutomaticActionUX/releases/download/v3.0.3/AutomaticActionUX-3.0.3.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/AutomaticActionUX",
         "is_type": "plugin",
-        "last_updated": "2023-05-21",
+        "last_updated": "2026-10-19",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/AutomaticActionUX/blob/master/README.md",
         "remote_install": true,
         "title": "AutomaticActionUX",
-        "version": "2.6.0"
+        "version": "3.0.3"
     },
     "autosubtasks": {
         "author": "Craig Crosby",
@@ -321,6 +321,23 @@
         "remote_install": true,
         "title": "Boardcustomizer",
         "version": "1.1.1"
+    },
+    "BoardNotes": {
+        "author": "TTJ",
+        "compatible_version": ">=1.2.54",
+        "description": "BoardNotes adds private, project-specific notes to Kanboard. Notes can remain informal or be converted into tasks when they are ready for action.",
+        "download": "https://github.com/aljawaid/BoardNotes/releases/download/v1.0.1/BoardNotes-1.0.1.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": true,
+        "homepage": "https://github.com/aljawaid/BoardNotes",
+        "is_type": "plugin",
+        "last_updated": "2026-10-19",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/BoardNotes/blob/master/README.md",
+        "remote_install": true,
+        "title": "BoardNotes",
+        "version": "1.0.1"
     },
     "Broadcast": {
         "author": "Frédéric Guillot, Balázs Úr, Rainer Bielefeld",
@@ -443,20 +460,20 @@
     },
     "ColorManager": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
-        "description": "Use a new way to utilise colors to their full potential in Kanboard.  Choose from 3 color palettes or create your own. Across all palettes, choose from over 85 colors to match your workflow across the entire interface.",
-        "download": "https://github.com/aljawaid/ColorManager/releases/download/v3.7/ColorManager-3.7.zip",
-        "has_hooks": false,
+        "compatible_version": ">=1.2.54",
+        "description": "A new way to utilise colors to their full potential in Kanboard.  Choose from 3 color palettes or create your own. Across all palettes, choose from over 85 colors to match your workflow across the interface.",
+        "download": "https://github.com/aljawaid/ColorManager/releases/download/v3.8.4/ColorManager-3.8.4.zip",
+        "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/ColorManager",
         "is_type": "plugin",
-        "last_updated": "2023-05-21",
+        "last_updated": "2026-10-19",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/ColorManager/blob/master/README.md",
         "remote_install": true,
         "title": "ColorManager",
-        "version": "3.7.0"
+        "version": "3.8.4"
     },
     "comment-tooltip": {
         "author": "Enrico Frigo",
