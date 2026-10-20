@@ -545,20 +545,20 @@
     },
     "ContentCleaner": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "This tool allows admins to cleanup their Kanboard database by selectively deleting useless data saved by Kanboard and leftover data after uninstalling plugins. Keep your database clean and free from cluttered and expired data using cleaning jobs to solve specific application issues.",
-        "download": "https://github.com/aljawaid/ContentCleaner/releases/download/v1.0/ContentCleaner-1.0.zip",
+        "download": "https://github.com/aljawaid/ContentCleaner/releases/download/v2.0.6/ContentCleaner-2.0.6.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/ContentCleaner",
         "is_type": "plugin",
-        "last_updated": "2023-08-22",
+        "last_updated": "2026-10-20",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/ContentCleaner/blob/master/README.md",
         "remote_install": true,
         "title": "ContentCleaner",
-        "version": "1.0.0"
+        "version": "2.0.6"
     },
     "CostControl": {
         "author": "aljawaid",
