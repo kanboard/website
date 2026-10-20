@@ -1395,20 +1395,20 @@
     },
     "KanboardSkeletonPlugin": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "This template repository is the basic structure of a Kanboard Plugin. Download and use any part of this repository to create and develop your own Kanboard plugin. Developers should use the live repository instead of the latest release for the most up to date changes.",
-        "download": "https://github.com/aljawaid/KanboardSkeletonPlugin/archive/refs/tags/v5.0.zip",
+        "download": "https://github.com/aljawaid/KanboardSkeletonPlugin/archive/refs/tags/v6.0.zip",
         "has_hooks": false,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardSkeletonPlugin",
         "is_type": "plugin",
-        "last_updated": "2023-05-04",
+        "last_updated": "2026-10-20",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/KanboardSkeletonPlugin/blob/master/README.md",
         "remote_install": false,
         "title": "KanboardSkeletonPlugin",
-        "version": "5.0.0"
+        "version": "6.0.0"
     },
     "KanboardSupport": {
         "author": "aljawaid",
