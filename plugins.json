@@ -1939,20 +1939,20 @@
     },
     "PluginManager": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "Use an improved user-friendly layout for handling plugins. All plugins are broken down into a new structure to help users troubleshoot plugin-related problems. New features include listing and installing Manual Plugins both locally and remotely. \n \n The new Plugin Problems section lists information on how to troubleshoot issues with plugins adding quick links to [KanboardSupport](https://github.com/aljawaid/KanboardSupport) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner) to extend troubleshooting the whole application. \n \n **Make PluginManager your must-have plugin to extend Kanboard more efficiently.**",
-        "download": "https://github.com/aljawaid/PluginManager/releases/download/v4.7/PluginManager-4.7.zip",
+        "download": "https://github.com/aljawaid/PluginManager/releases/download/v5.0.1/PluginManager-5.0.1.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/PluginManager",
         "is_type": "plugin",
-        "last_updated": "2023-09-26",
+        "last_updated": "2026-10-20",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/PluginManager/blob/master/README.md",
         "remote_install": true,
         "title": "PluginManager",
-        "version": "4.7.0"
+        "version": "5.0.1"
     },
     "ProjectReports": {
         "author": "AHead",
