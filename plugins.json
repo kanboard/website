@@ -2073,6 +2073,23 @@
         "title": "Relationgraph",
         "version": "0.3.1"
     },
+    "Reporting": {
+        "author": "TTJ, maintained by aljawaid",
+        "compatible_version": ">=1.2.54",
+        "description": "Track personal project budgets, usage entries and printable summaries.",
+        "download": "https://github.com/aljawaid/Reporting/releases/download/v1.0.3/Reporting-1.0.3.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": true,
+        "homepage": "https://github.com/aljawaid/Reporting",
+        "is_type": "plugin",
+        "last_updated": "2026-10-20",
+        "license": "MIT",
+        "readme": "https://github.com/aljawaid/Reporting/blob/master/README.md",
+        "remote_install": true,
+        "title": "Reporting",
+        "version": "1.0.3"
+    },
     "rocketchat": {
         "author": "Frédéric Guillot, Olivier Maridat",
         "compatible_version": ">=1.0.37",
