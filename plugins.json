@@ -1412,20 +1412,20 @@
     },
     "KanboardSupport": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "Display the environment and configuration settings of your Kanboard instance all from one dedicated page. View and compare all options from the config file directly from the interface. Users will benefit from identifying problems caused by missing extensions and server misconfigurations without needing backend access to the server. \n \n Made for both regular users and administrators, this privacy and user friendly plugin provides a range of features including integrated webhook documentation, downloading backup copies of the config file and and displaying, downloading or deleting the debug log file. \n \n Works smoothly with [PluginManager](https://github.com/aljawaid/PluginManager) and [ContentCleaner](https://github.com/aljawaid/ContentCleaner).",
-        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v4.5/KanboardSupport-4.5.zip",
+        "download": "https://github.com/aljawaid/KanboardSupport/releases/download/v4.5.2/KanboardSupport-4.5.2.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/KanboardSupport",
         "is_type": "plugin",
-        "last_updated": "2023-10-11",
+        "last_updated": "2026-10-20",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/KanboardSupport/blob/master/README.md",
         "remote_install": true,
         "title": "KanboardSupport",
-        "version": "4.5.0"
+        "version": "4.5.2"
     },
     "Kanext": {
         "author": "Cristi Draghici",
