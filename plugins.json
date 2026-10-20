@@ -2687,20 +2687,20 @@
     },
     "URLCleaner": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "This simple tool extends the rewriting of browser URLs for your Kanboard application. Sanitize those long URLs automatically creating neat pretty easy to remember bookmarks. This plugin extends URLs from the core and from plugins. Works with [Bigboard](https://github.com/TimoStahl/kanboard_plugin_bigboard), [Wiki](https://github.com/funktechno/kanboard-plugin-wiki), [Calendar](https://github.com/kanboard/plugin-calendar), [MetaMagik](https://github.com/creecros/MetaMagik) plugins. \n \n ⚠️&nbsp; URL Rewriting must be [correctly configured](https://docs.kanboard.org/v1/admin/url-rewriting/) for this plugin to function properly.",
-        "download": "https://github.com/aljawaid/URLCleaner/releases/download/v2.0/URLCleaner-2.0.zip",
-        "has_hooks": false,
+        "download": "https://github.com/aljawaid/URLCleaner/releases/download/v3.0.3/URLCleaner-3.0.3.zip",
+        "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/aljawaid/URLCleaner",
         "is_type": "plugin",
-        "last_updated": "2023-10-01",
+        "last_updated": "2026-10-20",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/URLCleaner/blob/master/README.md",
         "remote_install": true,
         "title": "URLCleaner",
-        "version": "2.0.0"
+        "version": "3.0.3"
     },
     "VisibleDescription": {
         "author": "MarcosBL",
