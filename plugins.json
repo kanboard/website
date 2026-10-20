@@ -562,20 +562,20 @@
     },
     "CostControl": {
         "author": "aljawaid",
-        "compatible_version": ">=1.2.20",
+        "compatible_version": ">=1.2.54",
         "description": "Use the new Cost Control section to enable currencies and budgeting in Kanboard. Get live currency rates automatically for over 120 currencies allowing users to compare with manually saved rates. Using this plugin enables projects to have an associated cost element.  \n \n ⚠️&nbsp; This plugin _replaces and extends_ the features from the original [Budget](https://github.com/kanboard/plugin-budget) plugin.",
-        "download": "https://github.com/aljawaid/CostControl/releases/download/v1.2/CostControl-1.2.zip",
+        "download": "https://github.com/aljawaid/CostControl/releases/download/v1.2.6/CostControl-1.2.6.zip",
         "has_hooks": true,
         "has_overrides": true,
         "has_schema": true,
         "homepage": "https://github.com/aljawaid/CostControl",
         "is_type": "plugin",
-        "last_updated": "2023-08-21",
+        "last_updated": "2026-10-20",
         "license": "MIT",
         "readme": "https://github.com/aljawaid/CostControl/blob/master/README.md",
         "remote_install": true,
         "title": "CostControl",
-        "version": "1.2.0"
+        "version": "1.2.6"
     },
     "coverimage": {
         "author": "BlueTeck + creecros",
