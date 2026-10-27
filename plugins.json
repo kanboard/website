@@ -2090,6 +2090,23 @@
         "title": "Reporting",
         "version": "1.0.3"
     },
+    "Rgpd": {
+    "author": "Ludovic FRANCOIS (LINAGORA)",
+    "compatible_version": ">=1.2.20",
+    "description": "GDPR toolbox: footer with legal links/PDFs and automatic purge of inactive user accounts.",
+    "download": "https://github.com/parazoom/kanboard-plugin-rgpd/releases/download/v1.0.0/Rgpd-1.0.0.zip",
+    "has_hooks": true,
+    "has_overrides": true,
+    "has_schema": true,
+    "homepage": "https://github.com/parazoom/kanboard-plugin-rgpd",
+    "is_type": "plugin",
+    "last_updated": "2026-10-27",
+    "license": "MIT",
+    "readme": "https://raw.githubusercontent.com/parazoom/kanboard-plugin-rgpd/main/README.md",
+    "remote_install": true,
+    "title": "Rgpd",
+    "version": "1.0.0"
+    },
     "rocketchat": {
         "author": "Frédéric Guillot, Olivier Maridat",
         "compatible_version": ">=1.0.37",
