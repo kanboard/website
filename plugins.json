@@ -2311,6 +2311,23 @@
         "title": "SubtaskDescription",
         "version": "1.1.1"
     },
+    "SubtaskListDate": {
+        "author": "Nils Schmidt",
+        "compatible_version": ">=1.2.38",
+        "description": "Shows subtask due dates in the project list view, sorts tasks by the earliest open subtask due date and can highlight overdue subtasks. Requires the SubtaskDueDate plugin.",
+        "download": "https://github.com/nilsemann/SubtaskListDate/releases/download/v1.1.0/SubtaskListDate-1.1.0.zip",
+        "has_hooks": true,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/nilsemann/SubtaskListDate",
+        "is_type": "plugin",
+        "last_updated": "2026-10-27",
+        "license": "MIT",
+        "readme": "https://github.com/nilsemann/SubtaskListDate/blob/main/README.md",
+        "remote_install": true,
+        "title": "SubtaskListDate",
+        "version": "1.1.0"
+    },
     "SubtasksOnBoard": {
         "author": "JustFxDev (Fx), rfde",
         "compatible_version": ">=1.2.20",
