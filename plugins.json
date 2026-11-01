@@ -2141,6 +2141,23 @@
         "title": "Amazon S3 Storage",
         "version": "1.0.5"
     },
+    "ScheduleExport": {
+        "author": "OrkFlowTech",
+        "compatible_version": ">=1.2.30",
+        "description": "Export Kanboard project schedules to Microsoft Project XML (MSPDI), including hierarchical tasks, persistent native subtask dates, and date preservation when converting subtasks into tasks.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/releases/download/v0.4.1/ScheduleExport-0.4.1.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": true,
+        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export",
+        "is_type": "plugin",
+        "last_updated": "2026-11-01",
+        "license": "MIT",
+        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/blob/main/README.md",
+        "remote_install": true,
+        "title": "Schedule Export",
+        "version": "0.4.1"
+    },
     "search": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
         "compatible_version": ">=1.2.5",
@@ -2259,23 +2276,6 @@
         "remote_install": true,
         "title": "Starred Projects",
         "version": "0.5.0"
-    },
-    "ScheduleExport": {
-        "author": "OrkFlowTech",
-        "compatible_version": ">=1.2.30",
-        "description": "Export Kanboard project schedules to Microsoft Project XML (MSPDI), including hierarchical tasks, persistent native subtask dates, and date preservation when converting subtasks into tasks.",
-        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/releases/download/v0.4.1/ScheduleExport-0.4.1.zip",
-        "has_hooks": true,
-        "has_overrides": false,
-        "has_schema": true,
-        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export",
-        "is_type": "plugin",
-        "last_updated": "2026-11-01",
-        "license": "MIT",
-        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/blob/main/README.md",
-        "remote_install": true,
-        "title": "Schedule Export",
-        "version": "0.4.1"
     },
     "StartedDateOnCard": {
         "author": "Tagirijus",
