@@ -2155,7 +2155,7 @@
         "license": "MIT",
         "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/blob/main/README.md",
         "remote_install": true,
-        "title": "Schedule Export",
+        "title": "Kanboard Schedule Export",
         "version": "0.4.1"
     },
     "search": {
