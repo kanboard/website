@@ -2144,8 +2144,8 @@
     "ScheduleExport": {
         "author": "OrkFlowTech",
         "compatible_version": ">=1.2.50",
-        "description": "Export Kanboard project schedules to Microsoft Project XML (MSPDI), with hierarchical tasks, optional planned dates at subtask creation, preserved dates on conversion, and English/Portuguese interface.",
-        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/releases/download/v0.5.0/ScheduleExport-0.5.0.zip",
+        "description": "Export Kanboard project schedules to Microsoft Project XML (MSPDI), with hierarchical tasks, planned and actual subtask dates, Kanboard completion synchronization, preserved time tracking, and English/Portuguese interface.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/releases/download/v0.6.1/ScheduleExport-0.6.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
@@ -2156,7 +2156,7 @@
         "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/blob/main/README.md",
         "remote_install": true,
         "title": "Kanboard Schedule Export",
-        "version": "0.5.0"
+        "version": "0.6.1"
     },
     "search": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
