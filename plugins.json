@@ -2141,22 +2141,22 @@
         "title": "Amazon S3 Storage",
         "version": "1.0.5"
     },
-    "ScheduleExport": {
+    "ScheduleExchange": {
         "author": "OrkFlowTech",
         "compatible_version": ">=1.2.50",
-        "description": "Export Kanboard project schedules to Microsoft Project XML (MSPDI), with hierarchical tasks, planned and actual subtask dates, Kanboard completion synchronization, preserved time tracking, and English/Portuguese interface.",
-        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/releases/download/v0.6.1/ScheduleExport-0.6.1.zip",
+        "description": "Plan native Kanboard subtasks, manage FS/SS/FF dependencies between tasks and subtasks (including SF and positive/negative lags), and export interoperable Microsoft Project XML (MSPDI) schedules.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange/releases/download/v0.1.0/ScheduleExchange-0.1.0.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
-        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export",
+        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange",
         "is_type": "plugin",
-        "last_updated": "2026-11-03",
+        "last_updated": "2026-11-08",
         "license": "MIT",
-        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-export/blob/main/README.md",
+        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange/blob/main/README.md",
         "remote_install": true,
-        "title": "Kanboard Schedule Export",
-        "version": "0.6.1"
+        "title": "Kanboard Schedule Exchange",
+        "version": "0.1.0"
     },
     "search": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
