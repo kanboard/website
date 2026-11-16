@@ -2145,18 +2145,18 @@
         "author": "OrkFlowTech",
         "compatible_version": ">=1.2.50",
         "description": "Plan native Kanboard subtasks, manage FS/SS/FF dependencies between tasks and subtasks (including SF and positive/negative lags), and export interoperable Microsoft Project XML (MSPDI) schedules.",
-        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange/releases/download/v0.1.0/ScheduleExchange-0.1.0.zip",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange/releases/download/v0.1.1/ScheduleExchange-0.1.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
         "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange",
         "is_type": "plugin",
-        "last_updated": "2026-11-08",
+        "last_updated": "2026-11-16",
         "license": "MIT",
         "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-schedule-exchange/blob/main/README.md",
         "remote_install": true,
         "title": "Kanboard Schedule Exchange",
-        "version": "0.1.0"
+        "version": "0.1.1"
     },
     "search": {
         "author": "Andrei Volgin, ipunkt Business Solutions",
