@@ -1512,6 +1512,23 @@
         "title": "Mailmagik",
         "version": "1.6.1"
     },
+    "MailToTask": {
+        "author": "OrkFlowTech",
+        "compatible_version": ">=1.2.50",
+        "description": "Create Kanboard tasks from Microsoft Outlook/Exchange .msg and .eml messages, preserving the original email and extracted attachments, with optional StatusReport integration and Portuguese/English interface.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask/releases/download/v1.0.0/MailToTask-1.0.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask",
+        "is_type": "plugin",
+        "last_updated": "2026-11-20",
+        "license": "MIT",
+        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask/blob/main/README.md",
+        "remote_install": true,
+        "title": "MailToTask - Outlook Email to Task",
+        "version": "1.0.0"
+    },
     "MarkdownPlus": {
         "author": "Craig Crosby & Tomas Dittmann",
         "compatible_version": ">=1.0.46",
