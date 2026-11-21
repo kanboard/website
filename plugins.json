@@ -1852,6 +1852,23 @@
         "title": "Offline",
         "version": "1.0.0"
     },
+    "OrkSearch": {
+        "author": "OrkFlowTech",
+        "compatible_version": ">=1.2.50",
+        "description": "Project-scoped search across tasks, comments, subtasks, tags and attachments with eight cumulative filters. Optional PDF/Office/text document-content indexing requires a separately configured Python worker. Portuguese and English interface.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-orksearch/releases/download/v1.0.0/OrkSearch-1.0.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-orksearch",
+        "is_type": "plugin",
+        "last_updated": "2026-11-20",
+        "license": "MIT",
+        "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-orksearch/blob/main/README.md",
+        "remote_install": true,
+        "title": "OrkSearch - Advanced Search & Filters for Kanboard",
+        "version": "1.0.0"
+    },
     "Outlook": {
         "author": "Siddharth Kaul",
         "compatible_version": ">=1.0.37",
