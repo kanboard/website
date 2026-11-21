@@ -1515,19 +1515,19 @@
     "MailToTask": {
         "author": "OrkFlowTech",
         "compatible_version": ">=1.2.50",
-        "description": "Create Kanboard tasks from Microsoft Outlook/Exchange .msg and .eml messages, preserving the original email and extracted attachments, with optional StatusReport integration and Portuguese/English interface.",
-        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask/releases/download/v1.0.0/MailToTask-1.0.0.zip",
+        "description": "Import Outlook/Exchange .msg/.eml emails as Kanboard tasks, preserving original messages and attachments. Optionally use StatusReport for Current Status and VisibleDescription to display it on Kanban cards. Portuguese/English interface.",
+        "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask/releases/download/v1.0.1/MailToTask-1.0.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": false,
         "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask",
         "is_type": "plugin",
-        "last_updated": "2026-11-20",
+        "last_updated": "2026-11-21",
         "license": "MIT",
         "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-mailtotask/blob/main/README.md",
         "remote_install": true,
         "title": "MailToTask - Outlook Email to Task",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "MarkdownPlus": {
         "author": "Craig Crosby & Tomas Dittmann",
