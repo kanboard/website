@@ -2884,7 +2884,7 @@
         "is_type": "plugin",
         "last_updated": "2026-11-21",
         "license": "MIT",
-        "readme": "https://raw.githubusercontent.com/funktechno/kanboard-plugin-wiki/dev/README.md",
+        "readme": "https://raw.githubusercontent.com/funktechno/kanboard-plugin-wiki/master/README.md",
         "remote_install": true,
         "title": "Wiki",
         "version": "0.5.2"
