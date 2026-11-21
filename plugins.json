@@ -1852,6 +1852,23 @@
         "title": "Offline",
         "version": "1.0.0"
     },
+    "OrkPdf": {
+            "author": "OrkFlowTech",
+            "compatible_version": ">=1.2.50",
+            "description": "Generate printable task reports and task inventories with customizable fields, Portuguese and English localization, and PDF print preview.",
+            "download": "https://github.com/cesarmarcelo-ork/kanboard-plugin-orkpdf/releases/download/v0.2.7-alpha/OrkPdf-0.2.7-alpha.zip",
+            "has_hooks": true,
+            "has_overrides": false,
+            "has_schema": false,
+            "homepage": "https://github.com/cesarmarcelo-ork/kanboard-plugin-orkpdf",
+            "is_type": "plugin",
+            "last_updated": "2026-11-21",
+            "license": "MIT",
+            "readme": "https://github.com/cesarmarcelo-ork/kanboard-plugin-orkpdf/blob/main/README.md",
+            "remote_install": true,
+            "title": "OrkPdf",
+            "version": "0.2.7-alpha"
+    },
     "OrkSearch": {
         "author": "OrkFlowTech",
         "compatible_version": ">=1.2.50",
