@@ -2774,18 +2774,18 @@
         "author": "Im[F(x)]",
         "compatible_version": ">=1.2.33",
         "description": "The plugin allows to keep TODO-style notes on every KB project and as standalone lists. The notes that may appear unsuitable for creating board tasks are totally fine for a custom TODO list. They are easy and fast to create, change and rearrange, with convenient visual aids and multiple useful features.",
-        "download": "https://github.com/imfx77/kanboard-plugin-TodoNotes/releases/download/v1.1.0/TodoNotes-1.1.0.zip",
+        "download": "https://github.com/imfx77/kanboard-plugin-TodoNotes/releases/download/v1.1.1/TodoNotes-1.1.1.zip",
         "has_hooks": true,
         "has_overrides": false,
         "has_schema": true,
         "homepage": "https://github.com/imfx77/kanboard-plugin-TodoNotes",
         "is_type": "plugin",
-        "last_updated": "2026-11-21",
+        "last_updated": "2026-11-24",
         "license": "MIT",
         "readme": "https://github.com/imfx77/kanboard-plugin-TodoNotes/blob/master/README.md",
         "remote_install": true,
         "title": "TodoNotes",
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     "updatenotifier": {
         "author": "Valentino Pesce",
