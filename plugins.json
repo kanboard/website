@@ -1393,6 +1393,23 @@
         "title": "Project Invitation",
         "version": "1.0.0"
     },
+    "KanboardSaaSCity": {
+        "author": "SaaSCity",
+        "compatible_version": ">=1.2.20",
+        "description": "Adds a SaaS Launch Readiness Checklist and technical SEO quick-tools panel to Kanboard project sidebars.",
+        "download": "https://github.com/best-directories/KanboardSaaSCity/releases/download/v1.0.0/KanboardSaaSCity-1.0.0.zip",
+        "has_hooks": true,
+        "has_overrides": false,
+        "has_schema": false,
+        "homepage": "https://github.com/best-directories/KanboardSaaSCity",
+        "is_type": "plugin",
+        "last_updated": "2026-11-27",
+        "license": "MIT",
+        "readme": "https://github.com/best-directories/KanboardSaaSCity/blob/main/README.md",
+        "remote_install": true,
+        "title": "KanboardSaaSCity",
+        "version": "1.0.0"
+    },
     "KanboardSkeletonPlugin": {
         "author": "aljawaid",
         "compatible_version": ">=1.2.54",
